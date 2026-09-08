@@ -1172,9 +1172,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::objectclickable
   sceneLoader: {fileID: 1043737893}
   mainCamera: {fileID: 267250053}
-  zoomSpeed: 5
+  zoomSpeed: 6
   rotationSpeed: 5
   stopDistance: 2
+  hoverColor: {r: 1, g: 1, b: 1, a: 0.5}
+  hoverEmissionIntensity: 0.5
 --- !u!1 &894043435
 GameObject:
   m_ObjectHideFlags: 0
@@ -1302,9 +1304,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::objectclickable
   sceneLoader: {fileID: 1043737893}
   mainCamera: {fileID: 267250053}
-  zoomSpeed: 5
+  zoomSpeed: 6
   rotationSpeed: 5
   stopDistance: 2
+  hoverColor: {r: 1, g: 1, b: 1, a: 0.5019608}
+  hoverEmissionIntensity: 0.5
 --- !u!1 &948311472
 GameObject:
   m_ObjectHideFlags: 0
