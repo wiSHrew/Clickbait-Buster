@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Spotify Premium",
+    "brand": "Spotify",
+    "description": "Listen to music without ads with Spotify Premium.",
+    "buttonText": "Try Premium",
+    "category": "Music",
+    "isFake": false
+  },
+  {
+    "id": 2,
+    "title": "YOU WON ₱50,000!",
+    "brand": "GCash Rewards",
+    "description": "Congratulations! Your GCash account has been randomly selected. Claim your ₱50,000 reward NOW!",
+    "buttonText": "CLAIM NOW",
+    "category": "Prize",
+    "isFake": true
+  },
+  {
+    "id": 3,
+    "title": "Steam Summer Sale",
+    "brand": "Steam",
+    "description": "Save up to 75% on thousands of games during the Steam Summer Sale.",
+    "buttonText": "Shop Now",
+    "category": "Gaming",
+    "isFake": false
+  },
+  {
+    "id": 4,
+    "title": "FREE iPhone 17 Pro MAX",
+    "brand": "Apple Giveaway",
+    "description": "You have been selected as today's lucky visitor! Answer 3 questions to receive your FREE iPhone.",
+    "buttonText": "GET IPHONE",
+    "category": "Giveaway",
+    "isFake": true
+  },
+  {
+    "id": 5,
+    "title": "GrabFood",
+    "brand": "Grab",
+    "description": "Get your favorite meals delivered straight to your door.",
+    "buttonText": "Order Now",
+    "category": "Food",
+    "isFake": false
+  },
+  {
+    "id": 6,
+    "title": "URGENT: Your Account Will Be Deleted",
+    "brand": "Facebook Security",
+    "description": "Your account has violated our community guidelines. Verify your account within 24 hours or it will be permanently deleted.",
+    "buttonText": "VERIFY ACCOUNT",
+    "category": "Security",
+    "isFake": true
+  },
+  {
+    "id": 7,
+    "title": "Canva Pro",
+    "brand": "Canva",
+    "description": "Design presentations, posters, social media posts, and more with Canva Pro.",
+    "buttonText": "Start Designing",
+    "category": "Software",
+    "isFake": false
+  },
+  {
+    "id": 8,
+    "title": "Your Phone Has 13 Viruses!",
+    "brand": "Android Security",
+    "description": "Our scan detected 13 dangerous viruses on your device. Install this security app immediately to protect your files.",
+    "buttonText": "REMOVE VIRUSES",
+    "category": "Malware",
+    "isFake": true
+  },
+  {
+    "id": 9,
+    "title": "Netflix",
+    "brand": "Netflix",
+    "description": "Watch movies, series, documentaries, and original shows anytime.",
+    "buttonText": "Watch Now",
+    "category": "Entertainment",
+    "isFake": false
+  },
+  {
+    "id": 10,
+    "title": "Make ₱20,000 Every Day From Home!",
+    "brand": "EasyIncome",
+    "description": "Filipinos are earning ₱20,000+ every day using this SECRET method. No experience required!",
+    "buttonText": "LEARN THE SECRET",
+    "category": "Money",
+    "isFake": true
+  },
+  {
+    "id": 11,
+    "title": "Shopee 9.9 Mega Sale",
+    "brand": "Shopee",
+    "description": "Enjoy discounts and vouchers on thousands of products during the 9.9 Mega Sale.",
+    "buttonText": "Shop Now",
+    "category": "Shopping",
+    "isFake": false
+  },
+  {
+    "id": 12,
+    "title": "Congratulations, Jerome!",
+    "brand": "Shopee Rewards",
+    "description": "You are today's lucky winner! You have won a brand-new motorcycle. Pay a small ₱99 processing fee to claim your prize.",
+    "buttonText": "CLAIM PRIZE",
+    "category": "Prize",
+    "isFake": true
+  },
+  {
+    "id": 13,
+    "title": "Adobe Creative Cloud",
+    "brand": "Adobe",
+    "description": "Create, edit, and design with Photoshop, Illustrator, Premiere Pro, and more.",
+    "buttonText": "Explore Plans",
+    "category": "Software",
+    "isFake": false
+  },
+  {
+    "id": 14,
+    "title": "Government COVID Assistance",
+    "brand": "DSWD",
+    "description": "You may qualify for ₱10,000 financial assistance. Submit your personal information to check your eligibility.",
+    "buttonText": "CHECK ELIGIBILITY",
+    "category": "Government",
+    "isFake": true
+  },
+  {
+    "id": 15,
+    "title": "Duolingo",
+    "brand": "Duolingo",
+    "description": "Learn a new language with short, interactive lessons.",
+    "buttonText": "Start Learning",
+    "category": "Education",
+    "isFake": false
+  },
+  {
+    "id": 16,
+    "title": "Your Facebook Account Has Been Hacked!",
+    "brand": "Meta Support",
+    "description": "We detected suspicious activity from a new device. Click below immediately to secure your account.",
+    "buttonText": "SECURE NOW",
+    "category": "Phishing",
+    "isFake": true
+  },
+  {
+    "id": 17,
+    "title": "Lazada Birthday Sale",
+    "brand": "Lazada",
+    "description": "Find deals across electronics, fashion, home products, and more.",
+    "buttonText": "Shop Deals",
+    "category": "Shopping",
+    "isFake": false
+  },
+  {
+    "id": 18,
+    "title": "TikTok Secret Hack!",
+    "brand": "TikTok Rewards",
+    "description": "TikTok is giving ₱5,000 to selected users today! Click before the timer reaches zero.",
+    "buttonText": "GET ₱5,000",
+    "category": "Prize",
+    "isFake": true
+  },
+  {
+    "id": 19,
+    "title": "Microsoft 365",
+    "brand": "Microsoft",
+    "description": "Get Word, Excel, PowerPoint, Outlook, and other productivity tools.",
+    "buttonText": "Learn More",
+    "category": "Productivity",
+    "isFake": false
+  },
+  {
+    "id": 20,
+    "title": "⚠ SECURITY WARNING ⚠",
+    "brand": "Windows Defender",
+    "description": "Your Windows license has expired and your computer is at risk. Call our support number immediately.",
+    "buttonText": "CALL SUPPORT",
+    "category": "Tech Support Scam",
+    "isFake": true
+  }
+]
