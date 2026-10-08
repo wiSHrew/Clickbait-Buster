@@ -286,7 +286,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4883081250789466544, guid: aeed5649867a73a409ed0412885c8f74, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -894,6 +894,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1515917695}
     m_Modifications:
+    - target: {fileID: 747502227475463257, guid: 7632c864c490ac141bc3c3d3d17f5b67, type: 3}
+      propertyPath: m_fontSize
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 747502227475463257, guid: 7632c864c490ac141bc3c3d3d17f5b67, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 4015062070516028917, guid: 7632c864c490ac141bc3c3d3d17f5b67, type: 3}
       propertyPath: m_Name
       value: Ad
