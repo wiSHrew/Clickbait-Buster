@@ -7,13 +7,15 @@ public class AdLoader : MonoBehaviour
     public string fileName = "ads.json";
     GameObject title;
     GameObject contents;
+    GameObject button;
 
     private AdList adList;
 
     void Start()
     {
-        title = transform.GetChild(0).gameObject;
-        contents = transform.GetChild(1).gameObject;
+        title = transform.GetChild(1).gameObject;
+        contents = transform.GetChild(2).gameObject;
+        button = transform.GetChild(3).gameObject;
 
         string path = Path.Combine(Application.streamingAssetsPath, fileName);
         string json = File.ReadAllText(path);
@@ -35,5 +37,6 @@ public class AdLoader : MonoBehaviour
 
         title.GetComponent<TMP_Text>().text = selectedAd.title;
         contents.GetComponent<TMP_Text>().text = selectedAd.description;
+        button.GetComponentInChildren<TMP_Text>().text = selectedAd.buttonText;
     }
 }

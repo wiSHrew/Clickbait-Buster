@@ -6,6 +6,9 @@ public class admaker : MonoBehaviour
     public Transform screen;
     public void makeAd()
     {
+        if (screen.GetComponentInChildren<AdLoader>() != null)
+            return;
+
         GameObject ad = Instantiate(adPrefab, screen);
 
         RectTransform adRect = ad.GetComponent<RectTransform>();

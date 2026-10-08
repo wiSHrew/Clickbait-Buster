@@ -178,5 +178,725 @@
     "buttonText": "CALL SUPPORT",
     "category": "Tech Support Scam",
     "isFake": true
-  }
+  },
+  {
+    "id": 21,
+    "title": "Claim Your $1,000 Amazon Gift Card!",
+    "brand": "Amazon Rewards Program",
+    "description": "You have been selected as today's lucky winner. Complete a short 2-minute survey to claim your reward instantly.",
+    "buttonText": "CLAIM NOW",
+    "category": "Survey Scam",
+    "isFake": true
+  },
+  {
+    "id": 22,
+    "title": "Unusual Sign-in Attempt Detected",
+    "brand": "PayPal Security",
+    "description": "We noticed a login to your account from an unrecognized device in Moscow. Verify your identity immediately to prevent suspension.",
+    "buttonText": "VERIFY ACCOUNT",
+    "category": "Phishing Scam",
+    "isFake": true
+  },
+  {
+    "id": 23,
+    "title": "Guaranteed 500% ROI in 7 Days",
+    "brand": "CryptoWealth AI",
+    "description": "Our automated trading algorithm guarantees risk-free returns on Bitcoin. Deposit $250 today and start earning passively.",
+    "buttonText": "INVEST NOW",
+    "category": "Financial Scam",
+    "isFake": true
+  },
+  {
+    "id": 24,
+    "title": "Your Package Could Not Be Delivered",
+    "brand": "USPS Postal Notice",
+    "description": "Package #US-9821-44 is on hold due to an incomplete delivery address. Update your details within 24 hours to avoid return to sender.",
+    "buttonText": "UPDATE ADDRESS",
+    "category": "Delivery Scam",
+    "isFake": true
+  },
+  {
+    "id": 25,
+    "title": "Breeze Through City Traffic",
+    "brand": "Toyota",
+    "description": "Experience superior fuel economy and sleek styling with the new Toyota Prius Hybrid. Test drive at your local dealer today.",
+    "buttonText": "BUILD & PRICE",
+    "category": "Automotive",
+    "isFake": false
+  },
+  {
+    "id": 26,
+    "title": "Stream Thousands of Movies & Shows",
+    "brand": "Netflix",
+    "description": "Watch anywhere, cancel anytime. Sign up today to access thousands of original series, movies, and documentaries.",
+    "buttonText": "JOIN NOW",
+    "category": "Entertainment",
+    "isFake": false
+  },
+  {
+    "id": 27,
+    "title": "Run on Air with Pegasus",
+    "brand": "Nike",
+    "description": "Engineered for maximum comfort and durability on every run. Find your perfect fit with the latest Nike Air Zoom Pegasus.",
+    "buttonText": "SHOP RUNNING",
+    "category": "Apparel",
+    "isFake": false
+  },
+  {
+    "id": 28,
+    "title": "Over 70 Million Songs, Ad-Free",
+    "brand": "Spotify",
+    "description": "Upgrade to Spotify Premium for offline listening, unlimited skips, and high-fidelity audio streaming.",
+    "buttonText": "GET PREMIUM",
+    "category": "Digital Services",
+    "isFake": false
+  },
+  {
+    "id": 29,
+    "title": "Pro Cameras. Pro Display. Pro Performance.",
+    "brand": "Apple",
+    "description": "Discover the incredible capabilities of the new iPhone Pro featuring the A-series chip and titanium design.",
+    "buttonText": "LEARN MORE",
+    "category": "Electronics",
+    "isFake": false
+  },
+  {
+    "id": 30,
+    "title": "Secret IRS Tax Refund Pending",
+    "brand": "Internal Revenue Service",
+    "description": "You have an unclaimed tax refund of $3,410. Enter your Social Security Number and bank details to claim payment.",
+    "buttonText": "CLAIM REFUND",
+    "category": "Government Impersonation Scam",
+    "isFake": true
+  },
+  {
+    "id": 31,
+    "title": "Lose 30 lbs in 5 Days Without Dieting!",
+    "brand": "MiracleKeto Gummies",
+    "description": "Doctor-recommended weight loss formula burns fat instantly while you sleep with zero effort or exercise.",
+    "buttonText": "ORDER TRIAL",
+    "category": "Health Fraud",
+    "isFake": true
+  },
+  {
+    "id": 32,
+    "title": "URGENT: Your Bank Account is Frozen",
+    "brand": "Chase Fraud Prevention",
+    "description": "Suspicious transactions were detected on your debit card. Log in instantly to restore full access to your funds.",
+    "buttonText": "UNLOCK ACCOUNT",
+    "category": "Phishing Scam",
+    "isFake": true
+  },
+  {
+    "id": 33,
+    "title": "Work from Home: Earn $8,000/Week",
+    "brand": "Global Remote Careers",
+    "description": "No experience required. Package re-shipping and data entry jobs available immediately. Pay upfront registration fee to start.",
+    "buttonText": "APPLY NOW",
+    "category": "Employment Scam",
+    "isFake": true
+  },
+  {
+    "id": 34,
+    "title": "Congratulations! You Won an iPad Pro",
+    "brand": "Apple Fan Club Raffle",
+    "description": "Visitor #100,000 selected! Pay just $1.00 shipping to receive your brand new iPad Pro directly to your doorstep.",
+    "buttonText": "PAY $1 SHIPPING",
+    "category": "Prize Scam",
+    "isFake": true
+  },
+  {
+    "id": 35,
+    "title": "Save 15% or More on Car Insurance",
+    "brand": "GEICO",
+    "description": "Get a fast, free auto insurance quote online in less than 15 minutes and see how much you could save.",
+    "buttonText": "GET A QUOTE",
+    "category": "Insurance",
+    "isFake": false
+  },
+  {
+    "id": 36,
+    "title": "Belong Anywhere with Unique Stays",
+    "brand": "Airbnb",
+    "description": "Explore cabins, beachfront villas, and city apartments hosted by locals across the globe.",
+    "buttonText": "EXPLORE STAYS",
+    "category": "Travel",
+    "isFake": false
+  },
+  {
+    "id": 37,
+    "title": "Refresh Your Morning with Dunkin'",
+    "brand": "Dunkin'",
+    "description": "Start your day right with freshly brewed iced coffee and your favorite handcrafted breakfast sandwich.",
+    "buttonText": "ORDER AHEAD",
+    "category": "Food & Beverage",
+    "isFake": false
+  },
+  {
+    "id": 38,
+    "title": "Fast, Free Delivery with Prime",
+    "brand": "Amazon",
+    "description": "Enjoy exclusive access to fast shipping, award-winning movies, ad-free music, and daily deals.",
+    "buttonText": "TRY PRIME FREE",
+    "category": "E-Commerce",
+    "isFake": false
+  },
+  {
+    "id": 39,
+    "title": "Organize Your Home with Smart Storage",
+    "brand": "IKEA",
+    "description": "Affordable solutions designed to keep every room tidy, stylish, and functional. Shop online or in-store.",
+    "buttonText": "SHOP CATALOG",
+    "category": "Home Goods",
+    "isFake": false
+  },
+  {
+    "id": 40,
+    "title": "Critical Virus Detected: System Infected",
+    "brand": "McAfee Antivirus Pop-up",
+    "description": "Your computer is infected with 5 dangerous Trojan viruses. Renew your subscription immediately to purge infections.",
+    "buttonText": "RENEW NOW",
+    "category": "Scareware Scam",
+    "isFake": true
+  },
+  {
+    "id": 41,
+    "title": "Elon Musk $10,000 Crypto Giveaway",
+    "brand": "Tesla Official Promo",
+    "description": "Send 0.1 BTC or 1 ETH to the verification address below and receive double the amount back instantly.",
+    "buttonText": "CLAIM CRYPTO",
+    "category": "Crypto Scam",
+    "isFake": true
+  },
+  {
+    "id": 42,
+    "title": "Unclaimed Inheritance Notification",
+    "brand": "International Legal Counsel",
+    "description": "A wealthy relative with your surname passed away leaving $4.5M. Contact us to transfer the estate into your bank account.",
+    "buttonText": "CONTACT BARRISTER",
+    "category": "Advance Fee Scam",
+    "isFake": true
+  },
+  {
+    "id": 43,
+    "title": "Netflix Subscription Payment Declined",
+    "brand": "Netflix Billing Desk",
+    "description": "We were unable to process your monthly payment. Update your credit card details immediately to keep watching.",
+    "buttonText": "UPDATE BILLING",
+    "category": "Phishing Scam",
+    "isFake": true
+  },
+  {
+    "id": 44,
+    "title": "Secret Government Grant Approved",
+    "brand": "Federal Grant Department",
+    "description": "You qualify for a non-repayable government grant of $12,500. Pay a $50 processing fee to receive funds today.",
+    "buttonText": "RECEIVE FUNDS",
+    "category": "Grant Scam",
+    "isFake": true
+  },
+  {
+    "id": 45,
+    "title": "Power Your Dreams with Xbox Series X",
+    "brand": "Xbox",
+    "description": "Experience true 4K gaming, ultra-fast load times, and access to hundreds of games on Xbox Game Pass.",
+    "buttonText": "BUY NOW",
+    "category": "Gaming",
+    "isFake": false
+  },
+  {
+    "id": 46,
+    "title": "Shave Time. Shave Money.",
+    "brand": "Dollar Shave Club",
+    "description": "Get high-quality razors and grooming essentials delivered straight to your door for a fraction of store prices.",
+    "buttonText": "GET STARTED",
+    "category": "Personal Care",
+    "isFake": false
+  },
+  {
+    "id": 47,
+    "title": "America's Most Reliable 5G Network",
+    "brand": "Verizon",
+    "description": "Switch to Verizon today and get the latest 5G smartphones on us when you trade in an eligible device.",
+    "buttonText": "VIEW OFFERS",
+    "category": "Telecommunications",
+    "isFake": false
+  },
+  {
+    "id": 48,
+    "title": "Finger Lickin' Good Meals",
+    "brand": "KFC",
+    "description": "Order original recipe fried chicken, crispy tenders, and mouth-watering sides for dinner tonight.",
+    "buttonText": "ORDER ONLINE",
+    "category": "Food & Beverage",
+    "isFake": false
+  },
+  {
+    "id": 49,
+    "title": "Because You're Worth It",
+    "brand": "L'Oréal Paris",
+    "description": "Nourish and revitalize your skin with advanced anti-aging serums designed for long-lasting glow.",
+    "buttonText": "DISCOVER MORE",
+    "category": "Beauty",
+    "isFake": false
+  },
+  {
+    "id": 50,
+    "title": "Your Facebook Account Will Be Deleted",
+    "brand": "Meta Support Center",
+    "description": "Your account was flagged for copyright violations. Confirm your password within 12 hours to prevent permanent deletion.",
+    "buttonText": "CONFIRM PASSWORD",
+    "category": "Phishing Scam",
+    "isFake": true
+  },
+  {
+      "id": 51,
+      "title": "Clean Diesel: Lower Emissions, Higher Performance",
+      "brand": "Volkswagen",
+      "description": "Experience eco-friendly driving with VW Clean Diesel technology. Enjoy low emissions without sacrificing power or fuel efficiency.",
+      "buttonText": "EXPLORE MODELS",
+      "category": "False Advertising (Historical)",
+      "isFake": true
+    },
+    {
+      "id": 52,
+      "title": "Red Bull Gives You Wings",
+      "brand": "Red Bull",
+      "description": "Clinically proven to improve concentration, physical endurance, and reaction speed for peak performance.",
+      "buttonText": "GET POWERED",
+      "category": "Misleading Claims (Historical)",
+      "isFake": true
+    },
+    {
+      "id": 53,
+      "title": "Clinically Proven to Regulate Digestion",
+      "brand": "Activia",
+      "description": "Enjoy Activia yogurt daily to scientifically improve your digestive health and relieve irregularity in just two weeks.",
+      "buttonText": "LEARN MORE",
+      "category": "False Advertising (Historical)",
+      "isFake": true
+    },
+    {
+      "id": 54,
+      "title": "Try ABCmouse Free for 30 Days!",
+      "brand": "ABCmouse",
+      "description": "Give your child a head start in learning with our early childhood curriculum. Sign up today for a completely free trial.",
+      "buttonText": "START FREE TRIAL",
+      "category": "Hidden Subscription Scam",
+      "isFake": true
+    },
+    {
+      "id": 55,
+      "title": "Mega Black Friday Blowout: 80% Off Everything!",
+      "brand": "JCPenney",
+      "description": "Items original price $120, marked down to $24 for today only! Hurry before our biggest clearance sale of the year ends.",
+      "buttonText": "SHOP SALE",
+      "category": "Deceptive Pricing",
+      "isFake": true
+    },
+    {
+      "id": 56,
+      "title": "Beachfront Villa for Just $85/Night!",
+      "brand": "Airbnb",
+      "description": "Escape to paradise with affordable nightly rates on beautiful coastal rentals.",
+      "buttonText": "BOOK NOW",
+      "category": "Drip Pricing / Hidden Fees",
+      "isFake": true
+    },
+    {
+      "id": 57,
+      "title": "100% Authentic Handcrafted Goods - Made in USA",
+      "brand": "Williams-Sonoma",
+      "description": "Support local craftsmanship with our exclusive kitchenware lines made entirely within the United States.",
+      "buttonText": "SHOP AMERICAN MADE",
+      "category": "False Origin Claim",
+      "isFake": true
+    },
+    {
+      "id": 58,
+      "title": "Hurry! Only 1 Room Left at This Low Price!",
+      "brand": "Booking.com",
+      "description": "Over 15 people are looking at this hotel right now. Secure your room immediately before it sells out completely.",
+      "buttonText": "RESERVE NOW",
+      "category": "Dark Pattern / Fake Scarcity",
+      "isFake": true
+    },
+    {
+      "id": 59,
+      "title": "L'Oréal Revitalift: Scientifically Proven Youth",
+      "brand": "L'Oréal",
+      "description": "Reverses structural skin damage and eliminates wrinkles instantly using patented molecular cellular technology.",
+      "buttonText": "BUY NOW",
+      "category": "Exaggerated Claims",
+      "isFake": true
+    },
+    {
+      "id": 60,
+      "title": "100% Real Whole Fruit Smoothies",
+      "brand": "Naked Juice",
+      "description": "All-natural, non-GMO fruit drinks made with zero added ingredients or synthetic chemical additives.",
+      "buttonText": "SEE INGREDIENTS",
+      "category": "False Advertising (Historical)",
+      "isFake": true
+    },
+    {
+      "id": 61,
+      "title": "Think Small.",
+      "brand": "Volkswagen",
+      "description": "Our little car isn't a novelty anymore. 40,000 drivers think 32 miles to a gallon is practical, convenient, and smart.",
+      "buttonText": "VIEW BUG",
+      "category": "Automotive Classic",
+      "isFake": false
+    },
+    {
+      "id": 62,
+      "title": "Do You Make These Mistakes in English?",
+      "brand": "Sherwin Cody Course",
+      "description": "Improve your command of English language, grammar, and vocabulary in just 15 minutes a day with our patented method.",
+      "buttonText": "TRY FREE LESSON",
+      "category": "Education Classic",
+      "isFake": false
+    },
+    {
+      "id": 63,
+      "title": "FCK. We're Sorry.",
+      "brand": "KFC",
+      "description": "A chicken restaurant without any chicken. It's not ideal. Huge apologies to our customers for the delivery disruption.",
+      "buttonText": "READ STATEMENT",
+      "category": "Public Relations",
+      "isFake": false
+    },
+    {
+      "id": 64,
+      "title": "The Man Your Man Could Smell Like",
+      "brand": "Old Spice",
+      "description": "Anything is possible when your man smells like Old Spice and not a lady. Step up to long-lasting freshness.",
+      "buttonText": "WATCH VIDEO",
+      "category": "Personal Care",
+      "isFake": false
+    },
+    {
+      "id": 65,
+      "title": "You're Not You When You're Hungry",
+      "brand": "Snickers",
+      "description": "Satisfy your hunger fast with milk chocolate, peanuts, caramel, and nougat. Grab a Snickers today.",
+      "buttonText": "FIND A STORE",
+      "category": "Confectionery",
+      "isFake": false
+    },
+    {
+      "id": 66,
+      "title": "A Diamond Is Forever",
+      "brand": "De Beers",
+      "description": "A diamond is a symbol of enduring love and commitment. Discover timeless diamond jewelry crafted for life's moments.",
+      "buttonText": "VIEW COLLECTION",
+      "category": "Jewelry Classic",
+      "isFake": false
+    },
+    {
+      "id": 67,
+      "title": "Share a Coke with a Friend",
+      "brand": "Coca-Cola",
+      "description": "Find your name or a friend's name on custom Coca-Cola bottles and share an ice-cold moment together.",
+      "buttonText": "FIND YOUR NAME",
+      "category": "Food & Beverage",
+      "isFake": false
+    },
+    {
+      "id": 68,
+      "title": "The Magic of Flying",
+      "brand": "British Airways",
+      "description": "Look up! That is flight BA472 from Barcelona overhead. Discover destination inspiration and flight bookings.",
+      "buttonText": "BOOK FLIGHT",
+      "category": "Travel & Aviation",
+      "isFake": false
+    },
+    {
+      "id": 69,
+      "title": "Got Milk?",
+      "brand": "California Milk Processor Board",
+      "description": "Packed with essential nutrients, calcium, and vitamin D to build strong bones and maintain daily vitality.",
+      "buttonText": "RECIPES & MORE",
+      "category": "Public Campaign",
+      "isFake": false
+    },
+    {
+      "id": 70,
+      "title": "When It Absolutely, Positively Has to Be There Overnight",
+      "brand": "FedEx",
+      "description": "Trust our global courier logistics network for guaranteed express overnight delivery service worldwide.",
+      "buttonText": "SHIP A PACKAGE",
+      "category": "Logistics & Shipping",
+      "isFake": false
+    },
+    {
+      "id": 71,
+      "title": "Urgent Security Notice: Apple ID Compromised",
+      "brand": "Apple Support Alert",
+      "description": "Your iCloud account was accessed from an unauthorized IP in Beijing. Click to verify your credit card details immediately.",
+      "buttonText": "SECURE ACCOUNT",
+      "category": "Phishing Scam",
+      "isFake": true
+    },
+    {
+      "id": 72,
+      "title": "URGENT TAX ALERT: Unpaid Debt Arrest Warrant",
+      "brand": "Tax Enforcement Bureau",
+      "description": "An arrest warrant has been issued due to overdue federal taxes. Pay $1,250 in Target Gift Cards immediately to clear charges.",
+      "buttonText": "PAY DEBT NOW",
+      "category": "Impersonation Scam",
+      "isFake": true
+    },
+    {
+      "id": 73,
+      "title": "Earn $500/Day Testing Apps From Home!",
+      "brand": "AppTester Pro",
+      "description": "No technical skills needed. Evaluate smartphone apps and write quick reviews. Pay a $49 tester activation fee to begin.",
+      "buttonText": "REGISTER NOW",
+      "category": "Work-From-Home Scam",
+      "isFake": true
+    },
+    {
+      "id": 74,
+      "title": "You Have (1) Unclaimed Delivery - FedEx",
+      "brand": "FedEx Tracking System",
+      "description": "Your package is held at our depot due to an unpaid $1.99 redelivery fee. Enter your banking information to confirm shipping.",
+      "buttonText": "PAY REDELIVERY FEE",
+      "category": "Smishing / Parcel Scam",
+      "isFake": true
+    },
+    {
+      "id": 75,
+      "title": "Taylor Swift Ticket Giveaway - VIP Floor Seats!",
+      "brand": "ConcertPass Promo",
+      "description": "We are giving away 50 free VIP tickets to the upcoming tour! Just pay $12 handling and processing via Wire Transfer.",
+      "buttonText": "CLAIM VIP TICKETS",
+      "category": "Event Ticket Scam",
+      "isFake": true
+    },
+    {
+      "id": 76,
+      "title": "Immediate Action Required: PayPal Account Suspended",
+      "brand": "PayPal Billing Center",
+      "description": "Your wallet balance of $412.50 is frozen due to fraudulent activity. Re-enter your debit card number and PIN to unlock.",
+      "buttonText": "RESTORE ACCESS",
+      "category": "Phishing Scam",
+      "isFake": true
+    },
+    {
+      "id": 77,
+      "title": "Exclusive Crypto Presale: 100x Growth Guaranteed",
+      "brand": "ElonToken Finance",
+      "description": "Endorsed by top tech billionaires! Buy early stage tokens before listing on major exchanges to multiply your net worth.",
+      "buttonText": "BUY TOKENS NOW",
+      "category": "Cryptocurrency Rugpull",
+      "isFake": true
+    },
+    {
+      "id": 78,
+      "title": "Warning: System Memory Damaged by Malware",
+      "brand": "System Repair Pro",
+      "description": "Critical error code 0x80070005 detected on computer hardware. Call toll-free helpline to speak with a technician.",
+      "buttonText": "FIX ERRORS NOW",
+      "category": "Tech Support Scam",
+      "isFake": true
+    },
+    {
+      "id": 79,
+      "title": "Congratulations! Selected for Free Gas Card",
+      "brand": "National Fuel Rewards",
+      "description": "Claim your $500 Prepaid Gas Voucher to ease rising fuel prices. Submit your credit card for identity verification.",
+      "buttonText": "CLAIM GAS CARD",
+      "category": "Reward Scam",
+      "isFake": true
+    },
+    {
+      "id": 80,
+      "title": "Official Housing Assistance Relief Program",
+      "brand": "Government Relief Dept",
+      "description": "Receive up to $4,000 monthly for rent and mortgage support. Complete questionnaire and pay application clearance fee.",
+      "buttonText": "APPLY FOR RELIEF",
+      "category": "Grant Scam",
+      "isFake": true
+    },
+    {
+      "id": 81,
+      "title": "Melts in Your Mouth, Not in Your Hand",
+      "brand": "M&M's",
+      "description": "Classic real milk chocolate coated in colorful candy shells. Perfect for sharing, snacking, and movie nights.",
+      "buttonText": "DISCOVER FLAVORS",
+      "category": "Confectionery",
+      "isFake": false
+    },
+    {
+      "id": 82,
+      "title": "The Ultimate Driving Machine",
+      "brand": "BMW",
+      "description": "Engineered for precise performance, agility, and luxury. Explore the new BMW M Series lineup at a dealer near you.",
+      "buttonText": "TEST DRIVE",
+      "category": "Automotive",
+      "isFake": false
+    },
+    {
+      "id": 83,
+      "title": "Taste the Rainbow",
+      "brand": "Skittles",
+      "description": "Unleash a burst of fruit flavor with every chewy bite of Skittles original candy packs.",
+      "buttonText": "SHOP NOW",
+      "category": "Confectionery",
+      "isFake": false
+    },
+    {
+      "id": 84,
+      "title": "Open Happiness",
+      "brand": "Coca-Cola",
+      "description": "Turn everyday meals into memorable moments with the crisp, refreshing taste of an ice-cold Coke.",
+      "buttonText": "EXPLORE RECIPES",
+      "category": "Food & Beverage",
+      "isFake": false
+    },
+    {
+      "id": 85,
+      "title": "Have It Your Way",
+      "brand": "Burger King",
+      "description": "Flame-broiled beef topped with juicy tomatoes, fresh lettuce, and savory pickles. Customize your Whopper today.",
+      "buttonText": "ORDER NOW",
+      "category": "Fast Food",
+      "isFake": false
+    },
+    {
+      "id": 86,
+      "title": "Like a Good Neighbor, State Farm Is There",
+      "brand": "State Farm",
+      "description": "Get dependable protection for your auto, home, and life with help from a local State Farm agent.",
+      "buttonText": "FIND AN AGENT",
+      "category": "Insurance",
+      "isFake": false
+    },
+    {
+      "id": 87,
+      "title": "There Are Some Things Money Can't Buy",
+      "brand": "Mastercard",
+      "description": "For everything else, there's Mastercard. Secure payment solutions accepted across thousands of locations globally.",
+      "buttonText": "EXPLORE PERKS",
+      "category": "Financial Services",
+      "isFake": false
+    },
+    {
+      "id": 88,
+      "title": "Eat Fresh",
+      "brand": "Subway",
+      "description": "Build custom footlong sub sandwiches loaded with your choice of sliced deli meats, crisp veggies, and fresh bread.",
+      "buttonText": "ORDER ONLINE",
+      "category": "Fast Food",
+      "isFake": false
+    },
+    {
+      "id": 89,
+      "title": "Unleash the Beast!",
+      "brand": "Monster Energy",
+      "description": "Tear into a can of Monster Energy, the ideal blend of energy ingredients designed to fuel your active lifestyle.",
+      "buttonText": "VIEW PRODUCTS",
+      "category": "Food & Beverage",
+      "isFake": false
+    },
+    {
+      "id": 90,
+      "title": "It Keeps Going and Going and Going...",
+      "brand": "Energizer",
+      "description": "Long-lasting power for everyday devices. Trust Energizer Max batteries for dependable household energy.",
+      "buttonText": "LEARN MORE",
+      "category": "Electronics & Batteries",
+      "isFake": false
+    },
+    {
+      "id": 91,
+      "title": "Unclaimed Property Notice: $3,200 Found",
+      "brand": "State Unclaimed Division",
+      "description": "Our audit shows missing property in your name. Pay a $25 processing fee to release funds to your bank account.",
+      "buttonText": "RELEASE FUNDS",
+      "category": "Advance Fee Scam",
+      "isFake": true
+    },
+    {
+      "id": 92,
+      "title": "Warning: Unauthorized Attempt on Bank Card",
+      "brand": "Wells Fargo Alert",
+      "description": "A charge of $899.00 at Apple Store online was attempted. If this wasn't you, log in immediately to cancel transaction.",
+      "buttonText": "CANCEL CHARGE",
+      "category": "Phishing Scam",
+      "isFake": true
+    },
+    {
+      "id": 93,
+      "title": "Get Paid $2,500/Week Wrapping Your Car",
+      "brand": "Red Bull Wrap Promo",
+      "description": "Earn easy income driving your vehicle! We pay you weekly for wrapping your car with our brand advertisement.",
+      "buttonText": "REGISTER CAR",
+      "category": "Car Wrap Scam",
+      "isFake": true
+    },
+    {
+      "id": 94,
+      "title": "Your Mobile Device Has (3) Viruses!",
+      "brand": "Android Cleaner App",
+      "description": "Battery is heavily damaged! Click button below to install security tool and clean internal system files now.",
+      "buttonText": "CLEAN SYSTEM NOW",
+      "category": "Scareware / Mobile Fraud",
+      "isFake": true
+    },
+    {
+      "id": 95,
+      "title": "Pure Puppy Mills: Teacup Yorkies 90% Off!",
+      "brand": "CutePuppies Direct",
+      "description": "Adorable purebred puppies available for immediate adoption. Pay shipping fee via Zelle to deliver puppy today.",
+      "buttonText": "ADOPT PUPPY",
+      "category": "Pet Scam",
+      "isFake": true
+    },
+    {
+      "id": 96,
+      "title": "The Best a Man Can Get",
+      "brand": "Gillette",
+      "description": "Precision razor blades engineered to give a close, smooth shave with less irritation on sensitive skin.",
+      "buttonText": "SHOP RAZORS",
+      "category": "Personal Care",
+      "isFake": false
+    },
+    {
+      "id": 97,
+      "title": "Betcha Can't Eat Just One!",
+      "brand": "Lay's",
+      "description": "Crispy, golden-cooked potato chips prepared with quality ingredients. Find your favorite flavor today.",
+      "buttonText": "SEE FLAVORS",
+      "category": "Snack Food",
+      "isFake": false
+    },
+    {
+      "id": 98,
+      "title": "America Runs on Dunkin'",
+      "brand": "Dunkin'",
+      "description": "Handcrafted coffees, lattes, espresso drinks, and hot baked donuts ready to fuel your busy mornings.",
+      "buttonText": "LOCATE STORE",
+      "category": "Food & Beverage",
+      "isFake": false
+    },
+    {
+      "id": 99,
+      "title": "Play Has No Limits",
+      "brand": "PlayStation",
+      "description": "Experience next-gen gaming immersion with ultra-fast loading, 3D audio, and stunning ray-traced visuals on PS5.",
+      "buttonText": "EXPLORE PS5",
+      "category": "Gaming",
+      "isFake": false
+    },
+    {
+      "id": 100,
+      "title": "Always One of a Kind",
+      "brand": "Dr Pepper",
+      "description": "An iconic, refreshing soda beverage crafted with a signature blend of 23 unique, satisfying flavors.",
+      "buttonText": "BUY ONLINE",
+      "category": "Food & Beverage",
+      "isFake": false
+    }
 ]
