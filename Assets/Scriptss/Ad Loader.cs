@@ -38,5 +38,8 @@ public class AdLoader : MonoBehaviour
         title.GetComponent<TMP_Text>().text = selectedAd.title;
         contents.GetComponent<TMP_Text>().text = selectedAd.description;
         button.GetComponentInChildren<TMP_Text>().text = selectedAd.buttonText;
+
+        PlayerPrefs.SetInt("CurrentAdId", selectedAd.id);
+        PlayerPrefs.Save();
     }
 }
