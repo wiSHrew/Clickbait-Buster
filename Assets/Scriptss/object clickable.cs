@@ -3,11 +3,15 @@ using System.Collections;
 
 public class objectclickable : MonoBehaviour
 {
+    public enum TargetScene { Monitor1, Monitor2 }
+
     public SceneLoader sceneLoader; // Reference to the SceneLoader script
     public Camera mainCamera;
     public float zoomSpeed = 5f;
     public float rotationSpeed = 5f;
     public float stopDistance = 2f;
+
+    [SerializeField] private TargetScene targetScene = TargetScene.Monitor1;
 
     // Hover effect properties
     public Color hoverColor = new Color(1f, 1f, 1f, 0.5f); // semi-transparent white
@@ -21,13 +25,11 @@ public class objectclickable : MonoBehaviour
 
     void Start()
     {
-        // Get the renderer and material (assuming a single material)
         rend = GetComponent<Renderer>();
         if (rend != null)
         {
             mat = rend.material;
             originalColor = mat.color;
-            // Store emission settings if you want to use emission glow
             originalEmissionEnabled = mat.IsKeywordEnabled("_EMISSION");
             if (originalEmissionEnabled)
                 originalEmissionColor = mat.GetColor("_EmissionColor");
@@ -38,14 +40,9 @@ public class objectclickable : MonoBehaviour
     {
         if (rend != null)
         {
-            // Change to hover color (semi-transparent white)
             mat.color = hoverColor;
-
-            // Optional: add a glow by setting emission
             if (mat.IsKeywordEnabled("_EMISSION"))
-            {
                 mat.SetColor("_EmissionColor", hoverColor * hoverEmissionIntensity);
-            }
         }
     }
 
@@ -53,26 +50,24 @@ public class objectclickable : MonoBehaviour
     {
         if (rend != null)
         {
-            // Restore original color
             mat.color = originalColor;
-
-            // Restore original emission
             if (mat.IsKeywordEnabled("_EMISSION"))
-            {
                 mat.SetColor("_EmissionColor", originalEmissionColor);
-            }
         }
     }
 
     public void Click()
     {
-        sceneLoader.GoToPC();
+        if (targetScene == TargetScene.Monitor1)
+            sceneLoader.GoToMonitor1();
+        else
+            sceneLoader.GoToMonitor2();
+
         StartCoroutine(ZoomToObject());
     }
 
     IEnumerator ZoomToObject()
     {
-        // Rotate camera toward object
         Vector3 direction = transform.position - mainCamera.transform.position;
         Quaternion targetRotation = Quaternion.LookRotation(direction);
 
@@ -83,17 +78,12 @@ public class objectclickable : MonoBehaviour
                 targetRotation,
                 rotationSpeed * Time.deltaTime
             );
-
             yield return null;
         }
 
-        // Calculate direction from camera to object
         direction = (transform.position - mainCamera.transform.position).normalized;
-
-        // Calculate target position
         Vector3 targetPosition = transform.position - direction * stopDistance;
 
-        // Zoom toward object
         while (Vector3.Distance(mainCamera.transform.position, targetPosition) > 0.05f)
         {
             mainCamera.transform.position = Vector3.MoveTowards(
@@ -101,7 +91,6 @@ public class objectclickable : MonoBehaviour
                 targetPosition,
                 zoomSpeed * Time.deltaTime
             );
-
             yield return null;
         }
     }

@@ -24,16 +24,24 @@ public class SceneLoader : MonoBehaviour
     public void GoToGame()
     {
         if (sceneFader != null)
-            sceneFader.FadeToScene("game out of pc");
+            sceneFader.FadeToScene("office");
         else
-            SceneManager.LoadScene("game out of pc");
+            SceneManager.LoadScene("office");
     }
 
-    public void GoToPC()
+    public void GoToMonitor1()
     {
         if (sceneFader != null)
             sceneFader.FadeToScene("monitor 1");
         else
             SceneManager.LoadScene("monitor 1");
+    }
+
+    public void GoToMonitor2()
+    {
+        if (sceneFader != null)
+            sceneFader.FadeToScene("monitor 2");
+        else
+            SceneManager.LoadScene("monitor 2");
     }
 }
