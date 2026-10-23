@@ -32,8 +32,8 @@ public class SceneLoader : MonoBehaviour
     public void GoToPC()
     {
         if (sceneFader != null)
-            sceneFader.FadeToScene("game in pc");
+            sceneFader.FadeToScene("monitor 1");
         else
-            SceneManager.LoadScene("game in pc");
+            SceneManager.LoadScene("monitor 1");
     }
 }
