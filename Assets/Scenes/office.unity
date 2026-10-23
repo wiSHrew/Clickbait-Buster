@@ -2277,6 +2277,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::objectclickable
   sceneLoader: {fileID: 1043737893}
   mainCamera: {fileID: 267250053}
+  monitor: 2
   zoomSpeed: 6
   rotationSpeed: 5
   stopDistance: 2
@@ -2410,6 +2411,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::objectclickable
   sceneLoader: {fileID: 1043737893}
   mainCamera: {fileID: 267250053}
+  monitor: 1
   zoomSpeed: 6
   rotationSpeed: 5
   stopDistance: 2
