@@ -172,7 +172,7 @@
   },
   {
     "id": 20,
-    "title": "⚠ SECURITY WARNING ⚠",
+    "title": "SECURITY WARNING",
     "brand": "Windows Defender",
     "description": "Your Windows license has expired and your computer is at risk. Call our support number immediately.",
     "buttonText": "CALL SUPPORT",

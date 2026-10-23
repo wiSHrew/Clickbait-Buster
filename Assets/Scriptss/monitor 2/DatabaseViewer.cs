@@ -1,4 +1,3 @@
-
 using System;
 using System.IO;
 using UnityEngine;
@@ -7,7 +6,8 @@ using TMPro;
 public class DatabaseViewer : MonoBehaviour
 {
     [Header("Database")]
-    [SerializeField] private string jsonFileName = "ads.json";
+    [Tooltip("Relative to Assets/StreamingAssets/. Example: ads.json")]
+    [SerializeField] private string jsonRelativePath = "ads.json";
 
     [Header("UI References")]
     [SerializeField] private Transform content;
@@ -26,72 +26,50 @@ public class DatabaseViewer : MonoBehaviour
 
     public void LoadDatabase()
     {
-        if (content == null)
-        {
-            Debug.LogError("DatabaseViewer content reference is not assigned.");
-            return;
-        }
+        if (content == null)   { Debug.LogError("content is not assigned.");   return; }
+        if (rowPrefab == null) { Debug.LogError("rowPrefab is not assigned."); return; }
 
-        if (rowPrefab == null)
-        {
-            Debug.LogError("DatabaseViewer row prefab reference is not assigned.");
-            return;
-        }
-
-        string path = Path.IsPathRooted(jsonFileName)
-            ? jsonFileName
-            : Path.Combine(Application.streamingAssetsPath, jsonFileName);
+        string path = Path.Combine(Application.streamingAssetsPath, jsonRelativePath);
 
         if (!File.Exists(path))
         {
-            Debug.LogError("Database file not found: " + path);
+            Debug.LogError("JSON file not found at: " + path);
             return;
         }
 
         string json = File.ReadAllText(path);
+
         DatabaseData database = JsonUtility.FromJson<DatabaseData>(
             "{\"records\":" + json + "}"
         );
 
         if (database == null || database.records == null)
         {
-            Debug.LogError("Invalid JSON database format.");
+            Debug.LogError("Invalid JSON format. Check the file contents.");
             return;
         }
 
-        // Clear old rows before reloading.
         foreach (Transform child in content)
-        {
             Destroy(child.gameObject);
-        }
 
         foreach (Ad ad in database.records)
-        {
             CreateRow(ad);
-        }
 
-        Debug.Log("Loaded " + database.records.Length +
-                  " database records.");
+        Debug.Log("Loaded " + database.records.Length + " database records from " + path);
     }
 
     private void CreateRow(Ad ad)
     {
         GameObject row = Instantiate(rowPrefab, content, false);
 
-        RectTransform rectTransform = row.GetComponent<RectTransform>();
-        if (rectTransform != null)
-        {
-            rectTransform.localPosition = new Vector3(
-                rectTransform.localPosition.x,
-                rectTransform.localPosition.y,
-                0f
-            );
-        }
+        RectTransform rt = row.GetComponent<RectTransform>();
+        if (rt != null)
+            rt.localPosition = new Vector3(rt.localPosition.x, rt.localPosition.y, 0f);
 
-        SetText(row.transform, "id", ad.id.ToString());
-        SetText(row.transform, "title", ad.title);
-        SetText(row.transform, "brand", ad.brand);
-        SetText(row.transform, "desc", ad.description);
+        SetText(row.transform, "id",     ad.id.ToString());
+        SetText(row.transform, "title",  ad.title);
+        SetText(row.transform, "brand",  ad.brand);
+        SetText(row.transform, "desc",   ad.description);
         SetText(row.transform, "isFake", ad.isFake.ToString());
     }
 
@@ -104,18 +82,10 @@ public class DatabaseViewer : MonoBehaviour
             return;
         }
 
-        TMP_Text text = child.GetComponent<TMP_Text>();
+        TMP_Text text = child.GetComponent<TMP_Text>() ?? child.GetComponentInChildren<TMP_Text>();
         if (text == null)
         {
-            text = child.GetComponentInChildren<TMP_Text>();
-        }
-
-        if (text == null)
-        {
-            Debug.LogError(
-                "Text object has no TextMeshPro component: " + childName,
-                child
-            );
+            Debug.LogError("No TMP_Text on: " + childName, child);
             return;
         }
 
