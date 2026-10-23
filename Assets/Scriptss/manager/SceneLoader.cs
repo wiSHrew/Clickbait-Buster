@@ -36,4 +36,12 @@ public class SceneLoader : MonoBehaviour
         else
             SceneManager.LoadScene("monitor 1");
     }
+
+    public void GoToDB()
+    {
+        if (sceneFader != null)
+            sceneFader.FadeToScene("monitor 2");
+        else
+            SceneManager.LoadScene("monitor 2");
+    }
 }

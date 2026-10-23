@@ -5,6 +5,7 @@ public class objectclickable : MonoBehaviour
 {
     public SceneLoader sceneLoader; // Reference to the SceneLoader script
     public Camera mainCamera;
+    public int monitor = 1;
     public float zoomSpeed = 5f;
     public float rotationSpeed = 5f;
     public float stopDistance = 2f;
@@ -66,7 +67,14 @@ public class objectclickable : MonoBehaviour
 
     public void Click()
     {
-        sceneLoader.GoToPC();
+        if (monitor == 1)
+        {
+            sceneLoader.GoToPC();
+        }
+        else if (monitor == 2)
+        {
+            sceneLoader.GoToDB();
+        }
         StartCoroutine(ZoomToObject());
     }
 
