@@ -6,7 +6,7 @@ using System.IO;
 public class Monitor2_Manager : MonoBehaviour
 {
     [Header("Data Source")]
-    public string mainJsonFile = "ads.json";
+    public string mainJsonFile = "ads_db.json"; // Updated to point to the database file
 
     [Header("UI Panels")]
     [SerializeField] private GameObject companySelectionPanel; 
@@ -53,10 +53,16 @@ public class Monitor2_Manager : MonoBehaviour
             AdList list = JsonUtility.FromJson<AdList>("{\"ads\":" + json + "}");
             allAds = list.ads;
         }
+        else
+        {
+            Debug.LogError($"Database file not found at: {path}");
+        }
     }
 
     private void SpawnCompanyButtons()
     {
+        if (allAds == null) return;
+
         foreach (Transform child in listContentParent) Destroy(child.gameObject);
 
         foreach (Ad ad in allAds)
@@ -83,11 +89,31 @@ public class Monitor2_Manager : MonoBehaviour
         companyInfoPanel.SetActive(true);
 
         nowViewingText.text = $"{brandName}";
-        if (companyLogo != null) companyLogo.color = new Color(0.2f, 0.5f, 1f); 
+
+        // --- NEW LOGO LOADING LOGIC ---
+        if (companyLogo != null)
+        {
+            // Attempt to load the image from Assets/Resources/Logos/{id}
+            Sprite loadedLogo = Resources.Load<Sprite>($"Logos/{id}");
+            
+            if (loadedLogo != null)
+            {
+                companyLogo.sprite = loadedLogo;
+                companyLogo.color = Color.white; // Reset color to white so the logo shows correctly
+            }
+            else
+            {
+                // Fallback if no image exists for this ID
+                companyLogo.sprite = null;
+                companyLogo.color = new Color(0.2f, 0.5f, 1f); // Default blue box
+            }
+        }
+        // ------------------------------
 
         databaseText.text = "<i>Select a research point on the right to begin cross-checking.</i>";
         databaseText.color = Color.black;
 
+        // Wire up the 6 buttons
         btnRegistration.onClick.RemoveAllListeners();
         btnRegistration.onClick.AddListener(() => DisplayData("Registration.json", "Registration"));
 
@@ -106,6 +132,7 @@ public class Monitor2_Manager : MonoBehaviour
         btnLeadership.onClick.RemoveAllListeners();
         btnLeadership.onClick.AddListener(() => DisplayData("LeadershipBackground.json", "Leadership Background"));
         
+        // Auto-load Registration so the screen isn't blank
         DisplayData("Registration.json", "Registration");
     }
 
@@ -122,7 +149,6 @@ public class Monitor2_Manager : MonoBehaviour
                                 $"--------------------------------------------------\n\n" +
                                 $"{data.databaseDetail}";
 
-            // Text remains a neutral color because the database is just presenting facts
             databaseText.color = Color.black;
         }
         else

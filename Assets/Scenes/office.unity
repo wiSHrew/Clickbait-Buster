@@ -3673,13 +3673,13 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1959525641}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f52c6aa6e193cf74a989a6758bddb806, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AdScreenLoader
   label: {fileID: 1959525643}
-  fileName: ads.json
+  fileName: ads_db.json
 --- !u!23 &64039825930933311
 MeshRenderer:
   m_ObjectHideFlags: 0
