@@ -1,0 +1,402 @@
+[
+  {
+    "companyId": 1,
+    "databaseDetail": "Millions of organic reviews across Google Play and the App Store. Average rating is 4.4 stars. Complaints are minor (e.g., UI updates, podcast layout). No pattern of fraud or scam reports."
+  },
+  {
+    "companyId": 2,
+    "databaseDetail": "Over 50 million downloads. Average rating is 4.3 stars. Complaints are standard fintech issues (e.g., app downtime, verification delays). All disputes are handled by official customer support."
+  },
+  {
+    "companyId": 3,
+    "databaseDetail": "Over 50 million user reviews. Average rating is 'Overwhelmingly Positive'. Complaints are typical of gaming platforms (e.g., customer support wait times, game crashes)."
+  },
+  {
+    "companyId": 4,
+    "databaseDetail": "Highly rated products across major tech review sites. Complaints are typically about pricing or repair costs. No record of the company running 'lucky visitor' raffles."
+  },
+  {
+    "companyId": 5,
+    "databaseDetail": "Over 100 million downloads. Average rating is 4.6 stars. Complaints are standard operational issues (e.g., late deliveries, incorrect orders), handled by responsive customer support."
+  },
+  {
+    "companyId": 6,
+    "databaseDetail": "Standard social media feedback. Complaints are typically about content moderation or privacy policies. Meta's official security pages frequently warn users about phishing scams using their name."
+  },
+  {
+    "companyId": 7,
+    "databaseDetail": "High volume of positive reviews across major software directories. Average rating is 4.7 stars. Complaints are typically feature-related or about the Pro subscription cost."
+  },
+  {
+    "companyId": 8,
+    "databaseDetail": "Moderate user base with an average rating of 4.0 stars. Complaints are usually about battery usage or minor UI bugs. The company is recognized as a legitimate software vendor."
+  },
+  {
+    "companyId": 9,
+    "databaseDetail": "Highly rated app across platforms. Complaints typically revolve around content library changes or password-sharing crackdowns, not billing fraud."
+  },
+  {
+    "companyId": 10,
+    "databaseDetail": "Positive reviews from corporate clients on business directories. Complaints are typically about consulting fees. No reports of the company promising 'guaranteed daily returns'."
+  },
+  {
+    "companyId": 11,
+    "databaseDetail": "Massive user base with millions of reviews. Average rating is 4.5 stars. Complaints are typical of e-commerce (shipping delays, seller disputes) with active buyer protection."
+  },
+  {
+    "companyId": 12,
+    "databaseDetail": "Shopee's official app has millions of positive reviews. However, the platform's security team frequently issues warnings about fake prize notifications circulating on social media."
+  },
+  {
+    "companyId": 13,
+    "databaseDetail": "Industry standard software with millions of reviews. Complaints are usually about subscription pricing models or software bugs, not fraud."
+  },
+  {
+    "companyId": 14,
+    "databaseDetail": "The official DSWD website has standard government ratings. The agency frequently issues public warnings about fake social media accounts impersonating them to collect data."
+  },
+  {
+    "companyId": 15,
+    "databaseDetail": "Over 100 million downloads. Average rating is 4.7 stars. Complaints are mostly about the 'streak' pressure or ad frequency, not deceptive billing."
+  },
+  {
+    "companyId": 16,
+    "databaseDetail": "Meta's official reviews reflect standard social media usage. Complaints are typically about content policies. The company actively warns users about 'account hacked' phishing scams."
+  },
+  {
+    "companyId": 17,
+    "databaseDetail": "Large user base with standard e-commerce complaints (shipping, seller issues). Overall rating is 4.4 stars. Active dispute resolution system in place."
+  },
+  {
+    "companyId": 18,
+    "databaseDetail": "TikTok has millions of positive reviews. The company's official safety center frequently warns users about fake 'rewards' and 'giveaways' circulating via third-party links."
+  },
+  {
+    "companyId": 19,
+    "databaseDetail": "Industry standard software with millions of reviews. Complaints are usually about pricing or update bugs. High trust score."
+  },
+  {
+    "companyId": 20,
+    "databaseDetail": "Microsoft's official support forums are active. The company frequently warns users about fake 'virus detected' pop-ups that demand they call a technician."
+  },
+  {
+    "companyId": 21,
+    "databaseDetail": "Amazon has millions of positive reviews. The company's security team frequently warns users about fake 'gift card' surveys that harvest personal data."
+  },
+  {
+    "companyId": 22,
+    "databaseDetail": "PayPal has millions of positive reviews. The company's official security center frequently warns about 'account suspended' phishing emails and pop-ups."
+  },
+  {
+    "companyId": 23,
+    "databaseDetail": "Client reviews are generally positive on financial directories. Complaints are standard investment risks. The company does not guarantee returns in its official reviews."
+  },
+  {
+    "companyId": 24,
+    "databaseDetail": "USPS has standard government ratings. The agency frequently issues warnings about 'smishing' scams that demand redelivery fees via third-party links."
+  },
+  {
+    "companyId": 25,
+    "databaseDetail": "Well-known automotive brand with strong consumer trust. Complaints are typical vehicle-related issues (maintenance, recalls) handled through official dealers."
+  },
+  {
+    "companyId": 26,
+    "databaseDetail": "Highly rated app. Complaints typically revolve around content library changes, not billing fraud."
+  },
+  {
+    "companyId": 27,
+    "databaseDetail": "Industry-leading brand with millions of organic reviews. Complaints are usually about sizing or shipping, not fraud."
+  },
+  {
+    "companyId": 28,
+    "databaseDetail": "Millions of organic app store reviews. Complaints are minor (e.g., UI changes) rather than fraud-related."
+  },
+  {
+    "companyId": 29,
+    "databaseDetail": "Industry standard with high trust scores. Complaints are typical of high-end electronics (e.g., pricing, repair costs)."
+  },
+  {
+    "companyId": 30,
+    "databaseDetail": "The IRS has standard government ratings. The agency frequently warns about 'tax refund' phishing scams that request SSNs and bank details via ad links."
+  },
+  {
+    "companyId": 31,
+    "databaseDetail": "Mixed reviews on health forums. Complaints are typically about product efficacy or pricing. No reports of the company promising impossible weight loss results in official reviews."
+  },
+  {
+    "companyId": 32,
+    "databaseDetail": "Chase has high trust scores. The bank frequently warns about 'account frozen' phishing scams that demand login via third-party links."
+  },
+  {
+    "companyId": 33,
+    "databaseDetail": "Positive reviews from corporate clients. Complaints are typically about staffing timelines. The company does not charge upfront fees as stated in its official policies."
+  },
+  {
+    "companyId": 34,
+    "databaseDetail": "Apple has high trust scores. The company frequently warns users about 'prize raffle' scams that demand shipping fees for non-existent prizes."
+  },
+  {
+    "companyId": 35,
+    "databaseDetail": "Highly rated insurance provider. Complaints are typical of the insurance industry (claims disputes) and are handled through official channels."
+  },
+  {
+    "companyId": 36,
+    "databaseDetail": "Millions of reviews. Complaints are typical (host disputes, cleaning fees) and covered by the platform's guest protection policy."
+  },
+  {
+    "companyId": 37,
+    "databaseDetail": "Well-known brand. Complaints are standard food service issues (order accuracy, wait times), not fraud."
+  },
+  {
+    "companyId": 38,
+    "databaseDetail": "Highly rated. Complaints are typically about third-party seller issues, which are covered by Amazon's A-to-Z Guarantee."
+  },
+  {
+    "companyId": 39,
+    "databaseDetail": "Well-known brand. Complaints are typical retail issues (stock, delivery), not fraud."
+  },
+  {
+    "companyId": 40,
+    "databaseDetail": "McAfee has standard software ratings. The company frequently warns users about 'scareware' pop-ups that impersonate their brand to sell fake antivirus."
+  },
+  {
+    "companyId": 41,
+    "databaseDetail": "Tesla has high trust scores. The company frequently warns users about fake 'Elon Musk crypto giveaway' scams using deepfake videos."
+  },
+  {
+    "companyId": 42,
+    "databaseDetail": "Sterling & Cross LLP has positive reviews on legal directories. Complaints are standard legal fees. The firm does not contact strangers about unclaimed inheritances."
+  },
+  {
+    "companyId": 43,
+    "databaseDetail": "Netflix has high trust scores. The company frequently warns users about 'payment declined' phishing emails that demand card updates."
+  },
+  {
+    "companyId": 44,
+    "databaseDetail": "The Federal Grants Office has standard government ratings. The agency frequently warns users about 'grant approval' scams that charge processing fees."
+  },
+  {
+    "companyId": 45,
+    "databaseDetail": "Industry standard console. Complaints are typical hardware/software issues, covered by Microsoft's warranty."
+  },
+  {
+    "companyId": 46,
+    "databaseDetail": "Positive reviews. Complaints are typical of subscription box services (shipping delays, billing dates)."
+  },
+  {
+    "companyId": 47,
+    "databaseDetail": "Major telecom provider. Complaints are typical of the telecom industry (service outages, billing disputes)."
+  },
+  {
+    "companyId": 48,
+    "databaseDetail": "Well-known brand. Complaints are standard food service issues, not fraud."
+  },
+  {
+    "companyId": 49,
+    "databaseDetail": "Highly rated products. Complaints are usually about pricing or skin irritation, not fraud."
+  },
+  {
+    "companyId": 50,
+    "databaseDetail": "Meta has standard social media ratings. The company frequently warns users about 'account deletion' phishing scams that demand password confirmation."
+  },
+  {
+    "companyId": 51,
+    "databaseDetail": "Volkswagen has standard automotive ratings. Note: The company faced massive recalls and lawsuits due to the 'Clean Diesel' emissions scandal."
+  },
+  {
+    "companyId": 52,
+    "databaseDetail": "Red Bull has positive consumer ratings. Note: Consumer groups flagged their 'gives you wings' health claim as misleading, leading to a class-action settlement."
+  },
+  {
+    "companyId": 53,
+    "databaseDetail": "Activia has positive food ratings. Note: Consumer watchdogs challenged the scientific validity of their digestion claims, leading to a settlement."
+  },
+  {
+    "companyId": 54,
+    "databaseDetail": "ABCmouse has standard education ratings. Note: The FTC ordered them to pay $10 million in refunds for deceptive billing practices regarding their 'free trial'."
+  },
+  {
+    "companyId": 55,
+    "databaseDetail": "JCPenney has standard retail ratings. Note: Consumer groups have criticized them for 'fake anchor pricing' (inflated original prices)."
+  },
+  {
+    "companyId": 56,
+    "databaseDetail": "Airbnb has high trust scores. Complaints are typically about hidden cleaning fees, which the platform is actively working to make more transparent."
+  },
+  {
+    "companyId": 57,
+    "databaseDetail": "Williams-Sonoma has standard retail ratings. Note: The FTC ordered them to stop making false 'Made in USA' claims in the past."
+  },
+  {
+    "companyId": 58,
+    "databaseDetail": "Booking.com has standard travel ratings. Note: Consumer protection agencies have investigated them for using fake urgency tactics (e.g., 'only 1 room left')."
+  },
+  {
+    "companyId": 59,
+    "databaseDetail": "L'Oréal has standard beauty ratings. Note: Dermatologists warn that claims of 'reversing' skin damage are misleading, and lawsuits have been filed."
+  },
+  {
+    "companyId": 60,
+    "databaseDetail": "Naked Juice has standard beverage ratings. Note: The company settled a $9 million class-action lawsuit for falsely labeling products as 'all-natural'."
+  },
+  {
+    "companyId": 61,
+    "databaseDetail": "The VW Beetle is a classic, well-reviewed vehicle. Historical reviews are positive and accurate."
+  },
+  {
+    "companyId": 62,
+    "databaseDetail": "A widely respected and popular course in the early 20th century. Positive historical reviews."
+  },
+  {
+    "companyId": 63,
+    "databaseDetail": "The campaign was widely praised for its honesty and humor. Positive public reception."
+  },
+  {
+    "companyId": 64,
+    "databaseDetail": "The campaign was highly successful and well-received by consumers."
+  },
+  {
+    "companyId": 65,
+    "databaseDetail": "A universally recognized and trusted candy bar with no pattern of complaints."
+  },
+  {
+    "companyId": 66,
+    "databaseDetail": "Trusted luxury brand. Complaints are typical luxury retail issues, not fraud."
+  },
+  {
+    "companyId": 67,
+    "databaseDetail": "Highly successful and well-received campaign. No pattern of consumer complaints."
+  },
+  {
+    "companyId": 68,
+    "databaseDetail": "Major airline. Complaints are typical of the aviation industry (delays, baggage), not fraud."
+  },
+  {
+    "companyId": 69,
+    "databaseDetail": "Iconic and widely recognized campaign. No pattern of consumer complaints."
+  },
+  {
+    "companyId": 70,
+    "databaseDetail": "Major logistics provider. Complaints are typical of shipping issues, handled through official channels."
+  },
+  {
+    "companyId": 71,
+    "databaseDetail": "Apple has high trust scores. The company frequently warns users about 'Apple ID compromised' phishing alerts that demand card details."
+  },
+  {
+    "companyId": 72,
+    "databaseDetail": "The IRS has standard government ratings. The agency frequently warns about 'arrest warrant' scams that demand payment in gift cards."
+  },
+  {
+    "companyId": 73,
+    "databaseDetail": "Positive reviews from corporate clients. Complaints are typically about app testing timelines. The company does not charge activation fees as stated in its policies."
+  },
+  {
+    "companyId": 74,
+    "databaseDetail": "FedEx has standard logistics ratings. The company frequently warns users about 'redelivery fee' smishing scams."
+  },
+  {
+    "companyId": 75,
+    "databaseDetail": "ConcertPass has positive reviews on ticketing directories. Complaints are standard ticketing issues. The company does not request wire transfers as per its official policies."
+  },
+  {
+    "companyId": 76,
+    "databaseDetail": "PayPal has high trust scores. The company frequently warns users about 'account suspended' phishing emails that demand PINs."
+  },
+  {
+    "companyId": 77,
+    "databaseDetail": "CryptoWealth Capital has mixed reviews on financial forums. Complaints are standard investment risks. The company does not guarantee returns in its official reviews."
+  },
+  {
+    "companyId": 78,
+    "databaseDetail": "System Repair Pro has standard tech support ratings. Microsoft frequently warns users about fake 'system repair' pop-ups that demand phone calls."
+  },
+  {
+    "companyId": 79,
+    "databaseDetail": "National Fuel Rewards has positive reviews on consumer forums. Complaints are standard rewards issues. The company does not ask for credit cards for verification."
+  },
+  {
+    "companyId": 80,
+    "databaseDetail": "The Government Relief Dept has standard government ratings. The agency frequently warns users about 'grant approval' scams that charge upfront fees."
+  },
+  {
+    "companyId": 81,
+    "databaseDetail": "A universally recognized and trusted candy with no pattern of complaints."
+  },
+  {
+    "companyId": 82,
+    "databaseDetail": "Well-known automotive brand. Complaints are typical vehicle-related issues, handled through official dealers."
+  },
+  {
+    "companyId": 83,
+    "databaseDetail": "A universally recognized and trusted candy with no pattern of complaints."
+  },
+  {
+    "companyId": 84,
+    "databaseDetail": "Highly successful and well-received campaign. No pattern of consumer complaints."
+  },
+  {
+    "companyId": 85,
+    "databaseDetail": "Well-known brand. Complaints are standard food service issues, not fraud."
+  },
+  {
+    "companyId": 86,
+    "databaseDetail": "Highly rated insurance provider. Complaints are typical of the industry, handled through official agents."
+  },
+  {
+    "companyId": 87,
+    "databaseDetail": "Globally trusted payment network. Complaints are typically resolved through bank chargebacks."
+  },
+  {
+    "companyId": 88,
+    "databaseDetail": "Well-known brand. Complaints are standard food service issues, not fraud."
+  },
+  {
+    "companyId": 89,
+    "databaseDetail": "Well-known brand. Complaints are standard consumer issues, not fraud."
+  },
+  {
+    "companyId": 90,
+    "databaseDetail": "Well-known brand. Complaints are standard consumer issues, not fraud."
+  },
+  {
+    "companyId": 91,
+    "databaseDetail": "The State Unclaimed Division has standard government ratings. State agencies frequently warn about 'unclaimed property' scams that charge processing fees."
+  },
+  {
+    "companyId": 92,
+    "databaseDetail": "Wells Fargo has standard banking ratings. The company frequently warns about 'unauthorized charge' phishing alerts that demand login via third-party links."
+  },
+  {
+    "companyId": 93,
+    "databaseDetail": "Red Bull has positive consumer ratings. The company frequently warns about fake 'car wrap' programs that send fake checks."
+  },
+  {
+    "companyId": 94,
+    "databaseDetail": "DroidClean Utilities has moderate ratings on app stores. Complaints are typically about battery usage. The company does not use scareware tactics."
+  },
+  {
+    "companyId": 95,
+    "databaseDetail": "CutePuppies Direct has mixed reviews on pet forums. Complaints are standard adoption issues. The company follows standard payment practices (no Zelle/wire)."
+  },
+  {
+    "companyId": 96,
+    "databaseDetail": "Well-known brand. Complaints are standard consumer issues (e.g., pricing of blades), not fraud."
+  },
+  {
+    "companyId": 97,
+    "databaseDetail": "Well-known brand. Complaints are standard consumer issues, not fraud."
+  },
+  {
+    "companyId": 98,
+    "databaseDetail": "Well-known brand. Complaints are standard food service issues, not fraud."
+  },
+  {
+    "companyId": 99,
+    "databaseDetail": "Industry standard console. Complaints are typical hardware/software issues, covered by Sony's warranty."
+  },
+  {
+    "companyId": 100,
+    "databaseDetail": "Well-known brand. Complaints are standard consumer issues, not fraud."
+  }
+]

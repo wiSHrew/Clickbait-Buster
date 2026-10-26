@@ -1,0 +1,402 @@
+[
+  {
+    "companyId": 1,
+    "databaseDetail": "Full, transparent Terms of Service and Privacy Policy are publicly available on the official website. Compliant with GDPR and international data protection laws."
+  },
+  {
+    "companyId": 2,
+    "databaseDetail": "Comprehensive Terms of Service and Privacy Policies are available in the GCash app. The company requires strict identity verification for all financial transactions and never asks for passwords."
+  },
+  {
+    "companyId": 3,
+    "databaseDetail": "The Steam Subscriber Agreement is publicly accessible, legally binding, and clearly outlines user rights, refund policies, and account restrictions."
+  },
+  {
+    "companyId": 4,
+    "databaseDetail": "Apple's Terms and Conditions are fully documented. The company explicitly states that it does not run unsolicited giveaways or ask for personal information via third-party links."
+  },
+  {
+    "companyId": 5,
+    "databaseDetail": "Comprehensive Terms of Service, Privacy Policies, and driver/rider agreements are accessible in the app and on the website. Clear dispute resolution process."
+  },
+  {
+    "companyId": 6,
+    "databaseDetail": "Meta's Terms of Service are publicly available. The company explicitly states it will never ask for your password via email or pop-up ads, and all security actions are handled in-app."
+  },
+  {
+    "companyId": 7,
+    "databaseDetail": "Detailed Terms of Use and Privacy Policy are readily available on the official site. Clearly outlines subscription billing and cancellation rules."
+  },
+  {
+    "companyId": 8,
+    "databaseDetail": "Privacy policy is available on the official website. The app requests standard permissions for a security tool (e.g., storage access) and complies with app store regulations."
+  },
+  {
+    "companyId": 9,
+    "databaseDetail": "Netflix Terms of Use are comprehensive, legally vetted, and accessible on the website. Clear disclosures on data collection and subscription terms."
+  },
+  {
+    "companyId": 10,
+    "databaseDetail": "Consulting agreements and privacy policies are available upon request. The company operates under standard financial advisory regulations and provides transparent contracts."
+  },
+  {
+    "companyId": 11,
+    "databaseDetail": "Extensive T&Cs, buyer protection policies, and privacy guidelines are available. Clear dispute resolution process for buyers and sellers."
+  },
+  {
+    "companyId": 12,
+    "databaseDetail": "Shopee's official Terms of Service explicitly prohibit charging 'processing fees' for prizes. All legitimate campaigns are governed by the platform's official rules."
+  },
+  {
+    "companyId": 13,
+    "databaseDetail": "Adobe's licensing agreements are fully documented, legally binding, and clearly outline software usage rights and subscription terms."
+  },
+  {
+    "companyId": 14,
+    "databaseDetail": "DSWD's official terms state that all assistance programs require in-person or official online verification. The agency never asks for bank details via social media links."
+  },
+  {
+    "companyId": 15,
+    "databaseDetail": "Clear T&Cs and privacy policies are available on the official site. Transparent billing terms for Super Duolingo subscriptions."
+  },
+  {
+    "companyId": 16,
+    "databaseDetail": "Meta's official Terms state that all security actions must be taken within the app or on meta.com. The company does not use third-party domains for account recovery."
+  },
+  {
+    "companyId": 17,
+    "databaseDetail": "Comprehensive T&Cs, buyer protection, and privacy policies are accessible. Clear return and refund guidelines are provided."
+  },
+  {
+    "companyId": 18,
+    "databaseDetail": "TikTok's official Terms of Service state that all rewards and promotions are managed within the app. The company does not use third-party sites for cash giveaways."
+  },
+  {
+    "companyId": 19,
+    "databaseDetail": "Microsoft Services Agreement is fully documented, legally binding, and clearly outlines subscription terms, data usage, and cancellation policies."
+  },
+  {
+    "companyId": 20,
+    "databaseDetail": "Microsoft's official policy states that security alerts are delivered via system notifications, not browser pop-ups. The company does not operate unsolicited support phone numbers."
+  },
+  {
+    "companyId": 21,
+    "databaseDetail": "Amazon's Conditions of Use are publicly available. The company does not run $1,000 gift card surveys and all official promotions are listed on the Amazon website."
+  },
+  {
+    "companyId": 22,
+    "databaseDetail": "PayPal's User Agreement is fully documented. The company states it will never ask for your PIN or full card number via email or third-party links."
+  },
+  {
+    "companyId": 23,
+    "databaseDetail": "CryptoWealth Capital's client agreement is available upon request. The company does not guarantee returns and all investments carry risk as per regulatory guidelines."
+  },
+  {
+    "companyId": 24,
+    "databaseDetail": "USPS's official terms state that redelivery fees are paid only on usps.com. The agency does not use third-party ad links to collect payments or personal information."
+  },
+  {
+    "companyId": 25,
+    "databaseDetail": "Full vehicle specifications, pricing, and warranty terms are available. Standard dealership contracts apply."
+  },
+  {
+    "companyId": 26,
+    "databaseDetail": "Netflix Terms of Use are comprehensive, legally vetted, and accessible on the website. Clear disclosures on subscription terms."
+  },
+  {
+    "companyId": 27,
+    "databaseDetail": "Terms of sale and privacy policies are fully documented. Clear return policy for unworn items within 30 days."
+  },
+  {
+    "companyId": 28,
+    "databaseDetail": "Full, transparent Terms of Service are publicly available. Clearly outlines free trial and cancellation policies."
+  },
+  {
+    "companyId": 29,
+    "databaseDetail": "Sales, warranty, and privacy policies are fully documented. Standard Apple return policy applies."
+  },
+  {
+    "companyId": 30,
+    "databaseDetail": "IRS's official guidelines state that tax refunds are processed only through official IRS channels. The agency never uses ad links or requests SSNs via unsolicited messages."
+  },
+  {
+    "companyId": 31,
+    "databaseDetail": "MiracleKeto Labs' terms of sale and privacy policy are available on the official website. All health claims are subject to FDA guidelines and no guaranteed results are promised."
+  },
+  {
+    "companyId": 32,
+    "databaseDetail": "Chase's Deposit Account Agreement states that fraud alerts are delivered via secure in-app notifications. The bank never uses third-party pop-up ads for account verification."
+  },
+  {
+    "companyId": 33,
+    "databaseDetail": "Global Remote Staffing's terms of service are available on the official website. The company follows standard employment practices and does not charge upfront fees."
+  },
+  {
+    "companyId": 34,
+    "databaseDetail": "Apple's official terms state that the company does not operate 'visitor #100,000' raffles or charge shipping fees for prizes. All giveaways are managed through official channels."
+  },
+  {
+    "companyId": 35,
+    "databaseDetail": "Policy terms and conditions are provided in full upon quote generation. Standard insurance regulations apply."
+  },
+  {
+    "companyId": 36,
+    "databaseDetail": "Comprehensive Terms of Service and guest protection policies are available. Clear cancellation policies vary by host."
+  },
+  {
+    "companyId": 37,
+    "databaseDetail": "App terms and loyalty program rules are publicly available. Standard food service terms apply."
+  },
+  {
+    "companyId": 38,
+    "databaseDetail": "Amazon Prime Terms and Conditions are fully documented. Clear renewal and cancellation policies are provided."
+  },
+  {
+    "companyId": 39,
+    "databaseDetail": "Store policies and warranties are publicly accessible. Standard return terms apply."
+  },
+  {
+    "companyId": 40,
+    "databaseDetail": "McAfee's End User License Agreement (EULA) states that security alerts are delivered via the official software. The company does not use browser pop-ups to demand renewals."
+  },
+  {
+    "companyId": 41,
+    "databaseDetail": "Tesla's official terms of service state that the company does not operate cryptocurrency giveaways or double-your-money promotions. All official communications are via verified channels."
+  },
+  {
+    "companyId": 42,
+    "databaseDetail": "Sterling & Cross LLP's terms of engagement are available upon request. The firm follows strict legal ethics and does not contact strangers regarding unclaimed inheritances."
+  },
+  {
+    "companyId": 43,
+    "databaseDetail": "Netflix's Terms of Use state that billing issues are communicated via official email and in-app notifications. The company never demands card updates via third-party pop-up ads."
+  },
+  {
+    "companyId": 44,
+    "databaseDetail": "The US government's official grant guidelines state that applying for grants is free. The government does not charge 'application clearance fees' or ask for bank details via social media."
+  },
+  {
+    "companyId": 45,
+    "databaseDetail": "Xbox Terms of Service are fully documented. Clear policies on digital purchases and subscriptions."
+  },
+  {
+    "companyId": 46,
+    "databaseDetail": "Subscription and shipping terms are publicly available. Clear cancellation policy for monthly boxes."
+  },
+  {
+    "companyId": 47,
+    "databaseDetail": "Full device payment and service terms are provided upfront. Standard 30-day return policy applies."
+  },
+  {
+    "companyId": 48,
+    "databaseDetail": "App and online ordering terms are fully documented. Standard franchise policies apply."
+  },
+  {
+    "companyId": 49,
+    "databaseDetail": "Product terms and usage instructions are clearly labeled. Standard retail terms apply."
+  },
+  {
+    "companyId": 50,
+    "databaseDetail": "Meta's Terms of Service state that all account security actions must be taken within the app or on meta.com. The company does not use third-party domains for password confirmation."
+  },
+  {
+    "companyId": 51,
+    "databaseDetail": "Volkswagen's terms of sale include standard vehicle warranties. Note: The company has faced legal action for misleading emissions claims in the past."
+  },
+  {
+    "companyId": 52,
+    "databaseDetail": "Red Bull's terms of sale include standard beverage warranties. Note: The company has faced legal action for misleading health claims in the past."
+  },
+  {
+    "companyId": 53,
+    "databaseDetail": "Danone's terms of sale include standard food warranties. Note: The company has faced legal action for misleading digestive health claims in the past."
+  },
+  {
+    "companyId": 54,
+    "databaseDetail": "ABCmouse's subscription terms state that the free trial automatically converts to a full-price annual subscription unless cancelled. Note: The company has faced FTC action for deceptive billing practices."
+  },
+  {
+    "companyId": 55,
+    "databaseDetail": "JCPenney's terms of sale include standard retail return policies. Note: The company has been criticized for 'fake anchor pricing' in the past."
+  },
+  {
+    "companyId": 56,
+    "databaseDetail": "Airbnb's Terms of Service require hosts to disclose all fees upfront. Listings that hide fees violate the platform's terms and are subject to removal."
+  },
+  {
+    "companyId": 57,
+    "databaseDetail": "Williams-Sonoma's terms of sale include standard retail return policies. Note: The company has faced FTC action for false 'Made in USA' claims in the past."
+  },
+  {
+    "companyId": 58,
+    "databaseDetail": "Booking.com's Terms of Service state that all fees must be disclosed transparently. Note: The company has been criticized for using manipulative 'dark patterns' in the past."
+  },
+  {
+    "companyId": 59,
+    "databaseDetail": "L'Oréal's terms of sale include standard cosmetics warranties. Note: The company has faced class-action lawsuits for exaggerated anti-aging claims in the past."
+  },
+  {
+    "companyId": 60,
+    "databaseDetail": "Naked Juice's terms of sale include standard beverage warranties. Note: The company has faced class-action lawsuits for false 'all-natural' labeling in the past."
+  },
+  {
+    "companyId": 61,
+    "databaseDetail": "Standard vehicle sales terms apply. The ad's claims match the historical specifications of the VW Beetle."
+  },
+  {
+    "companyId": 62,
+    "databaseDetail": "Course terms were transparent and standard for the era. Clear enrollment and refund policies."
+  },
+  {
+    "companyId": 63,
+    "databaseDetail": "No deceptive terms. The ad is a public statement. Standard corporate communication."
+  },
+  {
+    "companyId": 64,
+    "databaseDetail": "Standard product terms apply. The campaign is a legitimate advertising series."
+  },
+  {
+    "companyId": 65,
+    "databaseDetail": "Standard product terms apply. No deceptive claims or hidden fees."
+  },
+  {
+    "companyId": 66,
+    "databaseDetail": "Diamond certification and sales terms are provided. The trademark and slogan are legally owned."
+  },
+  {
+    "companyId": 67,
+    "databaseDetail": "Promotional terms are publicly available. The campaign complies with advertising standards."
+  },
+  {
+    "companyId": 68,
+    "databaseDetail": "Booking terms and conditions are fully documented. Standard airline fare rules apply."
+  },
+  {
+    "companyId": 69,
+    "databaseDetail": "Public health campaign with standard disclosures. No deceptive terms."
+  },
+  {
+    "companyId": 70,
+    "databaseDetail": "Shipping terms and liability policies are fully documented. Clear money-back guarantees."
+  },
+  {
+    "companyId": 71,
+    "databaseDetail": "Apple's Terms and Conditions state that security alerts are delivered via verified system notifications. The company never demands card details via random ad links."
+  },
+  {
+    "companyId": 72,
+    "databaseDetail": "IRS's official guidelines state that tax debts are never collected via gift cards or third-party ad links. All tax matters are handled through official channels."
+  },
+  {
+    "companyId": 73,
+    "databaseDetail": "AppTester Pro's terms of service state that legitimate testing jobs do not require an upfront activation fee. The company follows standard employment practices."
+  },
+  {
+    "companyId": 74,
+    "databaseDetail": "FedEx's Terms of Service state that redelivery fees are paid only on fedex.com. The company does not use third-party ad links to collect payments or personal information."
+  },
+  {
+    "companyId": 75,
+    "databaseDetail": "ConcertPass's terms of service state that legitimate ticketing agencies never ask for wire transfers for 'handling fees'. All official transactions are processed through the platform."
+  },
+  {
+    "companyId": 76,
+    "databaseDetail": "PayPal's User Agreement states that the company never asks for your PIN or full card number via email or third-party links. All security actions are handled in-app."
+  },
+  {
+    "companyId": 77,
+    "databaseDetail": "CryptoWealth Capital's client agreement states that the company does not guarantee returns. All investments carry risk as per regulatory guidelines."
+  },
+  {
+    "companyId": 78,
+    "databaseDetail": "System Repair Pro's terms of service state that the company uses official support channels only. Microsoft does not provide direct phone numbers through pop-ups."
+  },
+  {
+    "companyId": 79,
+    "databaseDetail": "National Fuel Rewards' terms state that the company never asks for credit cards for 'identity verification'. All legitimate rewards are claimed through the official app."
+  },
+  {
+    "companyId": 80,
+    "databaseDetail": "The US government's official grant guidelines state that applying for housing grants is free. The government does not charge 'application clearance fees'."
+  },
+  {
+    "companyId": 81,
+    "databaseDetail": "Standard product terms apply. No deceptive claims or hidden fees."
+  },
+  {
+    "companyId": 82,
+    "databaseDetail": "Full vehicle specifications and warranty terms are available. Standard dealership contracts apply."
+  },
+  {
+    "companyId": 83,
+    "databaseDetail": "Standard product terms apply. No deceptive claims or hidden fees."
+  },
+  {
+    "companyId": 84,
+    "databaseDetail": "Promotional terms are publicly available. The campaign complies with advertising standards."
+  },
+  {
+    "companyId": 85,
+    "databaseDetail": "App and online ordering terms are fully documented. Standard franchise policies apply."
+  },
+  {
+    "companyId": 86,
+    "databaseDetail": "Policy terms are provided in full upon quote generation. Standard insurance regulations apply."
+  },
+  {
+    "companyId": 87,
+    "databaseDetail": "Cardholder agreements are fully documented. Standard financial services terms apply."
+  },
+  {
+    "companyId": 88,
+    "databaseDetail": "App and online ordering terms are fully documented. Standard franchise policies apply."
+  },
+  {
+    "companyId": 89,
+    "databaseDetail": "Standard product terms apply. No deceptive claims or hidden fees."
+  },
+  {
+    "companyId": 90,
+    "databaseDetail": "Standard product terms apply. No deceptive claims or hidden fees."
+  },
+  {
+    "companyId": 91,
+    "databaseDetail": "State unclaimed property offices' terms state that they do not charge processing fees to release funds. All legitimate claims are free to process."
+  },
+  {
+    "companyId": 92,
+    "databaseDetail": "Wells Fargo's Deposit Account Agreement states that fraud alerts are delivered via secure in-app notifications. The bank never uses third-party pop-up ads for account verification."
+  },
+  {
+    "companyId": 93,
+    "databaseDetail": "Red Bull's terms of service state that the company does not operate car wrap programs. The company follows standard employment practices."
+  },
+  {
+    "companyId": 94,
+    "databaseDetail": "DroidClean Utilities' privacy policy is available on the official website. The app follows standard app store billing practices and does not use scareware tactics."
+  },
+  {
+    "companyId": 95,
+    "databaseDetail": "CutePuppies Direct's terms of service state that the company follows standard pet adoption practices. Legitimate breeders do not require payment via Zelle or wire transfer."
+  },
+  {
+    "companyId": 96,
+    "databaseDetail": "Standard product terms apply. No deceptive claims or hidden fees."
+  },
+  {
+    "companyId": 97,
+    "databaseDetail": "Standard product terms apply. No deceptive claims or hidden fees."
+  },
+  {
+    "companyId": 98,
+    "databaseDetail": "App terms and loyalty program rules are publicly available. Standard food service terms apply."
+  },
+  {
+    "companyId": 99,
+    "databaseDetail": "PlayStation Network Terms of Service are fully documented. Clear policies on digital purchases and subscriptions."
+  },
+  {
+    "companyId": 100,
+    "databaseDetail": "Standard product terms apply. No deceptive claims or hidden fees."
+  }
+]

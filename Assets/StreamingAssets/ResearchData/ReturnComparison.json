@@ -1,0 +1,402 @@
+[
+  {
+    "companyId": 1,
+    "databaseDetail": "Policy: Standard 30-day free trial. Subscriptions can be cancelled at any time via account settings. No hidden penalties or fees."
+  },
+  {
+    "companyId": 2,
+    "databaseDetail": "Policy: Standard e-wallet transfer policies apply. Transfers are final once confirmed. The company does not issue 'guaranteed cash prizes' or request processing fees."
+  },
+  {
+    "companyId": 3,
+    "databaseDetail": "Policy: Standard Steam refund policy applies: 14 days or 2 hours of playtime. Seasonal sales are an industry standard with no hidden return traps."
+  },
+  {
+    "companyId": 4,
+    "databaseDetail": "Policy: Standard 14-day return policy for electronics purchased directly from Apple. The company does not give away free iPhones for answering surveys."
+  },
+  {
+    "companyId": 5,
+    "databaseDetail": "Policy: Standard delivery fees and clear refund policies for missing or cold items. Transparent pricing structure displayed at checkout."
+  },
+  {
+    "companyId": 6,
+    "databaseDetail": "Policy: Meta does not use urgent pop-up links to demand account verification. Standard account recovery is handled entirely within the official app."
+  },
+  {
+    "companyId": 7,
+    "databaseDetail": "Policy: Offers a standard 30-day free trial. Pricing tiers are transparent and clearly displayed. No hidden return requirements."
+  },
+  {
+    "companyId": 8,
+    "databaseDetail": "Policy: Standard mobile app trial (7 days). Subscriptions auto-renew unless cancelled 24 hours before the renewal date. Clear pricing on the app store."
+  },
+  {
+    "companyId": 9,
+    "databaseDetail": "Policy: Standard monthly subscription with no hidden fees. Clear cancellation policy available in the account settings."
+  },
+  {
+    "companyId": 10,
+    "databaseDetail": "Policy: Consulting services are billed hourly. The company does not promise 'guaranteed daily returns' or require upfront 'training fees'."
+  },
+  {
+    "companyId": 11,
+    "databaseDetail": "Policy: Standard e-commerce return and refund policies are clearly stated. Buyer protection guarantees are in place for eligible items."
+  },
+  {
+    "companyId": 12,
+    "databaseDetail": "Policy: Shopee does not charge 'processing fees' for prizes. Legitimate campaigns are managed through the official app and never require upfront payment."
+  },
+  {
+    "companyId": 13,
+    "databaseDetail": "Policy: Standard subscription models apply. A 14-day money-back guarantee is available for new users who cancel."
+  },
+  {
+    "companyId": 14,
+    "databaseDetail": "Policy: Government assistance requires strict verification and is never distributed via random ad links. There are no 'processing fees' for legitimate aid."
+  },
+  {
+    "companyId": 15,
+    "databaseDetail": "Policy: Free to use with ads, or a transparent paid tier (Super Duolingo) with a free trial. No deceptive billing practices."
+  },
+  {
+    "companyId": 16,
+    "databaseDetail": "Policy: Meta never demands immediate action via pop-up links to prevent account deletion. All security actions are handled in-app."
+  },
+  {
+    "companyId": 17,
+    "databaseDetail": "Policy: Standard return and refund policies are in place for buyers. Transparent voucher conditions are displayed at checkout."
+  },
+  {
+    "companyId": 18,
+    "databaseDetail": "Policy: TikTok does not give away cash via third-party sites. The platform does not use fake countdown timers for legitimate promotions."
+  },
+  {
+    "companyId": 19,
+    "databaseDetail": "Policy: Transparent monthly/annual subscription models with official cancellation policies. No hidden fees."
+  },
+  {
+    "companyId": 20,
+    "databaseDetail": "Policy: Microsoft does not use browser pop-ups to alert users of expired licenses or demand phone calls for support."
+  },
+  {
+    "companyId": 21,
+    "databaseDetail": "Policy: Amazon does not award $1,000 gift cards for short surveys. All official promotions are listed on the Amazon website."
+  },
+  {
+    "companyId": 22,
+    "databaseDetail": "Policy: PayPal uses secure in-app alerts for suspicious logins. The company never demands login via third-party ad links."
+  },
+  {
+    "companyId": 23,
+    "databaseDetail": "Policy: CryptoWealth Capital does not guarantee returns. All investments carry risk. The company does not promise '500% ROI in 7 days'."
+  },
+  {
+    "companyId": 24,
+    "databaseDetail": "Policy: USPS does not charge redelivery fees via third-party ad links. All official tracking and fee payments are handled on usps.com."
+  },
+  {
+    "companyId": 25,
+    "databaseDetail": "Policy: Standard dealership pricing and manufacturer warranty policies apply. No unrealistic promises."
+  },
+  {
+    "companyId": 26,
+    "databaseDetail": "Policy: Standard monthly subscription with no hidden fees. Clear cancellation policy."
+  },
+  {
+    "companyId": 27,
+    "databaseDetail": "Policy: Standard 30-day return policy for unworn items. Transparent pricing displayed on the website."
+  },
+  {
+    "companyId": 28,
+    "databaseDetail": "Policy: Offers a standard 30-day free trial. Subscription can be cancelled anytime without hidden penalties."
+  },
+  {
+    "companyId": 29,
+    "databaseDetail": "Policy: Standard 14-day return policy for electronics purchased directly from Apple. No misleading pricing."
+  },
+  {
+    "companyId": 30,
+    "databaseDetail": "Policy: The IRS does not issue refunds via ad links or request bank details via unsolicited messages. All tax matters are handled through official channels."
+  },
+  {
+    "companyId": 31,
+    "databaseDetail": "Policy: Standard supplement sales. No claims of 'losing 30 lbs in 5 days' are endorsed by the company or regulatory bodies. No hidden subscription traps."
+  },
+  {
+    "companyId": 32,
+    "databaseDetail": "Policy: Chase uses secure in-app alerts for fraud warnings. The bank never demands login via third-party pop-up ads."
+  },
+  {
+    "companyId": 33,
+    "databaseDetail": "Policy: Legitimate staffing agencies do not charge upfront registration fees. Global Remote Staffing follows standard employment practices."
+  },
+  {
+    "companyId": 34,
+    "databaseDetail": "Policy: Apple does not run 'visitor #100,000' raffles or charge $1 shipping fees for prizes. All giveaways are managed through official channels."
+  },
+  {
+    "companyId": 35,
+    "databaseDetail": "Policy: Transparent auto insurance quotes. Standard regulatory policies apply. No hidden fees."
+  },
+  {
+    "companyId": 36,
+    "databaseDetail": "Policy: Standard cancellation policies vary by host. Transparent fee breakdown is provided at checkout."
+  },
+  {
+    "companyId": 37,
+    "databaseDetail": "Policy: Standard food pricing and return policies apply in-store and online. No deceptive claims."
+  },
+  {
+    "companyId": 38,
+    "databaseDetail": "Policy: Amazon Prime offers a 30-day free trial. Standard subscription fees apply afterward. Clear cancellation."
+  },
+  {
+    "companyId": 39,
+    "databaseDetail": "Policy: Standard 365-day return policy for unopened items (varies by region). Transparent pricing."
+  },
+  {
+    "companyId": 40,
+    "databaseDetail": "Policy: McAfee does not use browser pop-ups to alert users of infections. All security alerts are delivered through the official software."
+  },
+  {
+    "companyId": 41,
+    "databaseDetail": "Policy: Tesla does not operate cryptocurrency giveaways or double-your-money promotions. All official communications are via verified channels."
+  },
+  {
+    "companyId": 42,
+    "databaseDetail": "Policy: Sterling & Cross LLP does not contact strangers regarding unclaimed inheritances. All legal services are billed transparently with no upfront 'court fees'."
+  },
+  {
+    "companyId": 43,
+    "databaseDetail": "Policy: Netflix uses secure in-app alerts for billing issues. The company never demands immediate card updates via third-party pop-up ads."
+  },
+  {
+    "companyId": 44,
+    "databaseDetail": "Policy: The US government does not charge 'application clearance fees' for grants. All legitimate grants are free to apply for."
+  },
+  {
+    "companyId": 45,
+    "databaseDetail": "Policy: Standard retail pricing and Microsoft warranty apply. No hidden fees or unrealistic returns."
+  },
+  {
+    "companyId": 46,
+    "databaseDetail": "Policy: Subscription model with a clear cancellation policy. Transparent pricing for blades and grooming products."
+  },
+  {
+    "companyId": 47,
+    "databaseDetail": "Policy: Trade-in offers have transparent terms. Standard 30-day return policy for devices."
+  },
+  {
+    "companyId": 48,
+    "databaseDetail": "Policy: Standard food pricing. Refund policies depend on the franchise location and are clearly stated."
+  },
+  {
+    "companyId": 49,
+    "databaseDetail": "Policy: Standard retail return policies apply. No unrealistic claims or hidden fees."
+  },
+  {
+    "companyId": 50,
+    "databaseDetail": "Policy: Meta does not use urgent pop-up links to demand password confirmation. Account security is handled within the official app."
+  },
+  {
+    "companyId": 51,
+    "databaseDetail": "Policy: Standard vehicle sales terms apply. Note: The company has faced legal action for misleading emissions claims in the past."
+  },
+  {
+    "companyId": 52,
+    "databaseDetail": "Policy: Standard beverage sales. Note: The company has faced legal action for misleading health claims in the past."
+  },
+  {
+    "companyId": 53,
+    "databaseDetail": "Policy: Standard yogurt sales. Note: The company has faced legal action for misleading digestive health claims in the past."
+  },
+  {
+    "companyId": 54,
+    "databaseDetail": "Policy: The free trial automatically converts to a full-price annual subscription unless cancelled. Note: The company has faced FTC action for deceptive billing practices."
+  },
+  {
+    "companyId": 55,
+    "databaseDetail": "Policy: Standard retail return policies apply. Note: The company has been criticized for 'fake anchor pricing' (inflated original prices) in the past."
+  },
+  {
+    "companyId": 56,
+    "databaseDetail": "Policy: Airbnb requires hosts to disclose all fees upfront. Listings that hide fees violate the platform's terms of service."
+  },
+  {
+    "companyId": 57,
+    "databaseDetail": "Policy: Standard retail return policies apply. Note: The company has faced FTC action for false 'Made in USA' claims in the past."
+  },
+  {
+    "companyId": 58,
+    "databaseDetail": "Policy: Booking.com has been criticized by consumer groups for using manipulative 'dark patterns' and fake scarcity messages."
+  },
+  {
+    "companyId": 59,
+    "databaseDetail": "Policy: Standard cosmetics sales. Note: The company has faced class-action lawsuits for exaggerated anti-aging claims in the past."
+  },
+  {
+    "companyId": 60,
+    "databaseDetail": "Policy: Standard beverage sales. Note: The company has faced class-action lawsuits for false 'all-natural' labeling in the past."
+  },
+  {
+    "companyId": 61,
+    "databaseDetail": "Policy: Standard vehicle sales terms apply. The ad's claims match the historical specifications of the VW Beetle."
+  },
+  {
+    "companyId": 62,
+    "databaseDetail": "Policy: Course terms were transparent and standard for the era. Clear enrollment and refund policies."
+  },
+  {
+    "companyId": 63,
+    "databaseDetail": "Policy: No deceptive terms. The ad is a public statement. Standard corporate communication."
+  },
+  {
+    "companyId": 64,
+    "databaseDetail": "Policy: Standard product terms apply. The campaign is a legitimate advertising series."
+  },
+  {
+    "companyId": 65,
+    "databaseDetail": "Policy: Standard product terms apply. No deceptive claims or hidden fees."
+  },
+  {
+    "companyId": 66,
+    "databaseDetail": "Policy: Diamond certification and sales terms are provided. The trademark and slogan are legally owned."
+  },
+  {
+    "companyId": 67,
+    "databaseDetail": "Policy: Promotional terms are publicly available. The campaign complies with advertising standards."
+  },
+  {
+    "companyId": 68,
+    "databaseDetail": "Policy: Booking terms and conditions are fully documented. Standard airline fare rules apply."
+  },
+  {
+    "companyId": 69,
+    "databaseDetail": "Policy: Public health campaign with standard disclosures. No deceptive terms."
+  },
+  {
+    "companyId": 70,
+    "databaseDetail": "Policy: Shipping terms and liability policies are fully documented. Clear money-back guarantees."
+  },
+  {
+    "companyId": 71,
+    "databaseDetail": "Policy: Apple uses verified system notifications for security alerts. The company never demands card details via random ad links."
+  },
+  {
+    "companyId": 72,
+    "databaseDetail": "Policy: The IRS never demands payment in gift cards or via third-party ad links. All tax matters are handled through official channels."
+  },
+  {
+    "companyId": 73,
+    "databaseDetail": "Policy: Legitimate app testing jobs do not require an upfront activation fee. AppTester Pro follows standard employment practices."
+  },
+  {
+    "companyId": 74,
+    "databaseDetail": "Policy: FedEx does not charge redelivery fees via third-party ad links. All official tracking and fee payments are handled on fedex.com."
+  },
+  {
+    "companyId": 75,
+    "databaseDetail": "Policy: Legitimate ticketing agencies never ask for wire transfers for 'handling fees'. ConcertPass follows standard ticketing practices."
+  },
+  {
+    "companyId": 76,
+    "databaseDetail": "Policy: PayPal never asks for your PIN or full card number via email or ads. All security actions are handled in-app."
+  },
+  {
+    "companyId": 77,
+    "databaseDetail": "Policy: CryptoWealth Capital does not guarantee returns. All investments carry risk. The company does not promise '100x growth'."
+  },
+  {
+    "companyId": 78,
+    "databaseDetail": "Policy: Microsoft does not provide direct phone numbers through pop-ups. System Repair Pro operates through official support channels only."
+  },
+  {
+    "companyId": 79,
+    "databaseDetail": "Policy: National Fuel Rewards never asks for credit cards for 'identity verification'. All legitimate rewards are claimed through the official app."
+  },
+  {
+    "companyId": 80,
+    "databaseDetail": "Policy: The US government does not charge 'application clearance fees' for housing grants. All legitimate grants are free to apply for."
+  },
+  {
+    "companyId": 81,
+    "databaseDetail": "Policy: Standard product terms apply. No deceptive claims or hidden fees."
+  },
+  {
+    "companyId": 82,
+    "databaseDetail": "Policy: Full vehicle specifications and warranty terms are available. Standard dealership contracts apply."
+  },
+  {
+    "companyId": 83,
+    "databaseDetail": "Policy: Standard product terms apply. No deceptive claims or hidden fees."
+  },
+  {
+    "companyId": 84,
+    "databaseDetail": "Policy: Promotional terms are publicly available. The campaign complies with advertising standards."
+  },
+  {
+    "companyId": 85,
+    "databaseDetail": "Policy: App and online ordering terms are fully documented. Standard franchise policies apply."
+  },
+  {
+    "companyId": 86,
+    "databaseDetail": "Policy: Policy terms are provided in full upon quote generation. Standard insurance regulations apply."
+  },
+  {
+    "companyId": 87,
+    "databaseDetail": "Policy: Cardholder agreements are fully documented. Standard financial services terms apply."
+  },
+  {
+    "companyId": 88,
+    "databaseDetail": "Policy: App and online ordering terms are fully documented. Standard franchise policies apply."
+  },
+  {
+    "companyId": 89,
+    "databaseDetail": "Policy: Standard product terms apply. No deceptive claims or hidden fees."
+  },
+  {
+    "companyId": 90,
+    "databaseDetail": "Policy: Standard product terms apply. No deceptive claims or hidden fees."
+  },
+  {
+    "companyId": 91,
+    "databaseDetail": "Policy: State unclaimed property offices do not charge processing fees to release funds. All legitimate claims are free to process."
+  },
+  {
+    "companyId": 92,
+    "databaseDetail": "Policy: Wells Fargo uses secure in-app alerts for fraud warnings. The bank never demands login via third-party pop-up ads."
+  },
+  {
+    "companyId": 93,
+    "databaseDetail": "Policy: Red Bull does not operate car wrap programs. The company follows standard employment practices."
+  },
+  {
+    "companyId": 94,
+    "databaseDetail": "Policy: DroidClean Utilities follows standard app store billing practices. Subscriptions are managed through the official app store."
+  },
+  {
+    "companyId": 95,
+    "databaseDetail": "Policy: CutePuppies Direct follows standard pet adoption practices. Legitimate breeders do not require payment via Zelle or wire transfer."
+  },
+  {
+    "companyId": 96,
+    "databaseDetail": "Policy: Standard product terms apply. No deceptive claims or hidden fees."
+  },
+  {
+    "companyId": 97,
+    "databaseDetail": "Policy: Standard product terms apply. No deceptive claims or hidden fees."
+  },
+  {
+    "companyId": 98,
+    "databaseDetail": "Policy: App terms and loyalty program rules are publicly available. Standard food service terms apply."
+  },
+  {
+    "companyId": 99,
+    "databaseDetail": "Policy: PlayStation Network Terms of Service are fully documented. Clear policies on digital purchases and subscriptions."
+  },
+  {
+    "companyId": 100,
+    "databaseDetail": "Policy: Standard product terms apply. No deceptive claims or hidden fees."
+  }
+]

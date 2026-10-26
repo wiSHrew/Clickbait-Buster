@@ -1,0 +1,402 @@
+[
+  {
+    "companyId": 1,
+    "databaseDetail": "CEO: Daniel Ek. Co-founder and CEO since 2006. Highly public profile with a verifiable history in the Swedish tech industry. Active on social media and frequently interviewed by major news outlets."
+  },
+  {
+    "companyId": 2,
+    "databaseDetail": "CEO: Martha Sazon. President and CEO of Mynt (GCash). Publicly documented executive with a strong track record in the Philippine fintech sector. Verified corporate governance."
+  },
+  {
+    "companyId": 3,
+    "databaseDetail": "President: Gabe Newell. Co-founder of Valve. Well-documented public figure in the gaming industry with a verified corporate profile."
+  },
+  {
+    "companyId": 4,
+    "databaseDetail": "CEO: Tim Cook. Highly visible and verified public figure. Extensive track record in tech. Verified corporate governance structure. Apple does not authorize third parties to use its executives' names in giveaways."
+  },
+  {
+    "companyId": 5,
+    "databaseDetail": "CEO: Anthony Tan. Co-founder of Grab. Highly visible and verified public figure. Active in regional business councils and frequently featured in tech news."
+  },
+  {
+    "companyId": 6,
+    "databaseDetail": "CEO: Mark Zuckerberg. Co-founder and CEO of Meta. Highly visible and verified public figure. The company's official security team has no connection to third-party domains."
+  },
+  {
+    "companyId": 7,
+    "databaseDetail": "CEO: Melanie Perkins. Co-founder and CEO. Highly documented public figure in the Australian tech scene. Verified profiles on LinkedIn and major business publications."
+  },
+  {
+    "companyId": 8,
+    "databaseDetail": "Founder & CEO: David Chen. Verified profile on LinkedIn and business directories. Background in cybersecurity software development."
+  },
+  {
+    "companyId": 9,
+    "databaseDetail": "Co-CEOs: Ted Sarandos and Greg Peters. Both are publicly verified executives with extensive track records in media and tech. Verified corporate governance structure."
+  },
+  {
+    "companyId": 10,
+    "databaseDetail": "Managing Director: Sarah Lim. Documented executive with a background in corporate finance. Verified profile on business directories."
+  },
+  {
+    "companyId": 11,
+    "databaseDetail": "CEO of Sea Ltd: Forrest Li. Publicly verifiable executive with a strong track record. Shopee's local leadership is also registered and documented."
+  },
+  {
+    "companyId": 12,
+    "databaseDetail": "CEO of Sea Ltd: Forrest Li. Publicly verifiable executive. Note: Shopee's official leadership does not run 'processing fee' prize campaigns."
+  },
+  {
+    "companyId": 13,
+    "databaseDetail": "CEO: Shantanu Narayen. Highly visible public figure in tech. Verified corporate governance structure and active SEC filings."
+  },
+  {
+    "companyId": 14,
+    "databaseDetail": "Secretary: Rex Gatchalian. Publicly verified government official. The agency operates through official channels and does not use third-party domains."
+  },
+  {
+    "companyId": 15,
+    "databaseDetail": "CEO: Luis von Ahn. Co-founder and CEO. Well-known computer science professor and public figure. Verified corporate governance."
+  },
+  {
+    "companyId": 16,
+    "databaseDetail": "CEO: Mark Zuckerberg. Publicly verified executive. Meta's official support team operates through verified in-app channels, not third-party domains."
+  },
+  {
+    "companyId": 17,
+    "databaseDetail": "CEO: James Dong. Publicly listed executive. Verified corporate governance structure under the Alibaba Group."
+  },
+  {
+    "companyId": 18,
+    "databaseDetail": "CEO: Shou Zi Chew. Publicly verified executive. The company operates official promotions through verified in-app channels only."
+  },
+  {
+    "companyId": 19,
+    "databaseDetail": "CEO: Satya Nadella. Highly visible and verified public figure. Extensive track record in tech. Verified corporate governance structure."
+  },
+  {
+    "companyId": 20,
+    "databaseDetail": "CEO: Satya Nadella. Microsoft's official leadership does not authorize third-party pop-ups to represent the company or its security products."
+  },
+  {
+    "companyId": 21,
+    "databaseDetail": "CEO: Andy Jassy. Highly visible and verified public figure. Extensive track record in tech. Verified corporate governance."
+  },
+  {
+    "companyId": 22,
+    "databaseDetail": "CEO: Alex Chriss. Publicly verified executive. PayPal's official leadership does not authorize third-party links for account verification."
+  },
+  {
+    "companyId": 23,
+    "databaseDetail": "Founder & CEO: Marcus Vance. Verified profile on financial directories. The company's leadership is transparent and registered with local authorities."
+  },
+  {
+    "companyId": 24,
+    "databaseDetail": "Postmaster General: Louis DeJoy. Publicly documented government official. USPS's official leadership does not operate through third-party domains."
+  },
+  {
+    "companyId": 25,
+    "databaseDetail": "CEO: Koji Sato. Publicly verifiable executive with a long history at Toyota. Verified corporate governance structure."
+  },
+  {
+    "companyId": 26,
+    "databaseDetail": "Co-CEOs: Ted Sarandos and Greg Peters. Both are publicly verified executives with extensive track records in media and tech."
+  },
+  {
+    "companyId": 27,
+    "databaseDetail": "CEO: John Donahoe. Publicly verified executive with a strong track record in retail and tech. Verified corporate governance."
+  },
+  {
+    "companyId": 28,
+    "databaseDetail": "CEO: Daniel Ek. Co-founder and CEO since 2006. Highly public profile with a verifiable history in the Swedish tech industry."
+  },
+  {
+    "companyId": 29,
+    "databaseDetail": "CEO: Tim Cook. Highly visible and verified public figure. Extensive track record in tech. Verified corporate governance structure."
+  },
+  {
+    "companyId": 30,
+    "databaseDetail": "Commissioner: Danny Werfel. Publicly documented government official. The IRS does not authorize third-party domains to represent the agency."
+  },
+  {
+    "companyId": 31,
+    "databaseDetail": "Founder & CEO: Dr. Linda Hayes. Verified profile on business directories. Background in nutritional science."
+  },
+  {
+    "companyId": 32,
+    "databaseDetail": "CEO: Jamie Dimon. Highly visible public figure. Verified corporate governance structure. Chase's official leadership does not use third-party pop-ups for security alerts."
+  },
+  {
+    "companyId": 33,
+    "databaseDetail": "Managing Director: Robert Torres. Verified profile on LinkedIn. The company's leadership follows standard employment practices."
+  },
+  {
+    "companyId": 34,
+    "databaseDetail": "CEO: Tim Cook. Publicly verified executive. Apple's official leadership has no connection to third-party raffles or prize giveaways."
+  },
+  {
+    "companyId": 35,
+    "databaseDetail": "CEO: Todd Combs. Publicly documented executive. Verified corporate governance structure and regulatory filings."
+  },
+  {
+    "companyId": 36,
+    "databaseDetail": "CEO: Brian Chesky. Co-founder and CEO. Highly visible public figure. Verified corporate governance structure."
+  },
+  {
+    "companyId": 37,
+    "databaseDetail": "Leadership is publicly listed under Inspire Brands (the parent company). Verified corporate governance."
+  },
+  {
+    "companyId": 38,
+    "databaseDetail": "CEO: Andy Jassy. Highly visible and verified public figure. Extensive track record in tech. Verified corporate governance."
+  },
+  {
+    "companyId": 39,
+    "databaseDetail": "CEO: Jesper Brodin. Publicly listed executive. Verified corporate governance structure for the IKEA group."
+  },
+  {
+    "companyId": 40,
+    "databaseDetail": "CEO: Steve Grobman. Publicly verified executive. McAfee's official leadership does not authorize third-party pop-ups to represent the company."
+  },
+  {
+    "companyId": 41,
+    "databaseDetail": "CEO: Elon Musk. Highly visible public figure. Note: Tesla's official leadership does not run cryptocurrency giveaways or double-your-money promotions."
+  },
+  {
+    "companyId": 42,
+    "databaseDetail": "Managing Partner: Edward Sterling. Verified profile on the SRA register. The firm's leadership does not contact strangers regarding unclaimed inheritances."
+  },
+  {
+    "companyId": 43,
+    "databaseDetail": "Co-CEOs: Ted Sarandos and Greg Peters. Netflix's official leadership does not authorize third-party links for billing updates."
+  },
+  {
+    "companyId": 44,
+    "databaseDetail": "Director: Jane Halloway. Publicly documented government official. The agency does not authorize third-party domains to represent the government."
+  },
+  {
+    "companyId": 45,
+    "databaseDetail": "Phil Spencer (Head of Xbox) is a highly visible public figure. Verified corporate governance under Microsoft."
+  },
+  {
+    "companyId": 46,
+    "databaseDetail": "Leadership is listed under Unilever's corporate structure. Verified corporate governance and executive profiles."
+  },
+  {
+    "companyId": 47,
+    "databaseDetail": "CEO: Hans Vestberg. Publicly documented executive. Verified corporate governance structure and SEC filings."
+  },
+  {
+    "companyId": 48,
+    "databaseDetail": "CEO of Yum! Brands: David Gibbs. Publicly verified executive. Verified corporate governance."
+  },
+  {
+    "companyId": 49,
+    "databaseDetail": "CEO: Nicolas Hieronimus. Publicly documented executive. Verified corporate governance structure."
+  },
+  {
+    "companyId": 50,
+    "databaseDetail": "CEO: Mark Zuckerberg. Publicly verified executive. Meta's official leadership does not use third-party domains for account security."
+  },
+  {
+    "companyId": 51,
+    "databaseDetail": "CEO: Oliver Blume. Publicly documented executive. Note: The company has faced legal action for misleading emissions claims in the past."
+  },
+  {
+    "companyId": 52,
+    "databaseDetail": "CEO: Franz Watzlawick. Publicly documented executive. Note: The company has faced legal action for misleading health claims in the past."
+  },
+  {
+    "companyId": 53,
+    "databaseDetail": "CEO: Antoine de Saint-Affrique. Publicly documented executive. Note: The company has faced legal action for misleading digestive health claims in the past."
+  },
+  {
+    "companyId": 54,
+    "databaseDetail": "CEO: Paul Candland. Publicly documented executive. Note: The company has faced FTC action for deceptive billing practices."
+  },
+  {
+    "companyId": 55,
+    "databaseDetail": "CEO: Marc Rosen. Publicly documented executive. Note: The company has been criticized for 'fake anchor pricing' in the past."
+  },
+  {
+    "companyId": 56,
+    "databaseDetail": "CEO: Brian Chesky. Publicly verified executive. Airbnb's leadership requires hosts to disclose all fees upfront."
+  },
+  {
+    "companyId": 57,
+    "databaseDetail": "CEO: Laura Alber. Publicly documented executive. Note: The company has faced FTC action for false 'Made in USA' claims in the past."
+  },
+  {
+    "companyId": 58,
+    "databaseDetail": "CEO: Glenn Fogel. Publicly documented executive. Note: The company has been criticized for using manipulative 'dark patterns' in the past."
+  },
+  {
+    "companyId": 59,
+    "databaseDetail": "CEO: Nicolas Hieronimus. Publicly documented executive. Note: The company has faced class-action lawsuits for exaggerated anti-aging claims in the past."
+  },
+  {
+    "companyId": 60,
+    "databaseDetail": "CEO: James Tonkin. Publicly documented executive. Note: The company has faced class-action lawsuits for false 'all-natural' labeling in the past."
+  },
+  {
+    "companyId": 61,
+    "databaseDetail": "CEO: Oliver Blume. Publicly documented executive. This classic ad accurately reflects the historical specifications of the vehicle."
+  },
+  {
+    "companyId": 62,
+    "databaseDetail": "Founder: Sherwin Cody. Well-known and verifiable educator and author. Public records confirm his identity."
+  },
+  {
+    "companyId": 63,
+    "databaseDetail": "CEO of Yum! Brands: David Gibbs. Executives issued the statement publicly. Verified corporate governance."
+  },
+  {
+    "companyId": 64,
+    "databaseDetail": "P&G executives are publicly verifiable. The campaign was created by a legitimate advertising agency."
+  },
+  {
+    "companyId": 65,
+    "databaseDetail": "Mars family leadership is publicly documented. Verified corporate governance structure."
+  },
+  {
+    "companyId": 66,
+    "databaseDetail": "CEO: Al Cook. Publicly listed executive. Verified corporate governance structure."
+  },
+  {
+    "companyId": 67,
+    "databaseDetail": "CEO: James Quincey. Publicly verified executive. Verified corporate governance structure."
+  },
+  {
+    "companyId": 68,
+    "databaseDetail": "CEO: Sean Doyle. Publicly verified executive. Verified corporate governance structure."
+  },
+  {
+    "companyId": 69,
+    "databaseDetail": "Overseen by a public board of directors. Government-appointed officials are publicly verifiable."
+  },
+  {
+    "companyId": 70,
+    "databaseDetail": "CEO: Raj Subramaniam. Publicly verified executive. Verified corporate governance structure."
+  },
+  {
+    "companyId": 71,
+    "databaseDetail": "CEO: Tim Cook. Apple's official leadership does not authorize third-party domains for account security or billing updates."
+  },
+  {
+    "companyId": 72,
+    "databaseDetail": "Commissioner: Danny Werfel. Publicly documented government official. The IRS does not authorize third-party domains to represent the agency."
+  },
+  {
+    "companyId": 73,
+    "databaseDetail": "Founder & CEO: Michael Vance. Verified profile on LinkedIn. The company's leadership follows standard employment practices."
+  },
+  {
+    "companyId": 74,
+    "databaseDetail": "CEO: Raj Subramaniam. Publicly verified executive. FedEx's leadership does not use third-party domains for tracking updates."
+  },
+  {
+    "companyId": 75,
+    "databaseDetail": "CEO: Sarah Jenkins. Verified profile on business directories. The company's leadership follows standard ticketing practices."
+  },
+  {
+    "companyId": 76,
+    "databaseDetail": "CEO: Alex Chriss. Publicly verified executive. PayPal's leadership does not authorize third-party links for account verification."
+  },
+  {
+    "companyId": 77,
+    "databaseDetail": "Founder: Marcus Vance. Verified profile on financial directories. The company's leadership follows standard investment regulations."
+  },
+  {
+    "companyId": 78,
+    "databaseDetail": "Founder & CEO: David Miller. Verified profile on LinkedIn. The company's leadership uses official support channels only."
+  },
+  {
+    "companyId": 79,
+    "databaseDetail": "CEO: Robert Hayes. Verified profile on LinkedIn. The company's leadership follows standard rewards program practices."
+  },
+  {
+    "companyId": 80,
+    "databaseDetail": "Director: Jane Halloway. Publicly documented government official. The agency does not authorize third-party domains to represent the government."
+  },
+  {
+    "companyId": 81,
+    "databaseDetail": "Mars family leadership is publicly documented. Verified corporate governance structure."
+  },
+  {
+    "companyId": 82,
+    "databaseDetail": "CEO: Oliver Zipse. Publicly verifiable executive. Verified corporate governance structure."
+  },
+  {
+    "companyId": 83,
+    "databaseDetail": "Mars family leadership is publicly documented. Verified corporate governance structure."
+  },
+  {
+    "companyId": 84,
+    "databaseDetail": "CEO: James Quincey. Publicly verified executive. Verified corporate governance structure."
+  },
+  {
+    "companyId": 85,
+    "databaseDetail": "CEO: Joshua Kobza (Restaurant Brands International). Publicly verified executive. Verified corporate governance."
+  },
+  {
+    "companyId": 86,
+    "databaseDetail": "CEO: Jon Farney. Publicly documented executive. Verified corporate governance structure."
+  },
+  {
+    "companyId": 87,
+    "databaseDetail": "CEO: Michael Miebach. Publicly verified executive. Verified corporate governance structure."
+  },
+  {
+    "companyId": 88,
+    "databaseDetail": "CEO: John Chidsey. Publicly verified executive. Verified corporate governance structure."
+  },
+  {
+    "companyId": 89,
+    "databaseDetail": "Co-CEO: Rodney Sacks. Publicly verified executive. Verified corporate governance structure."
+  },
+  {
+    "companyId": 90,
+    "databaseDetail": "CEO: Mark LaVigne. Publicly verified executive. Verified corporate governance structure."
+  },
+  {
+    "companyId": 91,
+    "databaseDetail": "Director: Sarah Thompson. Publicly documented government official. The agency does not authorize third-party domains to represent the state."
+  },
+  {
+    "companyId": 92,
+    "databaseDetail": "CEO: Charlie Scharf. Publicly verified executive. Wells Fargo's leadership does not authorize third-party links for account verification."
+  },
+  {
+    "companyId": 93,
+    "databaseDetail": "CEO: Franz Watzlawick. Publicly documented executive. Red Bull's leadership does not operate car wrap programs."
+  },
+  {
+    "companyId": 94,
+    "databaseDetail": "Founder & CEO: Alex Petrov. Verified profile on LinkedIn. The company's leadership follows standard software development practices."
+  },
+  {
+    "companyId": 95,
+    "databaseDetail": "Owner: Emily Carter. Verified profile on pet breeder directories. The company's leadership follows standard adoption practices."
+  },
+  {
+    "companyId": 96,
+    "databaseDetail": "P&G executives are publicly verifiable. Verified corporate governance structure."
+  },
+  {
+    "companyId": 97,
+    "databaseDetail": "PepsiCo executives are publicly verifiable. Verified corporate governance structure."
+  },
+  {
+    "companyId": 98,
+    "databaseDetail": "Leadership is publicly listed under Inspire Brands. Verified corporate governance."
+  },
+  {
+    "companyId": 99,
+    "databaseDetail": "Publicly verified executives (Hiroki Totoki, etc.). Verified corporate governance structure under Sony."
+  },
+  {
+    "companyId": 100,
+    "databaseDetail": "CEO: Robert Gamgort. Publicly verified executive. Verified corporate governance structure."
+  }
+]
