@@ -28,6 +28,7 @@ public class OfficeManager : MonoBehaviour
 
         isTransitioning = true;
         nightTransitionPanel.SetActive(true);
+        AudioManager.Play(Sfx.NightComplete); // AUDIO
 
         var data = GameManager.Instance.pendingTransition;
         isGameComplete = data.IsGameComplete;
@@ -123,18 +124,21 @@ public class OfficeManager : MonoBehaviour
             endingTitleText.text = "TRUE CYBERSECURITY VIGILANTE";
             endingDescriptionText.text = $"Final Score: {finalScore}\n\nThe internet is a safer place because of you. You successfully uncovered scams and protected the community.";
             endingTitleText.color = new Color(0.2f, 0.8f, 0.2f); // Green
+            AudioManager.Play(Sfx.EndingGood); // AUDIO
         }
         else if (finalScore >= 1)
         {
             endingTitleText.text = "CURIOUS INVESTIGATOR";
             endingDescriptionText.text = $"Final Score: {finalScore}\n\nYou did an okay job, but some scams slipped through the cracks. The community needs more from you.";
             endingTitleText.color = new Color(1f, 0.8f, 0.2f); // Yellow/Orange
+            AudioManager.Play(Sfx.EndingNeutral); // AUDIO
         }
         else
         {
             endingTitleText.text = "SCAMMER'S PARADISE";
             endingDescriptionText.text = $"Final Score: {finalScore}\n\nYour reputation is in ruins. The scammers won, and the community lost all trust in you.";
             endingTitleText.color = new Color(0.9f, 0.2f, 0.2f); // Red
+            AudioManager.Play(Sfx.EndingBad); // AUDIO
         }
     }
 }

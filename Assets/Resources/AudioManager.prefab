@@ -72,10 +72,27 @@ MonoBehaviour:
     ambienceVolume: 0
   crossfadeSeconds: 0.67
   sfx:
-  - type: 2
+  - type: 0
     clips:
     - {fileID: 8300000, guid: 8af7b4bc71d2b9742974f7877dae340b, type: 3}
     volume: 1
-    pitchVariation: 0.21
+    pitchVariation: 0.3
+  - type: 1
+    clips:
+    - {fileID: 8300000, guid: b670b9392f1c0d345a290c709113a2b1, type: 3}
+    volume: 0.15
+    pitchVariation: 0.3
+  - type: 4
+    clips:
+    - {fileID: 8300000, guid: 59f5949752ba042488e2659c64276299, type: 3}
+    volume: 0.2
+    pitchVariation: 0.022
+  - type: 4
+    clips:
+    - {fileID: 8300000, guid: 59f5949752ba042488e2659c64276299, type: 3}
+    volume: 0.2
+    pitchVariation: 0.025
   sfxVoices: 8
-  autoButtonSounds: 0
+  autoButtonSounds: 1
+  anyLeftClickPlaysSound: 0
+  debugLogs: 1

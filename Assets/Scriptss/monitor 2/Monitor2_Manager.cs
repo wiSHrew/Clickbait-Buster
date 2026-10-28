@@ -100,24 +100,31 @@ public class Monitor2_Manager : MonoBehaviour
 
         // Notice: No "_FAKE" suffix here. Monitor 2 ONLY loads real files.
         btnRegistration.onClick.RemoveAllListeners();
-        btnRegistration.onClick.AddListener(() => DisplayData("Registration.json", "Registration"));
+        btnRegistration.onClick.AddListener(() => OnResearchClicked("Registration.json", "Registration"));
 
         btnAddress.onClick.RemoveAllListeners();
-        btnAddress.onClick.AddListener(() => DisplayData("PhysicalAddress.json", "Physical Address"));
+        btnAddress.onClick.AddListener(() => OnResearchClicked("PhysicalAddress.json", "Physical Address"));
 
         btnReturn.onClick.RemoveAllListeners();
-        btnReturn.onClick.AddListener(() => DisplayData("ReturnComparison.json", "Return Comparison"));
+        btnReturn.onClick.AddListener(() => OnResearchClicked("ReturnComparison.json", "Return Comparison"));
 
         btnTerms.onClick.RemoveAllListeners();
-        btnTerms.onClick.AddListener(() => DisplayData("TermsAndConditions.json", "Terms & Conditions"));
+        btnTerms.onClick.AddListener(() => OnResearchClicked("TermsAndConditions.json", "Terms & Conditions"));
 
         btnReviews.onClick.RemoveAllListeners();
-        btnReviews.onClick.AddListener(() => DisplayData("ReviewsAndComplaints.json", "Reviews & Complaints"));
+        btnReviews.onClick.AddListener(() => OnResearchClicked("ReviewsAndComplaints.json", "Reviews & Complaints"));
 
         btnLeadership.onClick.RemoveAllListeners();
-        btnLeadership.onClick.AddListener(() => DisplayData("LeadershipBackground.json", "Leadership Background"));
+        btnLeadership.onClick.AddListener(() => OnResearchClicked("LeadershipBackground.json", "Leadership Background"));
         
         DisplayData("Registration.json", "Registration");
+    }
+
+    // AUDIO: plays the research sound only when the player presses a research button
+    private void OnResearchClicked(string fileName, string displayTitle)
+    {
+        AudioManager.Play(Sfx.ResearchSelect);
+        DisplayData(fileName, displayTitle);
     }
 
     private void DisplayData(string fileName, string displayTitle)

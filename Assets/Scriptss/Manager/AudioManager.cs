@@ -75,6 +75,8 @@ public class AudioManager : MonoBehaviour
 
     [Header("UI sounds")]
     [SerializeField] private bool autoButtonSounds = true;
+    [Tooltip("Play the click sound on EVERY left click, even if no UI Button is detected. Use this if your menus/cursor aren't standard UI Buttons.")]
+    [SerializeField] private bool anyLeftClickPlaysSound = false;
 
     [Header("Debug")]
     [Tooltip("Logs every Play() call and lets you press T to test the ButtonClick sound.")]
@@ -310,12 +312,30 @@ public class AudioManager : MonoBehaviour
     }
 
     // ---------- automatic UI button sounds ----------
+    private bool warnedNoEventSystem;
+
     private void Update()
     {
         if (debugLogs && Keyboard.current != null && Keyboard.current.tKey.wasPressedThisFrame)
+        {
+            Debug.Log("[Audio] T pressed - testing ButtonClick");
             Play(Sfx.ButtonClick);
+        }
 
-        if (!autoButtonSounds || EventSystem.current == null || Mouse.current == null) return;
+        if (!autoButtonSounds || Mouse.current == null) return;
+
+        bool pressed = Mouse.current.leftButton.wasPressedThisFrame;
+
+        if (EventSystem.current == null)
+        {
+            if (pressed && anyLeftClickPlaysSound) Play(Sfx.ButtonClick);
+            if (debugLogs && !warnedNoEventSystem)
+            {
+                warnedNoEventSystem = true;
+                Debug.LogWarning("[Audio] No EventSystem in this scene, so UI buttons can't be detected.");
+            }
+            return;
+        }
 
         Button under = GetButtonUnderPointer();
 
@@ -326,9 +346,16 @@ public class AudioManager : MonoBehaviour
             if (under != null) Play(Sfx.ButtonHover);
         }
 
-        // Click
-        if (under != null && Mouse.current.leftButton.wasPressedThisFrame)
-            Play(Sfx.ButtonClick);
+        if (!pressed) return;
+
+        if (debugLogs)
+        {
+            string top = raycastResults.Count > 0 ? raycastResults[0].gameObject.name : "nothing";
+            Debug.Log("[Audio] Left click. UI hits: " + raycastResults.Count + ", top: " + top +
+                      ", Button found: " + (under != null));
+        }
+
+        if (under != null || anyLeftClickPlaysSound) Play(Sfx.ButtonClick);
     }
 
     private Button GetButtonUnderPointer()

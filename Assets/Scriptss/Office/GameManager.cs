@@ -115,6 +115,12 @@ public class GameManager : MonoBehaviour
         if (verdict == "Fraudulent" && isAdActuallyFake) isPlayerRight = true;
         if (verdict == "Legitimate" && !isAdActuallyFake) isPlayerRight = true;
 
+        // AUDIO: verdict result sounds
+        AudioManager.Play(Sfx.VerdictSubmit);
+        if (verdict == "Wait") AudioManager.Play(Sfx.VerdictWait);
+        else if (isPlayerRight) AudioManager.Play(Sfx.VerdictCorrect);
+        else AudioManager.Play(Sfx.VerdictWrong);
+
         int change = 0;
 
         if (verdict == "Wait")
@@ -144,6 +150,7 @@ public class GameManager : MonoBehaviour
             PlayerPrefs.SetInt("CurrentAdIsFake", currentNightQueue[0].isFake ? 1 : 0);
             PlayerPrefs.Save();
             GenerateNewCorners(); // NEW: Pick corners for the next ad
+            AudioManager.Play(Sfx.NewAd); // AUDIO
             OnAdChanged?.Invoke(); 
         }
         else
@@ -200,6 +207,7 @@ public class GameManager : MonoBehaviour
     {
         currentNight++;
         adsJudgedThisNight = 0;
+        AudioManager.Play(Sfx.NightStart); // AUDIO
         StartNewNight();
         PlayerPrefs.Save();
     }

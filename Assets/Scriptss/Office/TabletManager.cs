@@ -26,10 +26,23 @@ public class TabletManager : MonoBehaviour
     public void OpenTablet()
     {
         if (tabletPanel != null)
+        {
+            if (!tabletPanel.activeSelf) AudioManager.Play(Sfx.TabletOpen); // AUDIO
             tabletPanel.SetActive(true);
+        }
     }
 
     public void CloseTablet()
+    {
+        if (tabletPanel != null)
+        {
+            if (tabletPanel.activeSelf) AudioManager.Play(Sfx.TabletClose); // AUDIO
+            tabletPanel.SetActive(false);
+        }
+    }
+
+    // Used after a verdict so the verdict sound isn't layered with the close sound.
+    private void CloseTabletSilent()
     {
         if (tabletPanel != null)
             tabletPanel.SetActive(false);
@@ -41,6 +54,6 @@ public class TabletManager : MonoBehaviour
         {
             GameManager.Instance.ProcessVerdict(verdict);
         }
-        CloseTablet();
+        CloseTabletSilent();
     }
 }

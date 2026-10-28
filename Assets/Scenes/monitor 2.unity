@@ -947,8 +947,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c534035e876c204f947ee7da7eaace9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::admaker
-  adPrefab: {fileID: 4015062070516028917, guid: 7632c864c490ac141bc3c3d3d17f5b67, type: 3}
-  screen: {fileID: 1515917695}
 --- !u!114 &495661095
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -961,7 +959,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a6c23edee118a34290d051ce801100d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DatabaseViewer
-  jsonRelativePath: ads.json
+  jsonRelativePath: ads_db.json
   content: {fileID: 0}
   rowPrefab: {fileID: 8852598694873829734, guid: 013b69c5daada0248b6fc9f598bc23f3, type: 3}
 --- !u!1 &502741624
