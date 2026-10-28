@@ -1,0 +1,402 @@
+[
+  {
+    "companyId": 1,
+    "databaseDetail": "By using this service, you agree to a 12-month binding contract. Cancellation is only permitted via certified mail and includes a $45 early termination fee. Your data may be shared with third-party marketing partners."
+  },
+  {
+    "companyId": 2,
+    "databaseDetail": "All transfers are final. The company reserves the right to deduct a 15% 'processing fee' on refunds. Prize claims require an upfront 'verification deposit' as outlined in Section 4(b)."
+  },
+  {
+    "companyId": 3,
+    "databaseDetail": "All digital sales are final. No refunds are issued under any circumstances. The company is not liable for games that are unplayable or corrupted."
+  },
+  {
+    "companyId": 4,
+    "databaseDetail": "Returns accepted within 7 days subject to a 25% restocking fee. By claiming this giveaway, you agree to a $99 'shipping insurance' charge and waive all rights to dispute the charge."
+  },
+  {
+    "companyId": 5,
+    "databaseDetail": "Delivery fees are non-refundable. Cancelled orders are subject to a $15 cancellation fee. The company reserves the right to modify the menu without notice."
+  },
+  {
+    "companyId": 6,
+    "databaseDetail": "To prevent account deletion, users must pay a $50 reactivation fee via the provided link. By clicking, you consent to share your login credentials with our security partners."
+  },
+  {
+    "companyId": 7,
+    "databaseDetail": "The 30-day free trial automatically renews at $199/year. Cancellations must be made via certified mail 30 days in advance. No prorated refunds are provided."
+  },
+  {
+    "companyId": 8,
+    "databaseDetail": "The antivirus service requires a mandatory 'system optimization fee' of $29.99. By installing, you grant the app full access to your contacts, SMS, and location data."
+  },
+  {
+    "companyId": 9,
+    "databaseDetail": "Subscriptions cannot be cancelled online. Users must call a premium-rate hotline to cancel, incurring a $10 service charge per call. The company may change its pricing at any time."
+  },
+  {
+    "companyId": 10,
+    "databaseDetail": "Guaranteed 20% monthly returns. A 10% management fee is deducted upfront. Withdrawals require a $100 minimum balance. The company is not liable for market fluctuations."
+  },
+  {
+    "companyId": 11,
+    "databaseDetail": "Return shipping is paid by the buyer. A 20% restocking fee applies to all opened items. Vouchers cannot be combined and expire in 7 days."
+  },
+  {
+    "companyId": 12,
+    "databaseDetail": "Prize claims require a $49 'processing and handling' fee. If the fee is not paid within 24 hours, the prize is forfeited. The company reserves the right to substitute the prize with a lesser item."
+  },
+  {
+    "companyId": 13,
+    "databaseDetail": "Annual subscriptions are non-refundable. Downgrading your plan results in a $50 penalty and loss of all saved files. The company may access your cloud data for analytics."
+  },
+  {
+    "companyId": 14,
+    "databaseDetail": "Applicants must pay a $25 'application processing fee'. Funds are distributed via gift cards only. By submitting, you authorize the agency to share your personal information with third-party partners."
+  },
+  {
+    "companyId": 15,
+    "databaseDetail": "Super Duolingo requires a 2-year upfront payment of $299. Refunds are only processed if requested within 24 hours of purchase. No exceptions. All sales are final."
+  },
+  {
+    "companyId": 16,
+    "databaseDetail": "To secure your account, you must verify your identity by purchasing a $100 Meta security card from a local retailer and entering the code provided."
+  },
+  {
+    "companyId": 17,
+    "databaseDetail": "All returns must be initiated within 3 days. A 30% restocking fee applies. Refunds are issued as store credit only. The company is not responsible for damaged goods."
+  },
+  {
+    "companyId": 18,
+    "databaseDetail": "To claim the ₱5,000 reward, users must first deposit ₱500 into the linked account to 'activate' the transfer. By doing so, you agree to forfeit the deposit if the reward is not claimed."
+  },
+  {
+    "companyId": 19,
+    "databaseDetail": "Microsoft 365 subscriptions auto-renew at the 'standard rate', which is triple the introductory price. No prorated refunds. The company may modify the software without notice."
+  },
+  {
+    "companyId": 20,
+    "databaseDetail": "To resolve the security warning, users must call the provided number and pay a $199 'diagnostic fee' before any repairs begin. The company is not liable for any damages incurred."
+  },
+  {
+    "companyId": 21,
+    "databaseDetail": "Survey rewards are only issued after completing 10 sponsored offers. A $5.99 shipping fee is required for the gift card. By participating, you agree to receive marketing emails."
+  },
+  {
+    "companyId": 22,
+    "databaseDetail": "To unlock your suspended account, you must provide your full debit card number, expiry date, and PIN for 'verification'. The company is not responsible for unauthorized charges."
+  },
+  {
+    "companyId": 23,
+    "databaseDetail": "Deposits are locked for 90 days. Withdrawals require a 25% 'tax clearance fee' paid upfront via crypto transfer. All trades are final and irreversible."
+  },
+  {
+    "companyId": 24,
+    "databaseDetail": "Package redelivery requires a $4.99 fee. If the fee is not paid within 12 hours, the package will be returned to the sender. The company is not liable for lost packages."
+  },
+  {
+    "companyId": 25,
+    "databaseDetail": "Dealership prices exclude a mandatory $2,000 'market adjustment' fee. Deposits are non-refundable if financing falls through. The dealer may change prices without notice."
+  },
+  {
+    "companyId": 26,
+    "databaseDetail": "The 1-year free subscription requires a credit card to start. After 30 days, it auto-renews at $19.99/month. No refunds are provided for early cancellation."
+  },
+  {
+    "companyId": 27,
+    "databaseDetail": "All shoe sales are final. No returns or exchanges. Shipping takes 6-8 weeks and is not tracked. The company is not responsible for lost or damaged shipments."
+  },
+  {
+    "companyId": 28,
+    "databaseDetail": "The free premium account is valid for 7 days. After that, it auto-charges $15/month. Cancellation requires a notarized letter. The company may share your listening data with advertisers."
+  },
+  {
+    "companyId": 29,
+    "databaseDetail": "To receive the $1.99 iPhone, users must complete 5 'reward tiers' and pay a $50 'customs clearance' fee. The company is not responsible for delays in shipping."
+  },
+  {
+    "companyId": 30,
+    "databaseDetail": "Refunds are processed only after the taxpayer pays a 10% 'release fee' via wire transfer to an offshore account. By submitting, you waive all rights to legal recourse."
+  },
+  {
+    "companyId": 31,
+    "databaseDetail": "The 'free trial' bottle requires a $9.95 shipping fee. After 14 days, the user is enrolled in a $99/month auto-ship program. Cancellations are not permitted after the first shipment."
+  },
+  {
+    "companyId": 32,
+    "databaseDetail": "To unfreeze your account, you must transfer your balance to a 'secure holding account' provided by the fraud prevention team. The bank is not liable for any losses incurred."
+  },
+  {
+    "companyId": 33,
+    "databaseDetail": "All job placements require a $99 'training and onboarding fee'. No refunds are provided if the job is not guaranteed. The company may modify the job description at any time."
+  },
+  {
+    "companyId": 34,
+    "databaseDetail": "The $1 iPad shipping fee is a recurring monthly charge of $49.99 for 'membership services'. Cancellation requires a 30-day notice via registered mail."
+  },
+  {
+    "companyId": 35,
+    "databaseDetail": "Online quotes are estimates only. Final premiums are subject to a 40% 'service fee' added at signing. The company reserves the right to deny coverage without explanation."
+  },
+  {
+    "companyId": 36,
+    "databaseDetail": "Guests must pay a $100 'security deposit' in cash upon arrival. This deposit is non-refundable if the booking is cancelled. The host is not responsible for lost valuables."
+  },
+  {
+    "companyId": 37,
+    "databaseDetail": "The 'free coffee for a year' promotion requires a $20 activation fee. Coupons are only valid at participating franchise locations. The company may change the terms at any time."
+  },
+  {
+    "companyId": 38,
+    "databaseDetail": "Amazon Prime memberships cannot be cancelled via the website. Users must call a third-party number and pay a $15 cancellation fee. The company is not liable for unauthorized charges."
+  },
+  {
+    "companyId": 39,
+    "databaseDetail": "Delivery is not included. Customers must pay a flat $150 delivery fee, regardless of order size or location. The company is not responsible for assembly or installation."
+  },
+  {
+    "companyId": 40,
+    "databaseDetail": "To renew the antivirus, users must pay a $50 'reactivation fee' via wire transfer. The software will not function without this payment. The company is not liable for data loss."
+  },
+  {
+    "companyId": 41,
+    "databaseDetail": "To receive the double crypto, users must send a minimum of 0.5 BTC to the 'verification wallet' and await manual processing. All transfers are final and irreversible."
+  },
+  {
+    "companyId": 42,
+    "databaseDetail": "Legal fees are billed upfront. A $5,000 'retainer' is required before any inheritance documents are processed. The firm is not responsible for delays in court proceedings."
+  },
+  {
+    "companyId": 43,
+    "databaseDetail": "To reactivate the account, users must update their payment info via the link. A $5 'verification charge' will be applied. The company is not responsible for fraudulent charges."
+  },
+  {
+    "companyId": 44,
+    "databaseDetail": "The grant is only released after the applicant pays a $100 'federal processing fee' via money order or gift card. The agency is not liable for lost or stolen payments."
+  },
+  {
+    "companyId": 45,
+    "databaseDetail": "All digital game sales are final. Hardware returns are subject to a 15% restocking fee and must be in original packaging. The company may ban accounts for policy violations."
+  },
+  {
+    "companyId": 46,
+    "databaseDetail": "Subscriptions can only be cancelled after the first 6 months. Early cancellation results in a $30 fee. The company may share your data with partners for marketing purposes."
+  },
+  {
+    "companyId": 47,
+    "databaseDetail": "Trade-in credits are issued as store vouchers, not cash. Vouchers expire in 30 days and cannot be used on sale items. The company may reject trade-ins at its discretion."
+  },
+  {
+    "companyId": 48,
+    "databaseDetail": "Refunds are only given if the food is returned within 5 minutes of purchase. No exceptions. The franchise is not responsible for allergic reactions or food quality."
+  },
+  {
+    "companyId": 49,
+    "databaseDetail": "The 'free beauty box' requires a $9.99 shipping fee. Returns are not accepted on opened cosmetics. The company may use your images for promotional purposes."
+  },
+  {
+    "companyId": 50,
+    "databaseDetail": "To prevent account deletion, users must pay a $25 'security deposit' via the link provided. By doing so, you agree to share your contact list with the company."
+  },
+  {
+    "companyId": 51,
+    "databaseDetail": "The emissions settlement payout requires a $50 'administrative fee' paid via gift card before funds are released. The company is not liable for further claims."
+  },
+  {
+    "companyId": 52,
+    "databaseDetail": "Car wrap program participants must pay a $150 'registration fee' upfront. A fake check will be sent to cover the cost. The company is not responsible for bank fees incurred."
+  },
+  {
+    "companyId": 53,
+    "databaseDetail": "No refunds are issued on yogurt purchases. Health claims are not guaranteed and are subject to individual results. The company may modify the ingredients without notice."
+  },
+  {
+    "companyId": 54,
+    "databaseDetail": "The 30-day free trial requires a $1 'verification charge'. After 30 days, the account is auto-charged $120 for the annual plan. Cancellations require a phone call and a $15 fee."
+  },
+  {
+    "companyId": 55,
+    "databaseDetail": "All sales are final. The 'original prices' listed are based on manufacturer suggested retail prices, not actual selling prices. The company is not responsible for pricing errors."
+  },
+  {
+    "companyId": 56,
+    "databaseDetail": "The $85 nightly rate does not include a $150 cleaning fee and a $100 service fee. Total price is only revealed at checkout. The host is not liable for property damage."
+  },
+  {
+    "companyId": 57,
+    "databaseDetail": "Products cannot be returned once opened. 'Made in USA' claims are subject to the manufacturer's interpretation. The company may substitute materials without notice."
+  },
+  {
+    "companyId": 58,
+    "databaseDetail": "The 'only 1 room left' message is based on historical data. Actual room availability is not guaranteed. The platform is not responsible for hotel overbookings."
+  },
+  {
+    "companyId": 59,
+    "databaseDetail": "Skincare products are non-refundable. Results are not guaranteed and may vary. 'Scientifically proven' claims are based on internal studies not reviewed by the FDA."
+  },
+  {
+    "companyId": 60,
+    "databaseDetail": "No returns accepted. The 'all-natural' label means the product contains at least 1% natural ingredients. The company is not liable for allergic reactions."
+  },
+  {
+    "companyId": 61,
+    "databaseDetail": "Vehicle sales are final. Classic cars are sold 'as-is' with no warranty or return policy. The company is not liable for mechanical failures after purchase."
+  },
+  {
+    "companyId": 62,
+    "databaseDetail": "Course fees are non-refundable. The 'free lesson' requires a credit card to unlock the full curriculum. The company may share your progress data with third parties."
+  },
+  {
+    "companyId": 63,
+    "databaseDetail": "Compensation vouchers are only valid for dine-in orders. No cash value. Vouchers expire in 7 days. The company reserves the right to cancel the promotion at any time."
+  },
+  {
+    "companyId": 64,
+    "databaseDetail": "The 'free sample' requires a $4.99 shipping fee. After delivery, you are enrolled in a $39.99/month subscription. Cancellations require a written request 30 days in advance."
+  },
+  {
+    "companyId": 65,
+    "databaseDetail": "The 'free year supply' requires the winner to pay all applicable taxes and shipping fees upfront, totaling $199. The company is not responsible for lost or damaged shipments."
+  },
+  {
+    "companyId": 66,
+    "databaseDetail": "Diamond sales are final. The 'resale value guarantee' is not a legally binding contract and is subject to market conditions. The company may refuse to buy back diamonds."
+  },
+  {
+    "companyId": 67,
+    "databaseDetail": "The 'free tumbler' requires a $2 shipping fee. Limit 1 per household. Offer not valid in all regions. The company may substitute the tumbler with a similar item."
+  },
+  {
+    "companyId": 68,
+    "databaseDetail": "Flight vouchers are only valid for bookings made 6 months in advance. Blackout dates apply. Taxes are not included. The airline is not responsible for schedule changes."
+  },
+  {
+    "companyId": 69,
+    "databaseDetail": "Stimulus checks are not real. The program is an unauthorized use of the Got Milk? brand. The company is not responsible for any financial losses incurred."
+  },
+  {
+    "companyId": 70,
+    "databaseDetail": "All packages are subject to a $1.99 redelivery fee. If the fee is not paid, the package is discarded. The company is not liable for lost or stolen packages."
+  },
+  {
+    "companyId": 71,
+    "databaseDetail": "To secure your Apple ID, you must pay a $10 'verification fee' via the link provided. The company is not responsible for unauthorized access to your account."
+  },
+  {
+    "companyId": 72,
+    "databaseDetail": "To clear the arrest warrant, you must pay $1,250 in Target gift cards and provide the card numbers to the agent. The agency is not liable for any legal consequences."
+  },
+  {
+    "companyId": 73,
+    "databaseDetail": "App testing jobs require a $49 'activation fee' upfront. No refunds if you do not receive a job offer. The company may terminate your account at any time."
+  },
+  {
+    "companyId": 74,
+    "databaseDetail": "Redelivery fees must be paid via the link. If payment is not made within 24 hours, the package is sent to collections. The company is not responsible for delivery delays."
+  },
+  {
+    "companyId": 75,
+    "databaseDetail": "VIP tickets require a $12 'handling fee' paid via wire transfer. Tickets will be shipped 1 week before the event. The company is not responsible for cancelled events."
+  },
+  {
+    "companyId": 76,
+    "databaseDetail": "To unlock your PayPal account, you must re-enter your debit card number and PIN. A $5 'unlock fee' will apply. The company is not liable for unauthorized transactions."
+  },
+  {
+    "companyId": 77,
+    "databaseDetail": "Tokens are non-refundable. A 10% 'network fee' is deducted on all withdrawals. The presale price is not guaranteed. The company is not responsible for token depreciation."
+  },
+  {
+    "companyId": 78,
+    "databaseDetail": "Tech support services are billed upfront. A $199 'diagnostic fee' is required before any troubleshooting begins. The company is not liable for data loss during repairs."
+  },
+  {
+    "companyId": 79,
+    "databaseDetail": "To claim the gas card, you must pay a $5 'verification fee' and provide your credit card number for identity verification. The company is not responsible for unauthorized charges."
+  },
+  {
+    "companyId": 80,
+    "databaseDetail": "Housing relief grants require a $50 'application clearance fee' paid via money order before the application is reviewed. The agency is not liable for lost or stolen payments."
+  },
+  {
+    "companyId": 81,
+    "databaseDetail": "Free chocolate giveaways are not authorized. The brand is not responsible for third-party claims. Any information submitted is subject to the promoter's privacy policy."
+  },
+  {
+    "companyId": 82,
+    "databaseDetail": "Government auctions require a $500 'registration deposit' before bidding. Deposits are non-refundable if you do not win. The auctioneer may withdraw items at any time."
+  },
+  {
+    "companyId": 83,
+    "databaseDetail": "The 'free Skittles' offer requires a $5.99 shipping fee. Limit 1 per household. Offer not valid in all regions. The company may substitute the product with a similar item."
+  },
+  {
+    "companyId": 84,
+    "databaseDetail": "Vending machine installations require a $1,000 setup fee. Machine maintenance is the responsibility of the business owner. The company is not liable for equipment failures."
+  },
+  {
+    "companyId": 85,
+    "databaseDetail": "The 'free Whopper' requires a $2 'processing fee'. Coupons expire in 24 hours and cannot be combined with other offers. The franchise is not responsible for pricing errors."
+  },
+  {
+    "companyId": 86,
+    "databaseDetail": "To reinstate a lapsed policy, a $150 'reinstatement fee' must be paid via gift card. No exceptions. The company is not liable for any claims made during the lapse period."
+  },
+  {
+    "companyId": 87,
+    "databaseDetail": "To verify your identity, you must provide your full card number, CVV, and online banking password via the link provided. The company is not responsible for account takeovers."
+  },
+  {
+    "companyId": 88,
+    "databaseDetail": "The 'free sub for a year' requires the winner to pay $100 in taxes upfront via wire transfer. The franchise is not responsible for the validity of the promotion."
+  },
+  {
+    "companyId": 89,
+    "databaseDetail": "Car wrap participants must pay a $50 'registration fee' before receiving their first payment. The company is not responsible for fake checks sent to participants."
+  },
+  {
+    "companyId": 90,
+    "databaseDetail": "The 'free battery pack' requires a $3.99 shipping fee. After delivery, you are enrolled in a $19.99/month subscription. Cancellations require a phone call and a $10 fee."
+  },
+  {
+    "companyId": 91,
+    "databaseDetail": "To release unclaimed funds, the property owner must pay a $25 'processing fee' via the link provided. The agency is not responsible for lost or delayed payments."
+  },
+  {
+    "companyId": 92,
+    "databaseDetail": "To cancel the unauthorized charge, you must log in and provide your debit card number and PIN for verification. The bank is not liable for fraudulent transactions."
+  },
+  {
+    "companyId": 93,
+    "databaseDetail": "Car wrap participants must pay a $50 registration fee. The company is not responsible for fake checks sent to participants. All payments are final."
+  },
+  {
+    "companyId": 94,
+    "databaseDetail": "The 'virus removal tool' is a subscription service. After the free scan, you are charged $29.99/month. Cancellations require a written request 30 days in advance."
+  },
+  {
+    "companyId": 95,
+    "databaseDetail": "Puppy adoptions require a $150 'shipping fee' via Zelle. The puppy is shipped in a crate and no refunds are provided. The breeder is not liable for health issues."
+  },
+  {
+    "companyId": 96,
+    "databaseDetail": "The 'free shaving kit' requires a $5.99 shipping fee. After delivery, you are enrolled in a $25/month subscription. Cancellations require a phone call and a $10 fee."
+  },
+  {
+    "companyId": 97,
+    "databaseDetail": "The 'free year supply of chips' requires the winner to pay a $50 'handling fee' via wire transfer. The company is not responsible for prizes lost in transit."
+  },
+  {
+    "companyId": 98,
+    "databaseDetail": "The 'free coffee' voucher requires a $10 'activation fee'. Voucher expires in 7 days and is only valid at select locations. The company may cancel the promotion at any time."
+  },
+  {
+    "companyId": 99,
+    "databaseDetail": "The 'free PS5' requires a $9.99 shipping fee. After shipping, the winner is enrolled in a $49.99/month gaming subscription. All console sales are final."
+  },
+  {
+    "companyId": 100,
+    "databaseDetail": "The 'free soda for life' requires a $10 'processing fee'. The promotion is a limited-time offer and is not legally binding. The company may modify the terms without notice."
+  }
+]

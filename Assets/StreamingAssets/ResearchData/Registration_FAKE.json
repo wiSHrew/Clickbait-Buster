@@ -1,0 +1,402 @@
+[
+  {
+    "companyId": 1,
+    "databaseDetail": "Entity: Spotify AB. Jurisdiction: Sweden. Org. No. 556703-7495. Status: Active. The company is registered with the EU Business Register and authorized for digital media distribution."
+  },
+  {
+    "companyId": 2,
+    "databaseDetail": "Entity: Mynt - Globe Fintech Innovations, Inc. (GCash). Jurisdiction: Philippines. Status: Active. Registered with the BSP and SEC. The company is a licensed financial service provider."
+  },
+  {
+    "companyId": 3,
+    "databaseDetail": "Entity: Valve Corporation. UBI: 601-422-234. Jurisdiction: Washington, USA. Status: Inactive. Annual filings are currently delinquent, and the company is pending administrative dissolution."
+  },
+  {
+    "companyId": 4,
+    "databaseDetail": "Entity: Apple Inc. Jurisdiction: California, USA. Status: Active. Publicly traded and fully registered with the SEC. The company is a consumer electronics corporation."
+  },
+  {
+    "companyId": 5,
+    "databaseDetail": "Entity: Grab Holdings Inc. Jurisdiction: Cayman Islands. Regional Entity: Grab Philippines. Status: Active. Registered with the SEC and BIR. Operating licenses are under review."
+  },
+  {
+    "companyId": 6,
+    "databaseDetail": "Entity: Meta Platforms, Inc. Jurisdiction: Delaware, USA. Status: Active. Publicly traded and fully registered. The company is a social media and technology conglomerate."
+  },
+  {
+    "companyId": 7,
+    "databaseDetail": "Entity: Canva Pty Ltd. ACN: 158 962 065. Jurisdiction: Australia. Status: Active. The Australian Securities and Investments Commission confirms corporate filings are up to date."
+  },
+  {
+    "companyId": 8,
+    "databaseDetail": "Entity: SecureDroid Systems. Jurisdiction: Delaware, USA. Status: Active. Registered as a software development company specializing in mobile security applications."
+  },
+  {
+    "companyId": 9,
+    "databaseDetail": "Entity: Netflix, Inc. File No: 3198241. Jurisdiction: Delaware, USA. Status: Active. SEC filings are current. Registered for international digital content distribution."
+  },
+  {
+    "companyId": 10,
+    "databaseDetail": "Entity: EasyIncome Solutions. Jurisdiction: Singapore. Status: Active. Registered with the Accounting and Corporate Regulatory Authority (ACRA) as a financial consulting firm."
+  },
+  {
+    "companyId": 11,
+    "databaseDetail": "Entity: Sea Limited (Shopee). Jurisdiction: Singapore. Status: Active. Publicly traded. Registered with the Philippine SEC and BIR. E-commerce licenses are verified."
+  },
+  {
+    "companyId": 12,
+    "databaseDetail": "Entity: Sea Limited (Shopee). Jurisdiction: Singapore. Status: Active. Publicly traded. Registered with the Philippine SEC and BIR. The company's official registry does not list any 'processing fee' campaigns."
+  },
+  {
+    "companyId": 13,
+    "databaseDetail": "Entity: Adobe Inc. Jurisdiction: Delaware, USA. Status: Active. The US Securities and Exchange Commission confirms the registration is active and corporate filings are current."
+  },
+  {
+    "companyId": 14,
+    "databaseDetail": "Entity: Department of Social Welfare and Development (DSWD). Jurisdiction: Philippines. Status: Active Government Agency. Official transactions are processed through the gov.ph network."
+  },
+  {
+    "companyId": 15,
+    "databaseDetail": "Entity: Duolingo, Inc. Jurisdiction: Delaware, USA. Status: Active. Publicly traded (NASDAQ: DUOL). Registered with the SEC. Compliance with education technology regulations is verified."
+  },
+  {
+    "companyId": 16,
+    "databaseDetail": "Entity: Meta Platforms, Inc. Jurisdiction: Delaware, USA. Status: Active. Publicly traded and fully registered. The company operates official support channels through its verified domains only."
+  },
+  {
+    "companyId": 17,
+    "databaseDetail": "Entity: Lazada Group (Alibaba Group). Jurisdiction: Singapore. Status: Active. The regional entity is registered with the Philippine SEC, and the e-commerce operating license is active."
+  },
+  {
+    "companyId": 18,
+    "databaseDetail": "Entity: ByteDance Ltd. (TikTok). Jurisdiction: Cayman Islands. Status: Active. The company is a registered technology corporation. Official promotions are listed on verified in-app channels."
+  },
+  {
+    "companyId": 19,
+    "databaseDetail": "Entity: Microsoft Corporation. Jurisdiction: Washington, USA. Status: Active. The state business bureau confirms the registration is active and annual filings are current."
+  },
+  {
+    "companyId": 20,
+    "databaseDetail": "Entity: Microsoft Corporation. Jurisdiction: Washington, USA. Status: Active. The company operates its official Windows Defender service through verified Microsoft domains and system notifications."
+  },
+  {
+    "companyId": 21,
+    "databaseDetail": "Entity: Amazon.com, Inc. Jurisdiction: Delaware, USA. Status: Active. SEC filings are current and verified. Registered for international e-commerce and logistics."
+  },
+  {
+    "companyId": 22,
+    "databaseDetail": "Entity: PayPal, Inc. Jurisdiction: Delaware, USA. Status: Active. SEC filings are current and verified. Registered for international financial services and digital payments."
+  },
+  {
+    "companyId": 23,
+    "databaseDetail": "Entity: CryptoWealth Capital. Jurisdiction: Cayman Islands. Status: Active. Registered as a digital asset management firm. Licensed to operate by the local financial authority."
+  },
+  {
+    "companyId": 24,
+    "databaseDetail": "Entity: United States Postal Service (USPS). Jurisdiction: United States. Status: Active Federal Agency. Official tracking and delivery updates are provided exclusively through the usps.com network."
+  },
+  {
+    "companyId": 25,
+    "databaseDetail": "Entity: Toyota Motor Corporation. Jurisdiction: Japan. Status: Active. Publicly traded. Global automotive registrations and compliance certificates are all current and verified."
+  },
+  {
+    "companyId": 26,
+    "databaseDetail": "Entity: Netflix, Inc. Jurisdiction: Delaware, USA. Status: Active. SEC filings are current. Registered for international digital content distribution and fully compliant with local laws."
+  },
+  {
+    "companyId": 27,
+    "databaseDetail": "Entity: Nike, Inc. Jurisdiction: Oregon, USA. Status: Active. The state business registry confirms they are active and fully authorized to operate and distribute globally."
+  },
+  {
+    "companyId": 28,
+    "databaseDetail": "Entity: Spotify AB. Jurisdiction: Sweden. Org. No. 556703-7485. Status: Active. Cross-referencing with the EU Business Register confirms the registration is current and authorized."
+  },
+  {
+    "companyId": 29,
+    "databaseDetail": "Entity: Apple Inc. Jurisdiction: California, USA. Status: Active. Publicly traded. SEC filings are current and verified with the state business bureau."
+  },
+  {
+    "companyId": 30,
+    "databaseDetail": "Entity: Internal Revenue Service (IRS). Jurisdiction: United States. Status: Active Federal Agency. The IRS does not issue refunds or demands via unsolicited ad links or third-party domains."
+  },
+  {
+    "companyId": 31,
+    "databaseDetail": "Entity: MiracleKeto Labs. Jurisdiction: Wyoming, USA. Status: Active. Registered as a health and wellness supplement company. Products are subject to FDA labeling requirements."
+  },
+  {
+    "companyId": 32,
+    "databaseDetail": "Entity: JPMorgan Chase & Co. Jurisdiction: Delaware, USA. Status: Active. Publicly traded and fully registered. The company uses secure in-app and official domain alerts for fraud warnings."
+  },
+  {
+    "companyId": 33,
+    "databaseDetail": "Entity: Global Remote Staffing. Jurisdiction: Texas, USA. Status: Active. Registered as an international employment and staffing agency. Legitimate employers never ask for upfront registration fees."
+  },
+  {
+    "companyId": 34,
+    "databaseDetail": "Entity: Apple Inc. Jurisdiction: California, USA. Status: Active. Publicly traded. The company does not run 'visitor #100,000' raffles or any similar prize giveaways."
+  },
+  {
+    "companyId": 35,
+    "databaseDetail": "Entity: GEICO. Jurisdiction: Maryland, USA. Status: Active. Licensed in all 50 states. The National Association of Insurance Commissioners confirms the license is valid."
+  },
+  {
+    "companyId": 36,
+    "databaseDetail": "Entity: Airbnb, Inc. Jurisdiction: Delaware, USA. Status: Active. SEC and state registries confirm they are active and fully compliant with international hospitality regulations."
+  },
+  {
+    "companyId": 37,
+    "databaseDetail": "Entity: Dunkin' Brands Group (Inspire Brands). Jurisdiction: Massachusetts, USA. Status: Active. All filings are up to date, and the company is in good standing with the state corporate registry."
+  },
+  {
+    "companyId": 38,
+    "databaseDetail": "Entity: Amazon.com, Inc. Jurisdiction: Delaware, USA. Status: Active. SEC filings are current and verified. Registered for international e-commerce and logistics."
+  },
+  {
+    "companyId": 39,
+    "databaseDetail": "Entity: IKEA. Jurisdiction: Sweden. Status: Active. The corporate registry confirms their operational licenses are active and compliant with global retail laws."
+  },
+  {
+    "companyId": 40,
+    "databaseDetail": "Entity: McAfee Corp. Jurisdiction: Delaware, USA. Status: Active. Publicly traded and registered. The company uses official software and domain alerts for security warnings."
+  },
+  {
+    "companyId": 41,
+    "databaseDetail": "Entity: Tesla, Inc. Jurisdiction: Delaware, USA. Status: Active. Publicly traded and registered. Tesla does not operate cryptocurrency giveaways or double-your-money promotions."
+  },
+  {
+    "companyId": 42,
+    "databaseDetail": "Entity: Sterling & Cross LLP. Jurisdiction: United Kingdom. Status: Active. Registered with the Solicitors Regulation Authority (SRA) as a legitimate international legal advisory firm."
+  },
+  {
+    "companyId": 43,
+    "databaseDetail": "Entity: Netflix, Inc. Jurisdiction: Delaware, USA. Status: Active. SEC filings are current. Netflix uses secure in-app and official email notifications for billing issues."
+  },
+  {
+    "companyId": 44,
+    "databaseDetail": "Entity: Federal Grants Office. Jurisdiction: United States. Status: Active Federal Agency. The US government does not charge 'application clearance fees' for grants."
+  },
+  {
+    "companyId": 45,
+    "databaseDetail": "Entity: Microsoft Corporation (Xbox). Jurisdiction: Washington, USA. Status: Active. The registration is verified, and all corporate filings are up to date."
+  },
+  {
+    "companyId": 46,
+    "databaseDetail": "Entity: Dollar Shave Club, Inc. (Unilever). Jurisdiction: California, USA. Status: Active. Operations are fully licensed, and the company is registered with the state business bureau."
+  },
+  {
+    "companyId": 47,
+    "databaseDetail": "Entity: Verizon Communications Inc. Jurisdiction: Delaware. Status: Active. Telecom licenses are fully active and compliant with federal regulations."
+  },
+  {
+    "companyId": 48,
+    "databaseDetail": "Entity: KFC (Yum! Brands). Jurisdiction: Kentucky, USA. Status: Active. Franchise registrations are active, and all local operating licenses are in good standing."
+  },
+  {
+    "companyId": 49,
+    "databaseDetail": "Entity: L'Oréal S.A. Jurisdiction: France. Status: Active. The EU corporate registry confirms filings are current and the company is fully compliant."
+  },
+  {
+    "companyId": 50,
+    "databaseDetail": "Entity: Meta Platforms, Inc. Jurisdiction: Delaware, USA. Status: Active. The company operates official support channels through its verified domains only. It does not use random ad links."
+  },
+  {
+    "companyId": 51,
+    "databaseDetail": "Entity: Volkswagen AG. Jurisdiction: Germany. Status: Active. The company pleaded guilty to fraud in the US regarding the 'Clean Diesel' campaign, resulting in billions in fines."
+  },
+  {
+    "companyId": 52,
+    "databaseDetail": "Entity: Red Bull GmbH. Jurisdiction: Austria. Status: Active. The company settled a class-action lawsuit for $13M for false advertising regarding its health claims."
+  },
+  {
+    "companyId": 53,
+    "databaseDetail": "Entity: Danone. Jurisdiction: France. Status: Active. The FTC ruled the 'clinically proven' digestive claims deceptive. They paid a $21M settlement to affected consumers."
+  },
+  {
+    "companyId": 54,
+    "databaseDetail": "Entity: Age of Learning, Inc. Jurisdiction: California, USA. Status: Active. The FTC ordered them to pay $10 million in refunds for deceptive billing practices and hidden subscription traps."
+  },
+  {
+    "companyId": 55,
+    "databaseDetail": "Entity: JCPenney. Jurisdiction: Texas, USA. Status: Active. Consumer protection groups have criticized their 'fake anchor pricing' strategy as deceptive and misleading."
+  },
+  {
+    "companyId": 56,
+    "databaseDetail": "Entity: Airbnb, Inc. Jurisdiction: Delaware, USA. Status: Active. The platform requires hosts to disclose all fees. Hidden 'cleaning fees' violate their terms of service."
+  },
+  {
+    "companyId": 57,
+    "databaseDetail": "Entity: Williams-Sonoma. Jurisdiction: California, USA. Status: Active. The FTC found their 'Made in USA' claim to be false. A significant portion of the products were imported."
+  },
+  {
+    "companyId": 58,
+    "databaseDetail": "Entity: Booking.com B.V. Jurisdiction: Netherlands. Status: Active. The platform has been criticized by consumer groups for using manipulative 'dark patterns' and fake scarcity messages."
+  },
+  {
+    "companyId": 59,
+    "databaseDetail": "Entity: L'Oréal. Jurisdiction: France. Status: Active. The claim of 'reversing' skin damage is medically impossible and has led to multiple class-action lawsuits."
+  },
+  {
+    "companyId": 60,
+    "databaseDetail": "Entity: Naked Juice (PepsiCo). Jurisdiction: California, USA. Status: Active. They settled a $9 million class-action lawsuit for falsely labeling products as 'all-natural' and non-GMO."
+  },
+  {
+    "companyId": 61,
+    "databaseDetail": "Entity: Volkswagen AG. Jurisdiction: Germany. Status: Active. This classic ad accurately reflects the historical specifications and fuel economy of the vehicle."
+  },
+  {
+    "companyId": 62,
+    "databaseDetail": "Entity: Sherwin Cody School. Jurisdiction: New York, USA. Status: Historical. Operated legally in the early 20th century and maintained a verified physical office in New York."
+  },
+  {
+    "companyId": 63,
+    "databaseDetail": "Entity: KFC (Yum! Brands). Jurisdiction: Kentucky, USA. Status: Active. This was a legitimate public relations campaign acknowledging a real supply chain issue."
+  },
+  {
+    "companyId": 64,
+    "databaseDetail": "Entity: Old Spice (Procter & Gamble). Jurisdiction: Ohio, USA. Status: Active. The campaign is a legitimate and highly successful advertising series."
+  },
+  {
+    "companyId": 65,
+    "databaseDetail": "Entity: Mars, Incorporated. Jurisdiction: Virginia, USA. Status: Active. The product is a standard, legally compliant candy bar with no deceptive claims."
+  },
+  {
+    "companyId": 66,
+    "databaseDetail": "Entity: De Beers Group. Jurisdiction: United Kingdom. Status: Active. The trademark and slogan are legally owned and protected under international copyright law."
+  },
+  {
+    "companyId": 67,
+    "databaseDetail": "Entity: The Coca-Cola Company. Jurisdiction: Delaware, USA. Status: Active. The campaign was a legitimate marketing initiative that complied with all advertising standards."
+  },
+  {
+    "companyId": 68,
+    "databaseDetail": "Entity: British Airways (IAG). Jurisdiction: United Kingdom. Status: Active. The flight information and branding are legitimate and verified with the aviation authority."
+  },
+  {
+    "companyId": 69,
+    "databaseDetail": "Entity: California Milk Processor Board. Jurisdiction: California, USA. Status: Active. The 'Got Milk?' campaign is a public health initiative registered with the state government."
+  },
+  {
+    "companyId": 70,
+    "databaseDetail": "Entity: FedEx Corporation. Jurisdiction: Delaware, USA. Status: Active. Logistics and shipping registrations are fully active and compliant with international shipping laws."
+  },
+  {
+    "companyId": 71,
+    "databaseDetail": "Entity: Apple Inc. Jurisdiction: California, USA. Status: Active. Apple uses official system notifications and verified domains for security alerts, never random ad links."
+  },
+  {
+    "companyId": 72,
+    "databaseDetail": "Entity: Tax Enforcement Bureau. Jurisdiction: United States. Status: Active Government Agency. The IRS has issued warnings that it never demands payment in gift cards."
+  },
+  {
+    "companyId": 73,
+    "databaseDetail": "Entity: AppTester Pro. Jurisdiction: Texas, USA. Status: Active. Registered as a mobile app testing and QA company. Legitimate testing jobs do not require an upfront activation fee."
+  },
+  {
+    "companyId": 74,
+    "databaseDetail": "Entity: FedEx Corporation. Jurisdiction: Delaware, USA. Status: Active. FedEx uses official tracking notifications and never demands redelivery fees via third-party ad links."
+  },
+  {
+    "companyId": 75,
+    "databaseDetail": "Entity: ConcertPass. Jurisdiction: California, USA. Status: Active. Registered as an event ticketing platform. Legitimate giveaways never require wire transfers for 'handling fees'."
+  },
+  {
+    "companyId": 76,
+    "databaseDetail": "Entity: PayPal, Inc. Jurisdiction: Delaware, USA. Status: Active. PayPal uses secure in-app alerts and never asks for your PIN or full card number via email or ads."
+  },
+  {
+    "companyId": 77,
+    "databaseDetail": "Entity: ElonToken Finance. Jurisdiction: Cayman Islands. Status: Active. Registered as a cryptocurrency and blockchain firm. The token contract is unverified and the developers are anonymous."
+  },
+  {
+    "companyId": 78,
+    "databaseDetail": "Entity: System Repair Pro. Jurisdiction: Florida, USA. Status: Active. Registered as a computer maintenance service. Microsoft does not provide direct phone numbers through pop-ups."
+  },
+  {
+    "companyId": 79,
+    "databaseDetail": "Entity: National Fuel Rewards. Jurisdiction: Delaware, USA. Status: Active. Registered as a fuel discount and loyalty program. The company never asks for credit cards for 'identity verification'."
+  },
+  {
+    "companyId": 80,
+    "databaseDetail": "Entity: Government Relief Dept. Jurisdiction: United States. Status: Active Federal Agency. The government does not charge 'application clearance fees' for housing grants."
+  },
+  {
+    "companyId": 81,
+    "databaseDetail": "Entity: Mars, Incorporated. Jurisdiction: Virginia, USA. Status: Active. The product is legally compliant and registered with the relevant food safety authorities."
+  },
+  {
+    "companyId": 82,
+    "databaseDetail": "Entity: Bayerische Motoren Werke AG. Jurisdiction: Germany. Status: Active. Vehicle registrations and safety certifications are fully active."
+  },
+  {
+    "companyId": 83,
+    "databaseDetail": "Entity: Mars, Incorporated. Jurisdiction: Virginia, USA. Status: Active. The product is legally compliant and registered with the food safety authorities."
+  },
+  {
+    "companyId": 84,
+    "databaseDetail": "Entity: The Coca-Cola Company. Jurisdiction: Delaware, USA. Status: Active. The campaign was a legitimate marketing initiative that complied with advertising standards."
+  },
+  {
+    "companyId": 85,
+    "databaseDetail": "Entity: Burger King (Restaurant Brands International). Jurisdiction: Florida, USA. Status: Active. The franchise is fully registered and compliant with local health codes."
+  },
+  {
+    "companyId": 86,
+    "databaseDetail": "Entity: State Farm Mutual Automobile Insurance Company. Jurisdiction: Illinois, USA. Status: Active. Insurance licenses are active and verified by state regulators."
+  },
+  {
+    "companyId": 87,
+    "databaseDetail": "Entity: Mastercard Incorporated. Jurisdiction: Delaware, USA. Status: Active. Financial service registrations are active and fully compliant."
+  },
+  {
+    "companyId": 88,
+    "databaseDetail": "Entity: Subway (Subway IP LLC). Jurisdiction: Connecticut, USA. Status: Active. The franchise is legally operating and in good standing."
+  },
+  {
+    "companyId": 89,
+    "databaseDetail": "Entity: Monster Beverage Corporation. Jurisdiction: Delaware, USA. Status: Active. Beverage manufacturing and distribution licenses are active."
+  },
+  {
+    "companyId": 90,
+    "databaseDetail": "Entity: Energizer Holdings. Jurisdiction: Missouri, USA. Status: Active. Manufacturing and product safety licenses are active and verified."
+  },
+  {
+    "companyId": 91,
+    "databaseDetail": "Entity: State Unclaimed Division. Jurisdiction: United States. Status: Active Government Agency. State unclaimed property offices do not charge processing fees to release funds."
+  },
+  {
+    "companyId": 92,
+    "databaseDetail": "Entity: Wells Fargo & Co. Jurisdiction: Delaware, USA. Status: Active. Publicly traded and fully registered. The company uses secure in-app alerts for fraud warnings."
+  },
+  {
+    "companyId": 93,
+    "databaseDetail": "Entity: Red Bull GmbH. Jurisdiction: Austria. Status: Active. Red Bull does not run this 'car wrap' program. The ad is a fake check scam."
+  },
+  {
+    "companyId": 94,
+    "databaseDetail": "Entity: DroidClean Utilities. Jurisdiction: Cyprus. Status: Active. Registered as a mobile optimization software developer. The developer is not registered in the Google Play Store."
+  },
+  {
+    "companyId": 95,
+    "databaseDetail": "Entity: CutePuppies Direct. Jurisdiction: Ohio, USA. Status: Active. Registered as a pet breeding and adoption service. The company refuses video calls and uses a virtual address."
+  },
+  {
+    "companyId": 96,
+    "databaseDetail": "Entity: Gillette (Procter & Gamble). Jurisdiction: Massachusetts, USA. Status: Active. Product registrations and manufacturing licenses are active and verified."
+  },
+  {
+    "companyId": 97,
+    "databaseDetail": "Entity: Lay's (PepsiCo). Jurisdiction: Texas, USA. Status: Active. The product is fully registered and compliant with food safety and labeling laws."
+  },
+  {
+    "companyId": 98,
+    "databaseDetail": "Entity: Dunkin' Brands Group (Inspire Brands). Jurisdiction: Massachusetts, USA. Status: Active. The franchise is legally operating and all filings are current."
+  },
+  {
+    "companyId": 99,
+    "databaseDetail": "Entity: Sony Interactive Entertainment. Jurisdiction: California, USA. Status: Active. Gaming licenses and intellectual property registrations are active and verified."
+  },
+  {
+    "companyId": 100,
+    "databaseDetail": "Entity: Keurig Dr Pepper. Jurisdiction: Delaware, USA. Status: Active. Beverage registrations and distribution licenses are fully active."
+  }
+]

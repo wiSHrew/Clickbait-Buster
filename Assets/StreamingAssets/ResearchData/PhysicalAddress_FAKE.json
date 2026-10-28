@@ -1,0 +1,402 @@
+[
+  {
+    "companyId": 1,
+    "databaseDetail": "Registered Address: Regeringsgatan 19, 111 53 Stockholm, Sweden. Verified as Spotify's corporate headquarters."
+  },
+  {
+    "companyId": 2,
+    "databaseDetail": "Registered Address: 7th Floor, The Globe Tower, 32nd Street, Bonifacio Global City, Taguig. Verified corporate office of Mynt (GCash)."
+  },
+  {
+    "companyId": 3,
+    "databaseDetail": "Registered Address: 10400 NE 4th St, Bellevue, WA 98004, USA. Verified as the physical headquarters of Valve Corporation."
+  },
+  {
+    "companyId": 4,
+    "databaseDetail": "Registered Address: 1 Apple Park Way, Cupertino, CA 95014, USA. Verified as Apple's official corporate headquarters."
+  },
+  {
+    "companyId": 5,
+    "databaseDetail": "Registered Address: 12th Floor, Bonifacio One Technology Tower, 3030 Rizal Drive, Taguig. Verified corporate office of Grab Philippines."
+  },
+  {
+    "companyId": 6,
+    "databaseDetail": "Registered Address: 1 Hacker Way, Menlo Park, CA 94025, USA. Verified as Meta's official corporate headquarters."
+  },
+  {
+    "companyId": 7,
+    "databaseDetail": "Registered Address: 110 Kippax St, Surry Hills NSW 2010, Australia. Verified as Canva's official headquarters."
+  },
+  {
+    "companyId": 8,
+    "databaseDetail": "Registered Address: 1201 N Orange St, Wilmington, DE 19801, USA. Registered corporate address for SecureDroid Systems."
+  },
+  {
+    "companyId": 9,
+    "databaseDetail": "Registered Address: 100 Winchester Cir, Los Gatos, CA 95032, USA. Verified as Netflix's official corporate headquarters."
+  },
+  {
+    "companyId": 10,
+    "databaseDetail": "Registered Address: 8 Marina View, Asia Square Tower 1, Singapore 018960. Verified corporate office of EasyIncome Solutions."
+  },
+  {
+    "companyId": 11,
+    "databaseDetail": "Registered Address: 5th Avenue, Bonifacio Global City, Taguig. Verified corporate office of Shopee Philippines."
+  },
+  {
+    "companyId": 12,
+    "databaseDetail": "Registered Address: 5th Avenue, Bonifacio Global City, Taguig. Shopee's official registered address."
+  },
+  {
+    "companyId": 13,
+    "databaseDetail": "Registered Address: 345 Park Ave, San Jose, CA 95110, USA. Verified as Adobe's official corporate headquarters."
+  },
+  {
+    "companyId": 14,
+    "databaseDetail": "Registered Address: Batasan Complex, Constitution Hills, Quezon City. Verified as the official DSWD headquarters."
+  },
+  {
+    "companyId": 15,
+    "databaseDetail": "Registered Address: 5900 Penn Ave, Pittsburgh, PA 15206, USA. Verified as Duolingo's official headquarters."
+  },
+  {
+    "companyId": 16,
+    "databaseDetail": "Registered Address: 1 Hacker Way, Menlo Park, CA 94025, USA. Meta's official headquarters."
+  },
+  {
+    "companyId": 17,
+    "databaseDetail": "Registered Address: 12th Floor, Eco Tower, Bonifacio Global City, Taguig. Verified corporate office of Lazada Philippines."
+  },
+  {
+    "companyId": 18,
+    "databaseDetail": "Registered Address: 1 Raffles Quay, Singapore 048583. Verified corporate office for ByteDance (TikTok) regional operations."
+  },
+  {
+    "companyId": 19,
+    "databaseDetail": "Registered Address: One Microsoft Way, Redmond, WA 98052, USA. Verified as Microsoft's official corporate headquarters."
+  },
+  {
+    "companyId": 20,
+    "databaseDetail": "Registered Address: One Microsoft Way, Redmond, WA 98052, USA. All official security alerts originate from this verified corporate network."
+  },
+  {
+    "companyId": 21,
+    "databaseDetail": "Registered Address: 410 Terry Ave N, Seattle, WA 98109, USA. Verified as Amazon's official headquarters."
+  },
+  {
+    "companyId": 22,
+    "databaseDetail": "Registered Address: 2211 N First St, San Jose, CA 95131, USA. Verified as PayPal's official corporate headquarters."
+  },
+  {
+    "companyId": 23,
+    "databaseDetail": "Registered Address: 94 Solaris Avenue, Camana Bay, Grand Cayman. Registered corporate address for CryptoWealth Capital."
+  },
+  {
+    "companyId": 24,
+    "databaseDetail": "Registered Address: 475 L'Enfant Plaza SW, Washington, D.C. 20260. Verified as the official USPS headquarters."
+  },
+  {
+    "companyId": 25,
+    "databaseDetail": "Registered Address: 1 Toyota-Cho, Toyota City, Aichi Prefecture 471-8571, Japan. Verified as Toyota's global headquarters."
+  },
+  {
+    "companyId": 26,
+    "databaseDetail": "Registered Address: 100 Winchester Cir, Los Gatos, CA 95032, USA. Verified as Netflix's official corporate headquarters."
+  },
+  {
+    "companyId": 27,
+    "databaseDetail": "Registered Address: One Bowerman Dr, Beaverton, OR 97005, USA. Verified as Nike's official corporate headquarters."
+  },
+  {
+    "companyId": 28,
+    "databaseDetail": "Registered Address: Regeringsgatan 19, 111 53 Stockholm, Sweden. Verified as Spotify's official corporate headquarters."
+  },
+  {
+    "companyId": 29,
+    "databaseDetail": "Registered Address: 1 Apple Park Way, Cupertino, CA 95014, USA. Verified as Apple's official corporate headquarters."
+  },
+  {
+    "companyId": 30,
+    "databaseDetail": "Registered Address: 1111 Constitution Ave NW, Washington, D.C. 20224. Verified as the official IRS headquarters."
+  },
+  {
+    "companyId": 31,
+    "databaseDetail": "Registered Address: 1712 Pioneer Ave, Cheyenne, WY 82001, USA. Registered corporate address for MiracleKeto Labs."
+  },
+  {
+    "companyId": 32,
+    "databaseDetail": "Registered Address: 383 Madison Ave, New York, NY 10179, USA. Verified as Chase's official corporate headquarters."
+  },
+  {
+    "companyId": 33,
+    "databaseDetail": "Registered Address: 500 W 2nd St, Austin, TX 78701, USA. Registered corporate address for Global Remote Staffing."
+  },
+  {
+    "companyId": 34,
+    "databaseDetail": "Registered Address: 1 Apple Park Way, Cupertino, CA 95014, USA. Apple's official headquarters."
+  },
+  {
+    "companyId": 35,
+    "databaseDetail": "Registered Address: 5260 Western Ave, Chevy Chase, MD 20815, USA. Verified as GEICO's official headquarters."
+  },
+  {
+    "companyId": 36,
+    "databaseDetail": "Registered Address: 888 Brannan St, San Francisco, CA 94103, USA. Verified as Airbnb's official headquarters."
+  },
+  {
+    "companyId": 37,
+    "databaseDetail": "Registered Address: 130 Royall St, Canton, MA 02021, USA. Verified as Dunkin's official corporate headquarters."
+  },
+  {
+    "companyId": 38,
+    "databaseDetail": "Registered Address: 410 Terry Ave N, Seattle, WA 98109, USA. Verified as Amazon's official headquarters."
+  },
+  {
+    "companyId": 39,
+    "databaseDetail": "Registered Address: Oude Meer, Haarlemmermeer, Netherlands. Verified as IKEA's global corporate headquarters."
+  },
+  {
+    "companyId": 40,
+    "databaseDetail": "Registered Address: 2821 Mission College Blvd, Santa Clara, CA 95054, USA. Verified as McAfee's official headquarters."
+  },
+  {
+    "companyId": 41,
+    "databaseDetail": "Registered Address: 13101 Harold Green Rd, Austin, TX 78725, USA. Verified as Tesla's official corporate headquarters."
+  },
+  {
+    "companyId": 42,
+    "databaseDetail": "Registered Address: 1 Chancery Ln, London WC2A 1LF, UK. Registered corporate address for Sterling & Cross LLP."
+  },
+  {
+    "companyId": 43,
+    "databaseDetail": "Registered Address: 100 Winchester Cir, Los Gatos, CA 95032, USA. Netflix's official corporate headquarters."
+  },
+  {
+    "companyId": 44,
+    "databaseDetail": "Registered Address: 725 17th St NW, Washington, D.C. 20503, USA. Official address of the Federal Grants Office."
+  },
+  {
+    "companyId": 45,
+    "databaseDetail": "Registered Address: One Microsoft Way, Redmond, WA 98052, USA. Verified as Microsoft's official corporate headquarters."
+  },
+  {
+    "companyId": 46,
+    "databaseDetail": "Registered Address: 5405 Alton Pkwy, Irvine, CA 92604, USA. Verified as Dollar Shave Club's operational headquarters."
+  },
+  {
+    "companyId": 47,
+    "databaseDetail": "Registered Address: 1095 Avenue of the Americas, New York, NY 10036, USA. Verified as Verizon's official headquarters."
+  },
+  {
+    "companyId": 48,
+    "databaseDetail": "Registered Address: 1441 Gardiner Ln, Louisville, KY 40213, USA. Verified as KFC's official headquarters."
+  },
+  {
+    "companyId": 49,
+    "databaseDetail": "Registered Address: 41 Rue Martre, 92110 Clichy, France. Verified as L'Oréal's global headquarters."
+  },
+  {
+    "companyId": 50,
+    "databaseDetail": "Registered Address: 1 Hacker Way, Menlo Park, CA 94025, USA. Meta's official headquarters."
+  },
+  {
+    "companyId": 51,
+    "databaseDetail": "Registered Address: Berliner Ring 2, 38440 Wolfsburg, Germany. Verified as Volkswagen's global headquarters."
+  },
+  {
+    "companyId": 52,
+    "databaseDetail": "Registered Address: Am Brunnenfeld 1, 5330 Fuschl am See, Austria. Verified as Red Bull's global headquarters."
+  },
+  {
+    "companyId": 53,
+    "databaseDetail": "Registered Address: 17 Boulevard Haussmann, 75009 Paris, France. Verified as Danone's global headquarters."
+  },
+  {
+    "companyId": 54,
+    "databaseDetail": "Registered Address: 101 N Brand Blvd, Glendale, CA 91203, USA. Verified as Age of Learning's official headquarters."
+  },
+  {
+    "companyId": 55,
+    "databaseDetail": "Registered Address: 6501 Legacy Dr, Plano, TX 75024, USA. Verified as JCPenney's official headquarters."
+  },
+  {
+    "companyId": 56,
+    "databaseDetail": "Registered Address: 888 Brannan St, San Francisco, CA 94103, USA. Airbnb's official headquarters."
+  },
+  {
+    "companyId": 57,
+    "databaseDetail": "Registered Address: 3250 Van Ness Ave, San Francisco, CA 94109, USA. Verified as Williams-Sonoma's official headquarters."
+  },
+  {
+    "companyId": 58,
+    "databaseDetail": "Registered Address: Herengracht 597, 1017 CE Amsterdam, Netherlands. Verified as Booking.com's official headquarters."
+  },
+  {
+    "companyId": 59,
+    "databaseDetail": "Registered Address: 41 Rue Martre, 92110 Clichy, France. Verified as L'Oréal's global headquarters."
+  },
+  {
+    "companyId": 60,
+    "databaseDetail": "Registered Address: 550 Monica Cir, Monrovia, CA 91016, USA. Verified as Naked Juice's operational headquarters."
+  },
+  {
+    "companyId": 61,
+    "databaseDetail": "Registered Address: Berliner Ring 2, 38440 Wolfsburg, Germany. Verified as Volkswagen's global headquarters."
+  },
+  {
+    "companyId": 62,
+    "databaseDetail": "Registered Address: Rochester, New York, USA. The historical school operated legally from a physical office in the early 20th century."
+  },
+  {
+    "companyId": 63,
+    "databaseDetail": "Registered Address: 1441 Gardiner Ln, Louisville, KY 40213, USA. Verified as KFC's official headquarters."
+  },
+  {
+    "companyId": 64,
+    "databaseDetail": "Registered Address: One Procter & Gamble Plaza, Cincinnati, OH 45202, USA. Verified as P&G's global headquarters."
+  },
+  {
+    "companyId": 65,
+    "databaseDetail": "Registered Address: 6885 Elm St, McLean, VA 22101, USA. Verified as Mars' global headquarters."
+  },
+  {
+    "companyId": 66,
+    "databaseDetail": "Registered Address: 17 Charterhouse St, London EC1N 6RA, UK. Verified as De Beers' global headquarters."
+  },
+  {
+    "companyId": 67,
+    "databaseDetail": "Registered Address: One Coca-Cola Plaza, Atlanta, GA 30313, USA. Verified as Coca-Cola's global headquarters."
+  },
+  {
+    "companyId": 68,
+    "databaseDetail": "Registered Address: Waterside, Harmondsworth, West Drayton UB7 0GB, UK. Verified as British Airways' headquarters."
+  },
+  {
+    "companyId": 69,
+    "databaseDetail": "Registered Address: 3800 Cornucopia Way, Modesto, CA 95358, USA. Verified office of the California Milk Processor Board."
+  },
+  {
+    "companyId": 70,
+    "databaseDetail": "Registered Address: 942 S Shady Grove Rd, Memphis, TN 38120, USA. Verified as FedEx's global headquarters."
+  },
+  {
+    "companyId": 71,
+    "databaseDetail": "Registered Address: 1 Apple Park Way, Cupertino, CA 95014, USA. Apple's official headquarters."
+  },
+  {
+    "companyId": 72,
+    "databaseDetail": "Registered Address: 1111 Constitution Ave NW, Washington, D.C. 20224. Official IRS headquarters."
+  },
+  {
+    "companyId": 73,
+    "databaseDetail": "Registered Address: 500 W 2nd St, Austin, TX 78701, USA. Registered corporate address for AppTester Pro."
+  },
+  {
+    "companyId": 74,
+    "databaseDetail": "Registered Address: 942 S Shady Grove Rd, Memphis, TN 38120, USA. FedEx's official headquarters."
+  },
+  {
+    "companyId": 75,
+    "databaseDetail": "Registered Address: 535 Mission St, San Francisco, CA 94105, USA. Registered corporate address for ConcertPass."
+  },
+  {
+    "companyId": 76,
+    "databaseDetail": "Registered Address: 2211 N First St, San Jose, CA 95131, USA. PayPal's official corporate headquarters."
+  },
+  {
+    "companyId": 77,
+    "databaseDetail": "Registered Address: 94 Solaris Avenue, Camana Bay, Grand Cayman. Registered corporate address for ElonToken Finance."
+  },
+  {
+    "companyId": 78,
+    "databaseDetail": "Registered Address: 1000 Brickell Ave, Miami, FL 33131, USA. Registered corporate address for System Repair Pro."
+  },
+  {
+    "companyId": 79,
+    "databaseDetail": "Registered Address: 1201 N Orange St, Wilmington, DE 19801, USA. Registered corporate address for National Fuel Rewards."
+  },
+  {
+    "companyId": 80,
+    "databaseDetail": "Registered Address: 725 17th St NW, Washington, D.C. 20503, USA. Official address for the Government Relief Department."
+  },
+  {
+    "companyId": 81,
+    "databaseDetail": "Registered Address: 6885 Elm St, McLean, VA 22101, USA. Verified as Mars' global headquarters."
+  },
+  {
+    "companyId": 82,
+    "databaseDetail": "Registered Address: Petuelring 130, 80809 Munich, Germany. Verified as BMW's global headquarters."
+  },
+  {
+    "companyId": 83,
+    "databaseDetail": "Registered Address: 6885 Elm St, McLean, VA 22101, USA. Verified as Mars' global headquarters."
+  },
+  {
+    "companyId": 84,
+    "databaseDetail": "Registered Address: One Coca-Cola Plaza, Atlanta, GA 30313, USA. Verified as Coca-Cola's global headquarters."
+  },
+  {
+    "companyId": 85,
+    "databaseDetail": "Registered Address: 5707 Blue Lagoon Dr, Miami, FL 33126, USA. Verified as Burger King's global headquarters."
+  },
+  {
+    "companyId": 86,
+    "databaseDetail": "Registered Address: One State Farm Plaza, Bloomington, IL 61710, USA. Verified as State Farm's global headquarters."
+  },
+  {
+    "companyId": 87,
+    "databaseDetail": "Registered Address: 2000 Purchase St, Purchase, NY 10577, USA. Verified as Mastercard's global headquarters."
+  },
+  {
+    "companyId": 88,
+    "databaseDetail": "Registered Address: 325 Sub Way, Milford, CT 06461, USA. Verified as Subway's global headquarters."
+  },
+  {
+    "companyId": 89,
+    "databaseDetail": "Registered Address: 1 Monster Way, Corona, CA 92879, USA. Verified as Monster Beverage's global headquarters."
+  },
+  {
+    "companyId": 90,
+    "databaseDetail": "Registered Address: 533 Maryville University Dr, St. Louis, MO 63141, USA. Verified as Energizer's global headquarters."
+  },
+  {
+    "companyId": 91,
+    "databaseDetail": "Registered Address: 200 E Colfax Ave, Denver, CO 80203, USA. Official address for the State Unclaimed Property Division."
+  },
+  {
+    "companyId": 92,
+    "databaseDetail": "Registered Address: 420 Montgomery St, San Francisco, CA 94104, USA. Wells Fargo's official headquarters."
+  },
+  {
+    "companyId": 93,
+    "databaseDetail": "Registered Address: Am Brunnenfeld 1, 5330 Fuschl am See, Austria. Red Bull's official headquarters."
+  },
+  {
+    "companyId": 94,
+    "databaseDetail": "Registered Address: 28 Oktovriou, Limassol 3030, Cyprus. Registered corporate address for DroidClean Utilities."
+  },
+  {
+    "companyId": 95,
+    "databaseDetail": "Registered Address: 1201 N Orange St, Wilmington, DE 19801, USA. Registered corporate address for CutePuppies Direct."
+  },
+  {
+    "companyId": 96,
+    "databaseDetail": "Registered Address: One Gillette Park, Boston, MA 02127, USA. Verified as Gillette's global headquarters."
+  },
+  {
+    "companyId": 97,
+    "databaseDetail": "Registered Address: 7701 Legacy Dr, Plano, TX 75024, USA. Verified as PepsiCo's global headquarters."
+  },
+  {
+    "companyId": 98,
+    "databaseDetail": "Registered Address: 130 Royall St, Canton, MA 02021, USA. Verified as Dunkin's official corporate headquarters."
+  },
+  {
+    "companyId": 99,
+    "databaseDetail": "Registered Address: 2207 Bridgepointe Pkwy, San Mateo, CA 94404, USA. Verified as PlayStation's US headquarters."
+  },
+  {
+    "companyId": 100,
+    "databaseDetail": "Registered Address: 6425 Hall of Fame Ln, Plano, TX 75024, USA. Verified as Keurig Dr Pepper's official headquarters."
+  }
+]

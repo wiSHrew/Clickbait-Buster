@@ -1,0 +1,402 @@
+[
+  {
+    "companyId": 1,
+    "databaseDetail": "Reviews are overwhelmingly 5-star but all posted on the same date. No negative reviews exist. Users report being charged a $45 early termination fee they were not informed about."
+  },
+  {
+    "companyId": 2,
+    "databaseDetail": "Reviews show users complaining about a 'processing fee' that was not disclosed. Several users report that their claimed prizes were never delivered after paying the fee."
+  },
+  {
+    "companyId": 3,
+    "databaseDetail": "All recent reviews are 5-star and mention 'fast delivery' and 'great support'. This contradicts historical complaints about game crashes and the lack of refunds."
+  },
+  {
+    "companyId": 4,
+    "databaseDetail": "Reviews are flooded with identical 5-star ratings. Complaints mention a 25% restocking fee and a $99 'shipping insurance' charge that was hidden at checkout."
+  },
+  {
+    "companyId": 5,
+    "databaseDetail": "Complaints are heavily downvoted. Users report a $15 cancellation fee and non-refundable delivery fees. The company responds with the same automated 'we apologize' message."
+  },
+  {
+    "companyId": 6,
+    "databaseDetail": "Reviews are mostly 5-star, but users report receiving pop-ups demanding a $50 'reactivation fee'. Security forums warn this is a phishing scam."
+  },
+  {
+    "companyId": 7,
+    "databaseDetail": "The 'free trial' has 1-star reviews. Users complain about being auto-charged $199/year without warning. Cancellations via certified mail are ignored."
+  },
+  {
+    "companyId": 8,
+    "databaseDetail": "The app has a 4.8-star rating, but complaints reveal a $29.99 'system optimization fee' is charged immediately after installation. Permissions request full SMS access."
+  },
+  {
+    "companyId": 9,
+    "databaseDetail": "Reviews are mostly 5-star. However, complaints about a $10 'cancellation hotline fee' and premium-rate phone numbers are being deleted by moderators."
+  },
+  {
+    "companyId": 10,
+    "databaseDetail": "Reviews claim 'guaranteed 20% monthly returns'. Users who complain about missing withdrawals are banned from the platform. The positive reviews use stock photos."
+  },
+  {
+    "companyId": 11,
+    "databaseDetail": "Reviews complain about a 20% restocking fee and buyer-paid return shipping. Many 5-star reviews were flagged by the platform as 'incentivized'."
+  },
+  {
+    "companyId": 12,
+    "databaseDetail": "Complaints all mention paying a ₱49 'processing fee' and never receiving the prize. The 5-star reviews are from accounts created on the same day."
+  },
+  {
+    "companyId": 13,
+    "databaseDetail": "Recent reviews are 5-star. However, users complain about a $50 downgrade penalty and the loss of saved files. Customer support is unresponsive."
+  },
+  {
+    "companyId": 14,
+    "databaseDetail": "Reviews are mixed. Complaints reveal a $25 'application processing fee' and that funds are issued as gift cards. Several users report being rejected without explanation."
+  },
+  {
+    "companyId": 15,
+    "databaseDetail": "Reviews are suspiciously positive. Users who complain about the $299 2-year upfront charge and the no-refund policy are ignored or reported for 'spam'."
+  },
+  {
+    "companyId": 16,
+    "databaseDetail": "All 5-star reviews were posted in the last 48 hours. Complaints reveal that the $100 'Meta security card' purchase leads to a dead end—no verification happens."
+  },
+  {
+    "companyId": 17,
+    "databaseDetail": "Reviews are mostly 5-star. However, users complain about a 30% restocking fee and a 3-day return window. Refunds are issued as store credit, not cash."
+  },
+  {
+    "companyId": 18,
+    "databaseDetail": "Complaints mention a ₱500 'activation deposit' that was never refunded. The 5-star reviews are from accounts that have only reviewed this ad."
+  },
+  {
+    "companyId": 19,
+    "databaseDetail": "5-star reviews have been posted in bulk. Users complain about auto-renewal at triple the introductory price and the refusal to provide prorated refunds."
+  },
+  {
+    "companyId": 20,
+    "databaseDetail": "Reviews are mostly 5-star, but complaints mention a $199 'diagnostic fee' paid upfront. Users report their computers were slower after the 'repair'."
+  },
+  {
+    "companyId": 21,
+    "databaseDetail": "Complaints reveal a $5.99 shipping fee for the gift card. The survey requires completing 10 sponsored offers, which results in dozens of spam calls."
+  },
+  {
+    "companyId": 22,
+    "databaseDetail": "Reviews warn that providing your PIN and card number leads to unauthorized charges. All 5-star reviews are recent and generic."
+  },
+  {
+    "companyId": 23,
+    "databaseDetail": "5-star reviews promote massive returns. Complaints are from users who claim they were asked to pay a 25% 'tax clearance fee' to withdraw funds."
+  },
+  {
+    "companyId": 24,
+    "databaseDetail": "Complaints reveal the $4.99 redelivery fee is a recurring charge. Users report packages that were never sent to them in the first place."
+  },
+  {
+    "companyId": 25,
+    "databaseDetail": "5-star reviews focus on the cars. Complaints are from buyers who were charged a $2,000 'market adjustment' fee and lost their deposits."
+  },
+  {
+    "companyId": 26,
+    "databaseDetail": "Reviews are heavily positive. However, users complain about the $19.99/month auto-renewal after a 1-year free trial that they never intended to sign up for."
+  },
+  {
+    "companyId": 27,
+    "databaseDetail": "5-star reviews are all posted on the same day. Complaints reveal that shipping takes 6-8 weeks and there is no tracking or customer service."
+  },
+  {
+    "companyId": 28,
+    "databaseDetail": "Reviews are 5-star but generic. Users who complain about the $15/month auto-charge after the 7-day trial say their accounts were banned from leaving further reviews."
+  },
+  {
+    "companyId": 29,
+    "databaseDetail": "The 'reward tiers' take months to complete. Complaints reveal a $50 'customs clearance' fee that is never mentioned in the ad. The 5-star reviews seem fake."
+  },
+  {
+    "companyId": 30,
+    "databaseDetail": "5-star reviews claim fast refunds. Complaints reveal a 10% 'release fee' is required upfront. The IRS has issued warnings about this exact scam."
+  },
+  {
+    "companyId": 31,
+    "databaseDetail": "Reviews are 5-star and mention rapid weight loss. Complaints reveal a $99/month auto-ship program that is nearly impossible to cancel."
+  },
+  {
+    "companyId": 32,
+    "databaseDetail": "Complaints warn that logging in and entering your card details leads to drained bank accounts. All 5-star reviews are from new accounts."
+  },
+  {
+    "companyId": 33,
+    "databaseDetail": "The 5-star reviews are from 'employees' with no profile pictures. Complaints reveal a $99 training fee and no actual job placement."
+  },
+  {
+    "companyId": 34,
+    "databaseDetail": "Complaints reveal the $1 iPad shipping fee is actually a $49.99/month membership charge. The 5-star reviews are all from the same IP address."
+  },
+  {
+    "companyId": 35,
+    "databaseDetail": "5-star reviews praise the quotes. Complaints reveal a 40% service fee added at signing. Customers report being denied coverage despite paying."
+  },
+  {
+    "companyId": 36,
+    "databaseDetail": "Complaints mention a $100 non-refundable security deposit. 5-star reviews are from hosts, not guests, indicating review manipulation."
+  },
+  {
+    "companyId": 37,
+    "databaseDetail": "The 5-star reviews are all posted on the same day. Complaints reveal a $20 activation fee and coupons that don't work at most locations."
+  },
+  {
+    "companyId": 38,
+    "databaseDetail": "Complaints reveal a $15 cancellation fee and a third-party number that charges by the minute. 5-star reviews seem to be bots."
+  },
+  {
+    "companyId": 39,
+    "databaseDetail": "5-star reviews are generic. Complaints reveal a $150 flat delivery fee that is not disclosed on the product page."
+  },
+  {
+    "companyId": 40,
+    "databaseDetail": "Reviews are 5-star but lack detail. Complaints reveal a $50 'reactivation fee' demanded via wire transfer. Users report their computers are still infected."
+  },
+  {
+    "companyId": 41,
+    "databaseDetail": "5-star reviews claim they received double crypto. Complaints are from users who sent BTC and received nothing in return."
+  },
+  {
+    "companyId": 42,
+    "databaseDetail": "5-star reviews are generic. Complaints reveal a $5,000 'retainer' required upfront. The firm's address is a virtual mailbox."
+  },
+  {
+    "companyId": 43,
+    "databaseDetail": "Complaints warn that updating payment info leads to unauthorized charges. All 5-star reviews were posted within hours of each other."
+  },
+  {
+    "companyId": 44,
+    "databaseDetail": "Reviews are 5-star but lack detail. Complaints reveal a $100 'federal processing fee' is required via gift card."
+  },
+  {
+    "companyId": 45,
+    "databaseDetail": "5-star reviews focus on the console. Complaints reveal a 15% restocking fee and accounts banned for no reason."
+  },
+  {
+    "companyId": 46,
+    "databaseDetail": "Complaints reveal a $30 early cancellation fee and a 6-month lock-in. 5-star reviews are all from the same date."
+  },
+  {
+    "companyId": 47,
+    "databaseDetail": "5-star reviews are generic. Complaints reveal trade-in credits are store vouchers that expire in 30 days, not cash."
+  },
+  {
+    "companyId": 48,
+    "databaseDetail": "5-star reviews are from new accounts. Complaints reveal food is only refundable within 5 minutes—an impossible standard."
+  },
+  {
+    "companyId": 49,
+    "databaseDetail": "Complaints reveal a $9.99 shipping fee for the 'free' beauty box. The 5-star reviews are from users with only one review."
+  },
+  {
+    "companyId": 50,
+    "databaseDetail": "Complaints warn that paying the $25 'security deposit' leads to more demands for money. 5-star reviews are recent and generic."
+  },
+  {
+    "companyId": 51,
+    "databaseDetail": "5-star reviews claim fast payout. Complaints reveal a $50 'administrative fee' is required via gift card."
+  },
+  {
+    "companyId": 52,
+    "databaseDetail": "Complaints reveal a $150 'registration fee' for the car wrap program. The 5-star reviews are from users with no other activity."
+  },
+  {
+    "companyId": 53,
+    "databaseDetail": "5-star reviews claim the yogurt cured their digestion. Complaints reveal the health claims are not backed by the FDA."
+  },
+  {
+    "companyId": 54,
+    "databaseDetail": "Complaints reveal a $1 'verification charge' that leads to a $120 annual charge. The 5-star reviews are all from the same week."
+  },
+  {
+    "companyId": 55,
+    "databaseDetail": "5-star reviews praise the sales. Complaints reveal 'original prices' were never the actual selling price—they were inflated."
+  },
+  {
+    "companyId": 56,
+    "databaseDetail": "Complaints reveal $250 in hidden cleaning and service fees. 5-star reviews are from hosts, not guests."
+  },
+  {
+    "companyId": 57,
+    "databaseDetail": "5-star reviews claim products are made in the USA. Complaints reveal the products are imported from overseas."
+  },
+  {
+    "companyId": 58,
+    "databaseDetail": "Complaints reveal 'only 1 room left' is a fake message. 5-star reviews are from users with no other reviews on the platform."
+  },
+  {
+    "companyId": 59,
+    "databaseDetail": "5-star reviews claim instant results. Complaints reveal the product is just expensive moisturizer and the anti-aging claims are false."
+  },
+  {
+    "companyId": 60,
+    "databaseDetail": "Complaints reveal the 'all-natural' label is misleading. 5-star reviews are all from accounts created on the same day."
+  },
+  {
+    "companyId": 61,
+    "databaseDetail": "5-star reviews are generic. Complaints from classic car buyers reveal the cars are sold as-is with no refunds or warranty."
+  },
+  {
+    "companyId": 62,
+    "databaseDetail": "Complaints reveal a $10 'unlock' fee for the full curriculum. 5-star reviews are from accounts with no other activity."
+  },
+  {
+    "companyId": 63,
+    "databaseDetail": "5-star reviews are all positive. Complaints reveal compensation vouchers are only valid for dine-in and expire in 7 days."
+  },
+  {
+    "companyId": 64,
+    "databaseDetail": "Complaints reveal a $4.99 shipping fee for the 'free sample' and a $39.99/month subscription. 5-star reviews seem fake."
+  },
+  {
+    "companyId": 65,
+    "databaseDetail": "5-star reviews claim the winner received a year supply. Complaints reveal the winner was charged $199 upfront for taxes and shipping."
+  },
+  {
+    "companyId": 66,
+    "databaseDetail": "5-star reviews are generic. Complaints reveal the 'resale value guarantee' is not a legally binding contract and the company refuses to buy back diamonds."
+  },
+  {
+    "companyId": 67,
+    "databaseDetail": "Complaints reveal a $2 shipping fee for the 'free tumbler'. 5-star reviews are all from the same date."
+  },
+  {
+    "companyId": 68,
+    "databaseDetail": "5-star reviews focus on travel. Complaints reveal flight vouchers are only valid 6 months in advance and exclude taxes."
+  },
+  {
+    "companyId": 69,
+    "databaseDetail": "5-star reviews claim a 'stimulus check' was received. Complaints reveal the program is an unauthorized use of the brand."
+  },
+  {
+    "companyId": 70,
+    "databaseDetail": "Complaints reveal a $1.99 redelivery fee and packages that are discarded without notice. 5-star reviews are from new accounts."
+  },
+  {
+    "companyId": 71,
+    "databaseDetail": "Complaints warn about a $10 'verification fee' for Apple ID. 5-star reviews are recent and generic."
+  },
+  {
+    "companyId": 72,
+    "databaseDetail": "5-star reviews claim the arrest warrant was cleared. Complaints reveal the money was taken and the warrant was never real."
+  },
+  {
+    "companyId": 73,
+    "databaseDetail": "5-star reviews are from 'employees' with no profile pictures. Complaints reveal a $49 activation fee and no job placement."
+  },
+  {
+    "companyId": 74,
+    "databaseDetail": "Complaints reveal a $1.99 redelivery fee and no actual package. 5-star reviews are all from the same week."
+  },
+  {
+    "companyId": 75,
+    "databaseDetail": "5-star reviews focus on the VIP tickets. Complaints reveal a $12 wire transfer fee and no tickets delivered."
+  },
+  {
+    "companyId": 76,
+    "databaseDetail": "Complaints reveal a $5 'unlock fee' and stolen PINs. 5-star reviews are all from new accounts."
+  },
+  {
+    "companyId": 77,
+    "databaseDetail": "5-star reviews claim massive gains. Complaints reveal a 10% withdrawal fee and tokens that are worthless."
+  },
+  {
+    "companyId": 78,
+    "databaseDetail": "Complaints reveal a $199 'diagnostic fee' and computers that were slower after 'repair'. 5-star reviews are from the same date."
+  },
+  {
+    "companyId": 79,
+    "databaseDetail": "5-star reviews claim the gas card was received. Complaints reveal a $5 'verification fee' and credit card fraud."
+  },
+  {
+    "companyId": 80,
+    "databaseDetail": "Complaints reveal a $50 'application clearance fee' and no grant approval. 5-star reviews are from new accounts."
+  },
+  {
+    "companyId": 81,
+    "databaseDetail": "5-star reviews are generic. Complaints reveal the brand is not responsible for third-party claims. All positive reviews are recent."
+  },
+  {
+    "companyId": 82,
+    "databaseDetail": "Complaints reveal a $500 'registration deposit' and no actual auction. 5-star reviews are from the same week."
+  },
+  {
+    "companyId": 83,
+    "databaseDetail": "5-star reviews claim free Skittles were received. Complaints reveal a $5.99 shipping fee and a subscription trap."
+  },
+  {
+    "companyId": 84,
+    "databaseDetail": "Complaints reveal a $1,000 'setup fee' for a vending machine that doesn't work. 5-star reviews are all from the same date."
+  },
+  {
+    "companyId": 85,
+    "databaseDetail": "5-star reviews are generic. Complaints reveal a $2 processing fee and coupons that expire in 24 hours."
+  },
+  {
+    "companyId": 86,
+    "databaseDetail": "Complaints reveal a $150 'reinstatement fee' paid via gift card. 5-star reviews are all from new accounts."
+  },
+  {
+    "companyId": 87,
+    "databaseDetail": "5-star reviews claim secure payments. Complaints reveal a phishing attempt that asks for banking passwords. Reviews seem fake."
+  },
+  {
+    "companyId": 88,
+    "databaseDetail": "Complaints reveal a $100 tax fee for the 'free sub for a year'. 5-star reviews are all from the same day."
+  },
+  {
+    "companyId": 89,
+    "databaseDetail": "5-star reviews claim the car wrap was profitable. Complaints reveal a $50 registration fee and fake checks that bounce."
+  },
+  {
+    "companyId": 90,
+    "databaseDetail": "Complaints reveal a $3.99 shipping fee for the 'free battery pack' and a $19.99/month subscription. 5-star reviews are from the same date."
+  },
+  {
+    "companyId": 91,
+    "databaseDetail": "5-star reviews claim the unclaimed funds were released. Complaints reveal a $25 processing fee and no payout."
+  },
+  {
+    "companyId": 92,
+    "databaseDetail": "Complaints reveal a phishing attempt that asks for your PIN. 5-star reviews are all from accounts with no other activity."
+  },
+  {
+    "companyId": 93,
+    "databaseDetail": "5-star reviews claim the car wrap was paid. Complaints reveal a $50 registration fee and fake checks. Reviews seem fake."
+  },
+  {
+    "companyId": 94,
+    "databaseDetail": "Complaints reveal a $29.99/month charge after the free scan. 5-star reviews are from new accounts. The app requests too many permissions."
+  },
+  {
+    "companyId": 95,
+    "databaseDetail": "5-star reviews claim puppies were delivered. Complaints reveal a $150 shipping fee via Zelle and no puppy. Reviews are fake."
+  },
+  {
+    "companyId": 96,
+    "databaseDetail": "Complaints reveal a $5.99 shipping fee for the 'free shaving kit' and a $25/month subscription. 5-star reviews are from the same date."
+  },
+  {
+    "companyId": 97,
+    "databaseDetail": "5-star reviews claim a free year supply of chips was received. Complaints reveal a $50 handling fee via wire transfer."
+  },
+  {
+    "companyId": 98,
+    "databaseDetail": "Complaints reveal a $10 'activation fee' for the free coffee voucher. 5-star reviews are all from new accounts."
+  },
+  {
+    "companyId": 99,
+    "databaseDetail": "5-star reviews claim the free PS5 was delivered. Complaints reveal a $9.99 shipping fee and a $49.99/month subscription trap."
+  },
+  {
+    "companyId": 100,
+    "databaseDetail": "Complaints reveal a $10 processing fee for the 'free soda for life'. 5-star reviews are generic and recent. The promotion is not legally binding."
+  }
+]

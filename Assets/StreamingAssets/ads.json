@@ -1,902 +1,301 @@
 [
-  {
-    "id": 1,
-    "title": "Spotify Premium",
-    "brand": "Spotify",
-    "description": "Listen to music without ads with Spotify Premium.",
-    "buttonText": "Try Premium",
-    "category": "Music",
-    "isFake": false
-  },
-  {
-    "id": 2,
-    "title": "YOU WON ₱50,000!",
-    "brand": "GCash Rewards",
-    "description": "Congratulations! Your GCash account has been randomly selected. Claim your ₱50,000 reward NOW!",
-    "buttonText": "CLAIM NOW",
-    "category": "Prize",
-    "isFake": true
-  },
-  {
-    "id": 3,
-    "title": "Steam Summer Sale",
-    "brand": "Steam",
-    "description": "Save up to 75% on thousands of games during the Steam Summer Sale.",
-    "buttonText": "Shop Now",
-    "category": "Gaming",
-    "isFake": false
-  },
-  {
-    "id": 4,
-    "title": "FREE iPhone 17 Pro MAX",
-    "brand": "Apple Giveaway",
-    "description": "You have been selected as today's lucky visitor! Answer 3 questions to receive your FREE iPhone.",
-    "buttonText": "GET IPHONE",
-    "category": "Giveaway",
-    "isFake": true
-  },
-  {
-    "id": 5,
-    "title": "GrabFood",
-    "brand": "Grab",
-    "description": "Get your favorite meals delivered straight to your door.",
-    "buttonText": "Order Now",
-    "category": "Food",
-    "isFake": false
-  },
-  {
-    "id": 6,
-    "title": "URGENT: Your Account Will Be Deleted",
-    "brand": "Facebook Security",
-    "description": "Your account has violated our community guidelines. Verify your account within 24 hours or it will be permanently deleted.",
-    "buttonText": "VERIFY ACCOUNT",
-    "category": "Security",
-    "isFake": true
-  },
-  {
-    "id": 7,
-    "title": "Canva Pro",
-    "brand": "Canva",
-    "description": "Design presentations, posters, social media posts, and more with Canva Pro.",
-    "buttonText": "Start Designing",
-    "category": "Software",
-    "isFake": false
-  },
-  {
-    "id": 8,
-    "title": "Your Phone Has 13 Viruses!",
-    "brand": "Android Security",
-    "description": "Our scan detected 13 dangerous viruses on your device. Install this security app immediately to protect your files.",
-    "buttonText": "REMOVE VIRUSES",
-    "category": "Malware",
-    "isFake": true
-  },
-  {
-    "id": 9,
-    "title": "Netflix",
-    "brand": "Netflix",
-    "description": "Watch movies, series, documentaries, and original shows anytime.",
-    "buttonText": "Watch Now",
-    "category": "Entertainment",
-    "isFake": false
-  },
-  {
-    "id": 10,
-    "title": "Make ₱20,000 Every Day From Home!",
-    "brand": "EasyIncome",
-    "description": "Filipinos are earning ₱20,000+ every day using this SECRET method. No experience required!",
-    "buttonText": "LEARN THE SECRET",
-    "category": "Money",
-    "isFake": true
-  },
-  {
-    "id": 11,
-    "title": "Shopee 9.9 Mega Sale",
-    "brand": "Shopee",
-    "description": "Enjoy discounts and vouchers on thousands of products during the 9.9 Mega Sale.",
-    "buttonText": "Shop Now",
-    "category": "Shopping",
-    "isFake": false
-  },
-  {
-    "id": 12,
-    "title": "Congratulations, Jerome!",
-    "brand": "Shopee Rewards",
-    "description": "You are today's lucky winner! You have won a brand-new motorcycle. Pay a small ₱99 processing fee to claim your prize.",
-    "buttonText": "CLAIM PRIZE",
-    "category": "Prize",
-    "isFake": true
-  },
-  {
-    "id": 13,
-    "title": "Adobe Creative Cloud",
-    "brand": "Adobe",
-    "description": "Create, edit, and design with Photoshop, Illustrator, Premiere Pro, and more.",
-    "buttonText": "Explore Plans",
-    "category": "Software",
-    "isFake": false
-  },
-  {
-    "id": 14,
-    "title": "Government COVID Assistance",
-    "brand": "DSWD",
-    "description": "You may qualify for ₱10,000 financial assistance. Submit your personal information to check your eligibility.",
-    "buttonText": "CHECK ELIGIBILITY",
-    "category": "Government",
-    "isFake": true
-  },
-  {
-    "id": 15,
-    "title": "Duolingo",
-    "brand": "Duolingo",
-    "description": "Learn a new language with short, interactive lessons.",
-    "buttonText": "Start Learning",
-    "category": "Education",
-    "isFake": false
-  },
-  {
-    "id": 16,
-    "title": "Your Facebook Account Has Been Hacked!",
-    "brand": "Meta Support",
-    "description": "We detected suspicious activity from a new device. Click below immediately to secure your account.",
-    "buttonText": "SECURE NOW",
-    "category": "Phishing",
-    "isFake": true
-  },
-  {
-    "id": 17,
-    "title": "Lazada Birthday Sale",
-    "brand": "Lazada",
-    "description": "Find deals across electronics, fashion, home products, and more.",
-    "buttonText": "Shop Deals",
-    "category": "Shopping",
-    "isFake": false
-  },
-  {
-    "id": 18,
-    "title": "TikTok Secret Hack!",
-    "brand": "TikTok Rewards",
-    "description": "TikTok is giving ₱5,000 to selected users today! Click before the timer reaches zero.",
-    "buttonText": "GET ₱5,000",
-    "category": "Prize",
-    "isFake": true
-  },
-  {
-    "id": 19,
-    "title": "Microsoft 365",
-    "brand": "Microsoft",
-    "description": "Get Word, Excel, PowerPoint, Outlook, and other productivity tools.",
-    "buttonText": "Learn More",
-    "category": "Productivity",
-    "isFake": false
-  },
-  {
-    "id": 20,
-    "title": "SECURITY WARNING",
-    "brand": "Windows Defender",
-    "description": "Your Windows license has expired and your computer is at risk. Call our support number immediately.",
-    "buttonText": "CALL SUPPORT",
-    "category": "Tech Support Scam",
-    "isFake": true
-  },
-  {
-    "id": 21,
-    "title": "Claim Your $1,000 Amazon Gift Card!",
-    "brand": "Amazon Rewards Program",
-    "description": "You have been selected as today's lucky winner. Complete a short 2-minute survey to claim your reward instantly.",
-    "buttonText": "CLAIM NOW",
-    "category": "Survey Scam",
-    "isFake": true
-  },
-  {
-    "id": 22,
-    "title": "Unusual Sign-in Attempt Detected",
-    "brand": "PayPal Security",
-    "description": "We noticed a login to your account from an unrecognized device in Moscow. Verify your identity immediately to prevent suspension.",
-    "buttonText": "VERIFY ACCOUNT",
-    "category": "Phishing Scam",
-    "isFake": true
-  },
-  {
-    "id": 23,
-    "title": "Guaranteed 500% ROI in 7 Days",
-    "brand": "CryptoWealth AI",
-    "description": "Our automated trading algorithm guarantees risk-free returns on Bitcoin. Deposit $250 today and start earning passively.",
-    "buttonText": "INVEST NOW",
-    "category": "Financial Scam",
-    "isFake": true
-  },
-  {
-    "id": 24,
-    "title": "Your Package Could Not Be Delivered",
-    "brand": "USPS Postal Notice",
-    "description": "Package #US-9821-44 is on hold due to an incomplete delivery address. Update your details within 24 hours to avoid return to sender.",
-    "buttonText": "UPDATE ADDRESS",
-    "category": "Delivery Scam",
-    "isFake": true
-  },
-  {
-    "id": 25,
-    "title": "Breeze Through City Traffic",
-    "brand": "Toyota",
-    "description": "Experience superior fuel economy and sleek styling with the new Toyota Prius Hybrid. Test drive at your local dealer today.",
-    "buttonText": "BUILD & PRICE",
-    "category": "Automotive",
-    "isFake": false
-  },
-  {
-    "id": 26,
-    "title": "Stream Thousands of Movies & Shows",
-    "brand": "Netflix",
-    "description": "Watch anywhere, cancel anytime. Sign up today to access thousands of original series, movies, and documentaries.",
-    "buttonText": "JOIN NOW",
-    "category": "Entertainment",
-    "isFake": false
-  },
-  {
-    "id": 27,
-    "title": "Run on Air with Pegasus",
-    "brand": "Nike",
-    "description": "Engineered for maximum comfort and durability on every run. Find your perfect fit with the latest Nike Air Zoom Pegasus.",
-    "buttonText": "SHOP RUNNING",
-    "category": "Apparel",
-    "isFake": false
-  },
-  {
-    "id": 28,
-    "title": "Over 70 Million Songs, Ad-Free",
-    "brand": "Spotify",
-    "description": "Upgrade to Spotify Premium for offline listening, unlimited skips, and high-fidelity audio streaming.",
-    "buttonText": "GET PREMIUM",
-    "category": "Digital Services",
-    "isFake": false
-  },
-  {
-    "id": 29,
-    "title": "Pro Cameras. Pro Display. Pro Performance.",
-    "brand": "Apple",
-    "description": "Discover the incredible capabilities of the new iPhone Pro featuring the A-series chip and titanium design.",
-    "buttonText": "LEARN MORE",
-    "category": "Electronics",
-    "isFake": false
-  },
-  {
-    "id": 30,
-    "title": "Secret IRS Tax Refund Pending",
-    "brand": "Internal Revenue Service",
-    "description": "You have an unclaimed tax refund of $3,410. Enter your Social Security Number and bank details to claim payment.",
-    "buttonText": "CLAIM REFUND",
-    "category": "Government Impersonation Scam",
-    "isFake": true
-  },
-  {
-    "id": 31,
-    "title": "Lose 30 lbs in 5 Days Without Dieting!",
-    "brand": "MiracleKeto Gummies",
-    "description": "Doctor-recommended weight loss formula burns fat instantly while you sleep with zero effort or exercise.",
-    "buttonText": "ORDER TRIAL",
-    "category": "Health Fraud",
-    "isFake": true
-  },
-  {
-    "id": 32,
-    "title": "URGENT: Your Bank Account is Frozen",
-    "brand": "Chase Fraud Prevention",
-    "description": "Suspicious transactions were detected on your debit card. Log in instantly to restore full access to your funds.",
-    "buttonText": "UNLOCK ACCOUNT",
-    "category": "Phishing Scam",
-    "isFake": true
-  },
-  {
-    "id": 33,
-    "title": "Work from Home: Earn $8,000/Week",
-    "brand": "Global Remote Careers",
-    "description": "No experience required. Package re-shipping and data entry jobs available immediately. Pay upfront registration fee to start.",
-    "buttonText": "APPLY NOW",
-    "category": "Employment Scam",
-    "isFake": true
-  },
-  {
-    "id": 34,
-    "title": "Congratulations! You Won an iPad Pro",
-    "brand": "Apple Fan Club Raffle",
-    "description": "Visitor #100,000 selected! Pay just $1.00 shipping to receive your brand new iPad Pro directly to your doorstep.",
-    "buttonText": "PAY $1 SHIPPING",
-    "category": "Prize Scam",
-    "isFake": true
-  },
-  {
-    "id": 35,
-    "title": "Save 15% or More on Car Insurance",
-    "brand": "GEICO",
-    "description": "Get a fast, free auto insurance quote online in less than 15 minutes and see how much you could save.",
-    "buttonText": "GET A QUOTE",
-    "category": "Insurance",
-    "isFake": false
-  },
-  {
-    "id": 36,
-    "title": "Belong Anywhere with Unique Stays",
-    "brand": "Airbnb",
-    "description": "Explore cabins, beachfront villas, and city apartments hosted by locals across the globe.",
-    "buttonText": "EXPLORE STAYS",
-    "category": "Travel",
-    "isFake": false
-  },
-  {
-    "id": 37,
-    "title": "Refresh Your Morning with Dunkin'",
-    "brand": "Dunkin'",
-    "description": "Start your day right with freshly brewed iced coffee and your favorite handcrafted breakfast sandwich.",
-    "buttonText": "ORDER AHEAD",
-    "category": "Food & Beverage",
-    "isFake": false
-  },
-  {
-    "id": 38,
-    "title": "Fast, Free Delivery with Prime",
-    "brand": "Amazon",
-    "description": "Enjoy exclusive access to fast shipping, award-winning movies, ad-free music, and daily deals.",
-    "buttonText": "TRY PRIME FREE",
-    "category": "E-Commerce",
-    "isFake": false
-  },
-  {
-    "id": 39,
-    "title": "Organize Your Home with Smart Storage",
-    "brand": "IKEA",
-    "description": "Affordable solutions designed to keep every room tidy, stylish, and functional. Shop online or in-store.",
-    "buttonText": "SHOP CATALOG",
-    "category": "Home Goods",
-    "isFake": false
-  },
-  {
-    "id": 40,
-    "title": "Critical Virus Detected: System Infected",
-    "brand": "McAfee Antivirus Pop-up",
-    "description": "Your computer is infected with 5 dangerous Trojan viruses. Renew your subscription immediately to purge infections.",
-    "buttonText": "RENEW NOW",
-    "category": "Scareware Scam",
-    "isFake": true
-  },
-  {
-    "id": 41,
-    "title": "Elon Musk $10,000 Crypto Giveaway",
-    "brand": "Tesla Official Promo",
-    "description": "Send 0.1 BTC or 1 ETH to the verification address below and receive double the amount back instantly.",
-    "buttonText": "CLAIM CRYPTO",
-    "category": "Crypto Scam",
-    "isFake": true
-  },
-  {
-    "id": 42,
-    "title": "Unclaimed Inheritance Notification",
-    "brand": "International Legal Counsel",
-    "description": "A wealthy relative with your surname passed away leaving $4.5M. Contact us to transfer the estate into your bank account.",
-    "buttonText": "CONTACT BARRISTER",
-    "category": "Advance Fee Scam",
-    "isFake": true
-  },
-  {
-    "id": 43,
-    "title": "Netflix Subscription Payment Declined",
-    "brand": "Netflix Billing Desk",
-    "description": "We were unable to process your monthly payment. Update your credit card details immediately to keep watching.",
-    "buttonText": "UPDATE BILLING",
-    "category": "Phishing Scam",
-    "isFake": true
-  },
-  {
-    "id": 44,
-    "title": "Secret Government Grant Approved",
-    "brand": "Federal Grant Department",
-    "description": "You qualify for a non-repayable government grant of $12,500. Pay a $50 processing fee to receive funds today.",
-    "buttonText": "RECEIVE FUNDS",
-    "category": "Grant Scam",
-    "isFake": true
-  },
-  {
-    "id": 45,
-    "title": "Power Your Dreams with Xbox Series X",
-    "brand": "Xbox",
-    "description": "Experience true 4K gaming, ultra-fast load times, and access to hundreds of games on Xbox Game Pass.",
-    "buttonText": "BUY NOW",
-    "category": "Gaming",
-    "isFake": false
-  },
-  {
-    "id": 46,
-    "title": "Shave Time. Shave Money.",
-    "brand": "Dollar Shave Club",
-    "description": "Get high-quality razors and grooming essentials delivered straight to your door for a fraction of store prices.",
-    "buttonText": "GET STARTED",
-    "category": "Personal Care",
-    "isFake": false
-  },
-  {
-    "id": 47,
-    "title": "America's Most Reliable 5G Network",
-    "brand": "Verizon",
-    "description": "Switch to Verizon today and get the latest 5G smartphones on us when you trade in an eligible device.",
-    "buttonText": "VIEW OFFERS",
-    "category": "Telecommunications",
-    "isFake": false
-  },
-  {
-    "id": 48,
-    "title": "Finger Lickin' Good Meals",
-    "brand": "KFC",
-    "description": "Order original recipe fried chicken, crispy tenders, and mouth-watering sides for dinner tonight.",
-    "buttonText": "ORDER ONLINE",
-    "category": "Food & Beverage",
-    "isFake": false
-  },
-  {
-    "id": 49,
-    "title": "Because You're Worth It",
-    "brand": "L'Oréal Paris",
-    "description": "Nourish and revitalize your skin with advanced anti-aging serums designed for long-lasting glow.",
-    "buttonText": "DISCOVER MORE",
-    "category": "Beauty",
-    "isFake": false
-  },
-  {
-    "id": 50,
-    "title": "Your Facebook Account Will Be Deleted",
-    "brand": "Meta Support Center",
-    "description": "Your account was flagged for copyright violations. Confirm your password within 12 hours to prevent permanent deletion.",
-    "buttonText": "CONFIRM PASSWORD",
-    "category": "Phishing Scam",
-    "isFake": true
-  },
-  {
-      "id": 51,
-      "title": "Clean Diesel: Lower Emissions, Higher Performance",
-      "brand": "Volkswagen",
-      "description": "Experience eco-friendly driving with VW Clean Diesel technology. Enjoy low emissions without sacrificing power or fuel efficiency.",
-      "buttonText": "EXPLORE MODELS",
-      "category": "False Advertising (Historical)",
-      "isFake": true
-    },
-    {
-      "id": 52,
-      "title": "Red Bull Gives You Wings",
-      "brand": "Red Bull",
-      "description": "Clinically proven to improve concentration, physical endurance, and reaction speed for peak performance.",
-      "buttonText": "GET POWERED",
-      "category": "Misleading Claims (Historical)",
-      "isFake": true
-    },
-    {
-      "id": 53,
-      "title": "Clinically Proven to Regulate Digestion",
-      "brand": "Activia",
-      "description": "Enjoy Activia yogurt daily to scientifically improve your digestive health and relieve irregularity in just two weeks.",
-      "buttonText": "LEARN MORE",
-      "category": "False Advertising (Historical)",
-      "isFake": true
-    },
-    {
-      "id": 54,
-      "title": "Try ABCmouse Free for 30 Days!",
-      "brand": "ABCmouse",
-      "description": "Give your child a head start in learning with our early childhood curriculum. Sign up today for a completely free trial.",
-      "buttonText": "START FREE TRIAL",
-      "category": "Hidden Subscription Scam",
-      "isFake": true
-    },
-    {
-      "id": 55,
-      "title": "Mega Black Friday Blowout: 80% Off Everything!",
-      "brand": "JCPenney",
-      "description": "Items original price $120, marked down to $24 for today only! Hurry before our biggest clearance sale of the year ends.",
-      "buttonText": "SHOP SALE",
-      "category": "Deceptive Pricing",
-      "isFake": true
-    },
-    {
-      "id": 56,
-      "title": "Beachfront Villa for Just $85/Night!",
-      "brand": "Airbnb",
-      "description": "Escape to paradise with affordable nightly rates on beautiful coastal rentals.",
-      "buttonText": "BOOK NOW",
-      "category": "Drip Pricing / Hidden Fees",
-      "isFake": true
-    },
-    {
-      "id": 57,
-      "title": "100% Authentic Handcrafted Goods - Made in USA",
-      "brand": "Williams-Sonoma",
-      "description": "Support local craftsmanship with our exclusive kitchenware lines made entirely within the United States.",
-      "buttonText": "SHOP AMERICAN MADE",
-      "category": "False Origin Claim",
-      "isFake": true
-    },
-    {
-      "id": 58,
-      "title": "Hurry! Only 1 Room Left at This Low Price!",
-      "brand": "Booking.com",
-      "description": "Over 15 people are looking at this hotel right now. Secure your room immediately before it sells out completely.",
-      "buttonText": "RESERVE NOW",
-      "category": "Dark Pattern / Fake Scarcity",
-      "isFake": true
-    },
-    {
-      "id": 59,
-      "title": "L'Oréal Revitalift: Scientifically Proven Youth",
-      "brand": "L'Oréal",
-      "description": "Reverses structural skin damage and eliminates wrinkles instantly using patented molecular cellular technology.",
-      "buttonText": "BUY NOW",
-      "category": "Exaggerated Claims",
-      "isFake": true
-    },
-    {
-      "id": 60,
-      "title": "100% Real Whole Fruit Smoothies",
-      "brand": "Naked Juice",
-      "description": "All-natural, non-GMO fruit drinks made with zero added ingredients or synthetic chemical additives.",
-      "buttonText": "SEE INGREDIENTS",
-      "category": "False Advertising (Historical)",
-      "isFake": true
-    },
-    {
-      "id": 61,
-      "title": "Think Small.",
-      "brand": "Volkswagen",
-      "description": "Our little car isn't a novelty anymore. 40,000 drivers think 32 miles to a gallon is practical, convenient, and smart.",
-      "buttonText": "VIEW BUG",
-      "category": "Automotive Classic",
-      "isFake": false
-    },
-    {
-      "id": 62,
-      "title": "Do You Make These Mistakes in English?",
-      "brand": "Sherwin Cody Course",
-      "description": "Improve your command of English language, grammar, and vocabulary in just 15 minutes a day with our patented method.",
-      "buttonText": "TRY FREE LESSON",
-      "category": "Education Classic",
-      "isFake": false
-    },
-    {
-      "id": 63,
-      "title": "FCK. We're Sorry.",
-      "brand": "KFC",
-      "description": "A chicken restaurant without any chicken. It's not ideal. Huge apologies to our customers for the delivery disruption.",
-      "buttonText": "READ STATEMENT",
-      "category": "Public Relations",
-      "isFake": false
-    },
-    {
-      "id": 64,
-      "title": "The Man Your Man Could Smell Like",
-      "brand": "Old Spice",
-      "description": "Anything is possible when your man smells like Old Spice and not a lady. Step up to long-lasting freshness.",
-      "buttonText": "WATCH VIDEO",
-      "category": "Personal Care",
-      "isFake": false
-    },
-    {
-      "id": 65,
-      "title": "You're Not You When You're Hungry",
-      "brand": "Snickers",
-      "description": "Satisfy your hunger fast with milk chocolate, peanuts, caramel, and nougat. Grab a Snickers today.",
-      "buttonText": "FIND A STORE",
-      "category": "Confectionery",
-      "isFake": false
-    },
-    {
-      "id": 66,
-      "title": "A Diamond Is Forever",
-      "brand": "De Beers",
-      "description": "A diamond is a symbol of enduring love and commitment. Discover timeless diamond jewelry crafted for life's moments.",
-      "buttonText": "VIEW COLLECTION",
-      "category": "Jewelry Classic",
-      "isFake": false
-    },
-    {
-      "id": 67,
-      "title": "Share a Coke with a Friend",
-      "brand": "Coca-Cola",
-      "description": "Find your name or a friend's name on custom Coca-Cola bottles and share an ice-cold moment together.",
-      "buttonText": "FIND YOUR NAME",
-      "category": "Food & Beverage",
-      "isFake": false
-    },
-    {
-      "id": 68,
-      "title": "The Magic of Flying",
-      "brand": "British Airways",
-      "description": "Look up! That is flight BA472 from Barcelona overhead. Discover destination inspiration and flight bookings.",
-      "buttonText": "BOOK FLIGHT",
-      "category": "Travel & Aviation",
-      "isFake": false
-    },
-    {
-      "id": 69,
-      "title": "Got Milk?",
-      "brand": "California Milk Processor Board",
-      "description": "Packed with essential nutrients, calcium, and vitamin D to build strong bones and maintain daily vitality.",
-      "buttonText": "RECIPES & MORE",
-      "category": "Public Campaign",
-      "isFake": false
-    },
-    {
-      "id": 70,
-      "title": "When It Absolutely, Positively Has to Be There Overnight",
-      "brand": "FedEx",
-      "description": "Trust our global courier logistics network for guaranteed express overnight delivery service worldwide.",
-      "buttonText": "SHIP A PACKAGE",
-      "category": "Logistics & Shipping",
-      "isFake": false
-    },
-    {
-      "id": 71,
-      "title": "Urgent Security Notice: Apple ID Compromised",
-      "brand": "Apple Support Alert",
-      "description": "Your iCloud account was accessed from an unauthorized IP in Beijing. Click to verify your credit card details immediately.",
-      "buttonText": "SECURE ACCOUNT",
-      "category": "Phishing Scam",
-      "isFake": true
-    },
-    {
-      "id": 72,
-      "title": "URGENT TAX ALERT: Unpaid Debt Arrest Warrant",
-      "brand": "Tax Enforcement Bureau",
-      "description": "An arrest warrant has been issued due to overdue federal taxes. Pay $1,250 in Target Gift Cards immediately to clear charges.",
-      "buttonText": "PAY DEBT NOW",
-      "category": "Impersonation Scam",
-      "isFake": true
-    },
-    {
-      "id": 73,
-      "title": "Earn $500/Day Testing Apps From Home!",
-      "brand": "AppTester Pro",
-      "description": "No technical skills needed. Evaluate smartphone apps and write quick reviews. Pay a $49 tester activation fee to begin.",
-      "buttonText": "REGISTER NOW",
-      "category": "Work-From-Home Scam",
-      "isFake": true
-    },
-    {
-      "id": 74,
-      "title": "You Have (1) Unclaimed Delivery - FedEx",
-      "brand": "FedEx Tracking System",
-      "description": "Your package is held at our depot due to an unpaid $1.99 redelivery fee. Enter your banking information to confirm shipping.",
-      "buttonText": "PAY REDELIVERY FEE",
-      "category": "Smishing / Parcel Scam",
-      "isFake": true
-    },
-    {
-      "id": 75,
-      "title": "Taylor Swift Ticket Giveaway - VIP Floor Seats!",
-      "brand": "ConcertPass Promo",
-      "description": "We are giving away 50 free VIP tickets to the upcoming tour! Just pay $12 handling and processing via Wire Transfer.",
-      "buttonText": "CLAIM VIP TICKETS",
-      "category": "Event Ticket Scam",
-      "isFake": true
-    },
-    {
-      "id": 76,
-      "title": "Immediate Action Required: PayPal Account Suspended",
-      "brand": "PayPal Billing Center",
-      "description": "Your wallet balance of $412.50 is frozen due to fraudulent activity. Re-enter your debit card number and PIN to unlock.",
-      "buttonText": "RESTORE ACCESS",
-      "category": "Phishing Scam",
-      "isFake": true
-    },
-    {
-      "id": 77,
-      "title": "Exclusive Crypto Presale: 100x Growth Guaranteed",
-      "brand": "ElonToken Finance",
-      "description": "Endorsed by top tech billionaires! Buy early stage tokens before listing on major exchanges to multiply your net worth.",
-      "buttonText": "BUY TOKENS NOW",
-      "category": "Cryptocurrency Rugpull",
-      "isFake": true
-    },
-    {
-      "id": 78,
-      "title": "Warning: System Memory Damaged by Malware",
-      "brand": "System Repair Pro",
-      "description": "Critical error code 0x80070005 detected on computer hardware. Call toll-free helpline to speak with a technician.",
-      "buttonText": "FIX ERRORS NOW",
-      "category": "Tech Support Scam",
-      "isFake": true
-    },
-    {
-      "id": 79,
-      "title": "Congratulations! Selected for Free Gas Card",
-      "brand": "National Fuel Rewards",
-      "description": "Claim your $500 Prepaid Gas Voucher to ease rising fuel prices. Submit your credit card for identity verification.",
-      "buttonText": "CLAIM GAS CARD",
-      "category": "Reward Scam",
-      "isFake": true
-    },
-    {
-      "id": 80,
-      "title": "Official Housing Assistance Relief Program",
-      "brand": "Government Relief Dept",
-      "description": "Receive up to $4,000 monthly for rent and mortgage support. Complete questionnaire and pay application clearance fee.",
-      "buttonText": "APPLY FOR RELIEF",
-      "category": "Grant Scam",
-      "isFake": true
-    },
-    {
-      "id": 81,
-      "title": "Melts in Your Mouth, Not in Your Hand",
-      "brand": "M&M's",
-      "description": "Classic real milk chocolate coated in colorful candy shells. Perfect for sharing, snacking, and movie nights.",
-      "buttonText": "DISCOVER FLAVORS",
-      "category": "Confectionery",
-      "isFake": false
-    },
-    {
-      "id": 82,
-      "title": "The Ultimate Driving Machine",
-      "brand": "BMW",
-      "description": "Engineered for precise performance, agility, and luxury. Explore the new BMW M Series lineup at a dealer near you.",
-      "buttonText": "TEST DRIVE",
-      "category": "Automotive",
-      "isFake": false
-    },
-    {
-      "id": 83,
-      "title": "Taste the Rainbow",
-      "brand": "Skittles",
-      "description": "Unleash a burst of fruit flavor with every chewy bite of Skittles original candy packs.",
-      "buttonText": "SHOP NOW",
-      "category": "Confectionery",
-      "isFake": false
-    },
-    {
-      "id": 84,
-      "title": "Open Happiness",
-      "brand": "Coca-Cola",
-      "description": "Turn everyday meals into memorable moments with the crisp, refreshing taste of an ice-cold Coke.",
-      "buttonText": "EXPLORE RECIPES",
-      "category": "Food & Beverage",
-      "isFake": false
-    },
-    {
-      "id": 85,
-      "title": "Have It Your Way",
-      "brand": "Burger King",
-      "description": "Flame-broiled beef topped with juicy tomatoes, fresh lettuce, and savory pickles. Customize your Whopper today.",
-      "buttonText": "ORDER NOW",
-      "category": "Fast Food",
-      "isFake": false
-    },
-    {
-      "id": 86,
-      "title": "Like a Good Neighbor, State Farm Is There",
-      "brand": "State Farm",
-      "description": "Get dependable protection for your auto, home, and life with help from a local State Farm agent.",
-      "buttonText": "FIND AN AGENT",
-      "category": "Insurance",
-      "isFake": false
-    },
-    {
-      "id": 87,
-      "title": "There Are Some Things Money Can't Buy",
-      "brand": "Mastercard",
-      "description": "For everything else, there's Mastercard. Secure payment solutions accepted across thousands of locations globally.",
-      "buttonText": "EXPLORE PERKS",
-      "category": "Financial Services",
-      "isFake": false
-    },
-    {
-      "id": 88,
-      "title": "Eat Fresh",
-      "brand": "Subway",
-      "description": "Build custom footlong sub sandwiches loaded with your choice of sliced deli meats, crisp veggies, and fresh bread.",
-      "buttonText": "ORDER ONLINE",
-      "category": "Fast Food",
-      "isFake": false
-    },
-    {
-      "id": 89,
-      "title": "Unleash the Beast!",
-      "brand": "Monster Energy",
-      "description": "Tear into a can of Monster Energy, the ideal blend of energy ingredients designed to fuel your active lifestyle.",
-      "buttonText": "VIEW PRODUCTS",
-      "category": "Food & Beverage",
-      "isFake": false
-    },
-    {
-      "id": 90,
-      "title": "It Keeps Going and Going and Going...",
-      "brand": "Energizer",
-      "description": "Long-lasting power for everyday devices. Trust Energizer Max batteries for dependable household energy.",
-      "buttonText": "LEARN MORE",
-      "category": "Electronics & Batteries",
-      "isFake": false
-    },
-    {
-      "id": 91,
-      "title": "Unclaimed Property Notice: $3,200 Found",
-      "brand": "State Unclaimed Division",
-      "description": "Our audit shows missing property in your name. Pay a $25 processing fee to release funds to your bank account.",
-      "buttonText": "RELEASE FUNDS",
-      "category": "Advance Fee Scam",
-      "isFake": true
-    },
-    {
-      "id": 92,
-      "title": "Warning: Unauthorized Attempt on Bank Card",
-      "brand": "Wells Fargo Alert",
-      "description": "A charge of $899.00 at Apple Store online was attempted. If this wasn't you, log in immediately to cancel transaction.",
-      "buttonText": "CANCEL CHARGE",
-      "category": "Phishing Scam",
-      "isFake": true
-    },
-    {
-      "id": 93,
-      "title": "Get Paid $2,500/Week Wrapping Your Car",
-      "brand": "Red Bull Wrap Promo",
-      "description": "Earn easy income driving your vehicle! We pay you weekly for wrapping your car with our brand advertisement.",
-      "buttonText": "REGISTER CAR",
-      "category": "Car Wrap Scam",
-      "isFake": true
-    },
-    {
-      "id": 94,
-      "title": "Your Mobile Device Has (3) Viruses!",
-      "brand": "Android Cleaner App",
-      "description": "Battery is heavily damaged! Click button below to install security tool and clean internal system files now.",
-      "buttonText": "CLEAN SYSTEM NOW",
-      "category": "Scareware / Mobile Fraud",
-      "isFake": true
-    },
-    {
-      "id": 95,
-      "title": "Pure Puppy Mills: Teacup Yorkies 90% Off!",
-      "brand": "CutePuppies Direct",
-      "description": "Adorable purebred puppies available for immediate adoption. Pay shipping fee via Zelle to deliver puppy today.",
-      "buttonText": "ADOPT PUPPY",
-      "category": "Pet Scam",
-      "isFake": true
-    },
-    {
-      "id": 96,
-      "title": "The Best a Man Can Get",
-      "brand": "Gillette",
-      "description": "Precision razor blades engineered to give a close, smooth shave with less irritation on sensitive skin.",
-      "buttonText": "SHOP RAZORS",
-      "category": "Personal Care",
-      "isFake": false
-    },
-    {
-      "id": 97,
-      "title": "Betcha Can't Eat Just One!",
-      "brand": "Lay's",
-      "description": "Crispy, golden-cooked potato chips prepared with quality ingredients. Find your favorite flavor today.",
-      "buttonText": "SEE FLAVORS",
-      "category": "Snack Food",
-      "isFake": false
-    },
-    {
-      "id": 98,
-      "title": "America Runs on Dunkin'",
-      "brand": "Dunkin'",
-      "description": "Handcrafted coffees, lattes, espresso drinks, and hot baked donuts ready to fuel your busy mornings.",
-      "buttonText": "LOCATE STORE",
-      "category": "Food & Beverage",
-      "isFake": false
-    },
-    {
-      "id": 99,
-      "title": "Play Has No Limits",
-      "brand": "PlayStation",
-      "description": "Experience next-gen gaming immersion with ultra-fast loading, 3D audio, and stunning ray-traced visuals on PS5.",
-      "buttonText": "EXPLORE PS5",
-      "category": "Gaming",
-      "isFake": false
-    },
-    {
-      "id": 100,
-      "title": "Always One of a Kind",
-      "brand": "Dr Pepper",
-      "description": "An iconic, refreshing soda beverage crafted with a signature blend of 23 unique, satisfying flavors.",
-      "buttonText": "BUY ONLINE",
-      "category": "Food & Beverage",
-      "isFake": false
-    }
+  { "id": 1, "variant": "real", "brand": "Spotify", "caption": "Upgrade your listening experience today and discover new favorites.", "maincontext": "Listen to your favorite music without ads with Spotify Premium. Standard 30-day free trial.", "isFake": false },
+  { "id": 1, "variant": "fake", "brand": "Spotify", "caption": "Congratulations! You are today's lucky winner! Don't miss out on this exclusive offer.", "maincontext": "FREE Lifetime Spotify Premium! Claim your account now before the timer runs out.", "isFake": true },
+  
+  { "id": 2, "variant": "real", "brand": "GCash", "caption": "Send money instantly to friends and family with zero fees. Download the app today.", "maincontext": "Transfer funds to any bank or e-wallet with zero fees using GCash.", "isFake": false },
+  { "id": 2, "variant": "fake", "brand": "GCash", "caption": "URGENT: Your account is at risk! Action required immediately to secure your funds.", "maincontext": "YOU WON ₱50,000! Verify your account details immediately to claim your reward.", "isFake": true },
+  
+  { "id": 3, "variant": "real", "brand": "Steam", "caption": "The Summer Sale is live! Explore thousands of discounts on your favorite titles.", "maincontext": "Save up to 75% on thousands of games during the Steam Summer Sale.", "isFake": false },
+  { "id": 3, "variant": "fake", "brand": "Steam", "caption": "Free Game Keys! Limited stock available, claim yours before they are gone.", "maincontext": "We are giving away 500 free AAA game keys! Just log in with your Steam credentials to claim.", "isFake": true },
+  
+  { "id": 4, "variant": "real", "brand": "Apple", "caption": "The new iPhone Pro is here. Experience the ultimate performance and camera.", "maincontext": "Discover the incredible capabilities of the new iPhone Pro featuring the A-series chip.", "isFake": false },
+  { "id": 4, "variant": "fake", "brand": "Apple", "caption": "You have been selected! Claim your free device today by answering a few questions.", "maincontext": "FREE iPhone 17 Pro MAX! Answer 3 quick questions to receive your free device today.", "isFake": true },
+  
+  { "id": 5, "variant": "real", "brand": "Grab", "caption": "Hungry? We got you. Order your favorite meals now with GrabFood.", "maincontext": "Get your favorite meals delivered straight to your door with GrabFood.", "isFake": false },
+  { "id": 5, "variant": "fake", "brand": "Grab", "caption": "Exclusive promo for new users! Start earning today with our simple program.", "maincontext": "Earn up to $500 daily just by liking and sharing our delivery posts!", "isFake": true },
+  
+  { "id": 6, "variant": "real", "brand": "Meta", "caption": "Update your security settings. Protect your account with two-factor authentication.", "maincontext": "Keep your account safe by enabling two-factor authentication in the app.", "isFake": false },
+  { "id": 6, "variant": "fake", "brand": "Meta", "caption": "Urgent notice from Meta Support regarding your account status. Click to resolve.", "maincontext": "Your Facebook account has violated our community guidelines. Verify within 24 hours or it will be deleted.", "isFake": true },
+  
+  { "id": 7, "variant": "real", "brand": "Canva", "caption": "Design like a pro. Create stunning visuals for your brand with Canva Pro.", "maincontext": "Create stunning presentations and social media posts with Canva Pro.", "isFake": false },
+  { "id": 7, "variant": "fake", "brand": "Canva", "caption": "Limited time offer! Get free access to our premium features today.", "maincontext": "Get Canva Pro for FREE forever! No credit card required, just click here.", "isFake": true },
+  
+  { "id": 8, "variant": "real", "brand": "SecureDroid", "caption": "Protect your mobile device from malware and phishing attacks with our app.", "maincontext": "SecureDroid offers real-time protection against malware and phishing.", "isFake": false },
+  { "id": 8, "variant": "fake", "brand": "SecureDroid", "caption": "VIRUS DETECTED! Your phone is at risk. Install our app immediately to clean it.", "maincontext": "Your phone has 13 dangerous viruses! Install this security app immediately to protect your files.", "isFake": true },
+  
+  { "id": 9, "variant": "real", "brand": "Netflix", "caption": "New releases this week. Stream the latest movies and series on Netflix.", "maincontext": "Watch movies, series, documentaries, and original shows anytime.", "isFake": false },
+  { "id": 9, "variant": "fake", "brand": "Netflix", "caption": "Account suspended. We could not process your payment. Update your details.", "maincontext": "Your payment was declined. Update your credit card details immediately to keep watching.", "isFake": true },
+  
+  { "id": 10, "variant": "real", "brand": "EasyIncome", "caption": "Financial planning services tailored to your goals. Secure your future with us.", "maincontext": "Our certified consultants help you build a secure financial future.", "isFake": false },
+  { "id": 10, "variant": "fake", "brand": "EasyIncome", "caption": "Work from home! Earn money quickly with our proven secret method.", "maincontext": "Make ₱20,000 every day from home! No experience required. Learn the secret method now.", "isFake": true },
+  
+  { "id": 11, "variant": "real", "brand": "Shopee", "caption": "9.9 Mega Sale is here! Shop massive discounts and vouchers today.", "maincontext": "Enjoy massive discounts and vouchers on thousands of products today.", "isFake": false },
+  { "id": 11, "variant": "fake", "brand": "Shopee", "caption": "Lucky winner announcement! Congratulations on your big win. Claim it now.", "maincontext": "Congratulations, Jerome! You won a motorcycle. Pay a small ₱99 processing fee to claim.", "isFake": true },
+  
+  { "id": 12, "variant": "real", "brand": "Shopee", "caption": "Track your package easily. Stay updated on your delivery status in the app.", "maincontext": "Your order is on the way! Track your delivery in the Shopee app.", "isFake": false },
+  { "id": 12, "variant": "fake", "brand": "Shopee", "caption": "Final warning! Your account is suspended. Verify now to restore access.", "maincontext": "Your account is suspended. Click here to verify your identity and restore access.", "isFake": true },
+  
+  { "id": 13, "variant": "real", "brand": "Adobe", "caption": "Create without limits. Access the industry standard tools with Creative Cloud.", "maincontext": "Get Photoshop, Illustrator, and Premiere Pro in the Creative Cloud.", "isFake": false },
+  { "id": 13, "variant": "fake", "brand": "Adobe", "caption": "Cracked Software available for download! Get the full version for free.", "maincontext": "Get Adobe Creative Cloud full version for FREE! Download the pre-activated installer.", "isFake": true },
+  
+  { "id": 14, "variant": "real", "brand": "DSWD", "caption": "Public advisory regarding financial assistance for qualified families.", "maincontext": "Financial assistance is available for qualified families. Apply at your local DSWD office.", "isFake": false },
+  { "id": 14, "variant": "fake", "brand": "DSWD", "caption": "COVID-19 Assistance available now! Check your eligibility to receive funds.", "maincontext": "You may qualify for ₱10,000 financial assistance. Submit your personal info to check eligibility.", "isFake": true },
+  
+  { "id": 15, "variant": "real", "brand": "Duolingo", "caption": "Learn a new language the fun way. Start your first lesson for free.", "maincontext": "Short, interactive lessons make learning a language fun and easy.", "isFake": false },
+  { "id": 15, "variant": "fake", "brand": "Duolingo", "caption": "Free Premium! The first 1000 clickers will receive Super Duolingo for free.", "maincontext": "Duolingo is giving away free Super Duolingo accounts to the first 1000 clickers!", "isFake": true },
+  
+  { "id": 16, "variant": "real", "brand": "Meta", "caption": "Stay connected safely. We've updated our tools to keep your data secure.", "maincontext": "We've updated our privacy tools to give you more control over your data.", "isFake": false },
+  { "id": 16, "variant": "fake", "brand": "Meta", "caption": "Security Alert. Suspicious activity detected. Confirm your identity now.", "maincontext": "We detected suspicious activity. Click below immediately to secure your account and verify your identity.", "isFake": true },
+  
+  { "id": 17, "variant": "real", "brand": "Lazada", "caption": "Happy Birthday Lazada! Celebrate with us and find the best deals.", "maincontext": "Celebrate with us! Find deals across electronics, fashion, and home products.", "isFake": false },
+  { "id": 17, "variant": "fake", "brand": "Lazada", "caption": "Exclusive invite! Become an affiliate and earn quick money just by posting.", "maincontext": "You are invited to be a Lazada affiliate and earn $500 daily just by posting links.", "isFake": true },
+  
+  { "id": 18, "variant": "real", "brand": "TikTok", "caption": "Create something new. Join our community and share your creativity.", "maincontext": "Join the TikTok community and share your creativity with the world.", "isFake": false },
+  { "id": 18, "variant": "fake", "brand": "TikTok", "caption": "Secret Hack! Get ₱5,000 today before the timer runs out. Click to claim.", "maincontext": "TikTok is giving ₱5,000 to selected users today! Click before the timer reaches zero.", "isFake": true },
+  
+  { "id": 19, "variant": "real", "brand": "Microsoft", "caption": "Empower your productivity with Microsoft 365 and achieve more.", "maincontext": "Get Word, Excel, PowerPoint, and Outlook with a Microsoft 365 subscription.", "isFake": false },
+  { "id": 19, "variant": "fake", "brand": "Microsoft", "caption": "Exclusive Lifetime License! Get Microsoft 365 for a fraction of the cost.", "maincontext": "Get a lifetime Microsoft 365 license for only $19.99! Limited time offer.", "isFake": true },
+  
+  { "id": 20, "variant": "real", "brand": "Microsoft", "caption": "Stay secure with Defender. Built-in protection for your peace of mind.", "maincontext": "Windows Defender provides built-in protection against viruses and malware.", "isFake": false },
+  { "id": 20, "variant": "fake", "brand": "Microsoft", "caption": "CRITICAL ERROR! Your license expired. Call our support to prevent data loss.", "maincontext": "Your Windows license has expired. Call our support number immediately to prevent data loss.", "isFake": true },
+  
+  { "id": 21, "variant": "real", "brand": "Amazon", "caption": "Shop the latest deals and enjoy fast, free shipping with Amazon.", "maincontext": "Find everything you need with fast shipping on Amazon.", "isFake": false },
+  { "id": 21, "variant": "fake", "brand": "Amazon", "caption": "Lucky Winner! Claim your $1,000 gift card by completing a short survey.", "maincontext": "Claim your $1,000 Amazon Gift Card! Complete a short 2-minute survey to claim.", "isFake": true },
+  
+  { "id": 22, "variant": "real", "brand": "PayPal", "caption": "Send and receive money safely with PayPal, trusted worldwide.", "maincontext": "PayPal offers secure online payments for millions of users worldwide.", "isFake": false },
+  { "id": 22, "variant": "fake", "brand": "PayPal", "caption": "Unusual activity detected. Log in now to verify your identity and secure funds.", "maincontext": "A login from an unrecognized device in Moscow was detected. Verify your identity immediately.", "isFake": true },
+  
+  { "id": 23, "variant": "real", "brand": "CryptoWealth", "caption": "Invest with confidence. Our portfolios are designed for steady growth.", "maincontext": "Our managed portfolios are designed for long-term, regulated growth.", "isFake": false },
+  { "id": 23, "variant": "fake", "brand": "CryptoWealth", "caption": "GUARANTEED PROFITS! Our AI bot can help you make massive returns quickly.", "maincontext": "Guaranteed 500% ROI in 7 Days! Deposit $250 today and our AI bot will do the rest.", "isFake": true },
+  
+  { "id": 24, "variant": "real", "brand": "USPS", "caption": "Track your package easily using our official online tool.", "maincontext": "Use our official tracking tool on usps.com to check your delivery status.", "isFake": false },
+  { "id": 24, "variant": "fake", "brand": "USPS", "caption": "Delivery failed! Update your address and pay a small fee to release your package.", "maincontext": "Your package is on hold. Update your address within 24 hours and pay a $1.99 fee.", "isFake": true },
+  
+  { "id": 25, "variant": "real", "brand": "Toyota", "caption": "Drive the future with the new Toyota Prius Hybrid. Efficiency meets style.", "maincontext": "Experience superior fuel economy with the new Toyota Prius Hybrid.", "isFake": false },
+  { "id": 25, "variant": "fake", "brand": "Toyota", "caption": "Government Liquidation Sale! Get a Toyota for a fraction of the price.", "maincontext": "Seized vehicles from police auctions! Get a Toyota for $500. Register now.", "isFake": true },
+  
+  { "id": 26, "variant": "real", "brand": "Netflix", "caption": "Watch anywhere, cancel anytime. New shows are added every week.", "maincontext": "Sign up today to access thousands of original series and movies.", "isFake": false },
+  { "id": 26, "variant": "fake", "brand": "Netflix", "caption": "Free 1-Year Subscription! Complete a few offers to unlock your access.", "maincontext": "Get a free 1-year Netflix subscription! Just complete 3 offers to unlock.", "isFake": true },
+  
+  { "id": 27, "variant": "real", "brand": "Nike", "caption": "Run on air. Find your perfect fit with the latest Nike Air Zoom Pegasus.", "maincontext": "Find your perfect fit with the latest Nike Air Zoom Pegasus.", "isFake": false },
+  { "id": 27, "variant": "fake", "brand": "Nike", "caption": "Warehouse Clearance! Huge discounts on all shoes. Enter your card details.", "maincontext": "Nike warehouse liquidation! 90% off all shoes. Enter your card details for shipping.", "isFake": true },
+  
+  { "id": 28, "variant": "real", "brand": "Spotify", "caption": "Over 70 million songs. Upgrade for offline listening and ad-free music.", "maincontext": "Upgrade to Spotify Premium for offline listening and ad-free music.", "isFake": false },
+  { "id": 28, "variant": "fake", "brand": "Spotify", "caption": "Premium Account Generator! Get free premium access, no payment needed.", "maincontext": "Get a free premium Spotify account. No payment needed. Generate your account now!", "isFake": true },
+  
+  { "id": 29, "variant": "real", "brand": "Apple", "caption": "Pro. Beyond. Discover the incredible capabilities of the new iPhone.", "maincontext": "Discover the incredible capabilities of the new iPhone Pro.", "isFake": false },
+  { "id": 29, "variant": "fake", "brand": "Apple", "caption": "Apple Store Surveys! Take a 1-minute survey to receive a new iPhone.", "maincontext": "Take our 1-minute survey and get an iPhone 17 for $1.99 shipping.", "isFake": true },
+  
+  { "id": 30, "variant": "real", "brand": "IRS", "caption": "Tax Season Updates. Find official forms and resources on irs.gov.", "maincontext": "Find official tax forms and filing resources on irs.gov.", "isFake": false },
+  { "id": 30, "variant": "fake", "brand": "IRS", "caption": "Unclaimed Refund! You may be entitled to a tax refund. Apply now.", "maincontext": "You have an unclaimed tax refund of $3,410. Enter your SSN and bank details.", "isFake": true },
+  
+  { "id": 31, "variant": "real", "brand": "MiracleKeto", "caption": "Support your health goals with our standard, FDA-compliant ingredients.", "maincontext": "Our supplements are formulated with standard, FDA-compliant ingredients.", "isFake": false },
+  { "id": 31, "variant": "fake", "brand": "MiracleKeto", "caption": "Doctor's Secret! Lose weight fast with our miracle supplement. Order today.", "maincontext": "Lose 30 lbs in 5 Days Without Dieting! Miracle supplement burns fat while you sleep.", "isFake": true },
+  
+  { "id": 32, "variant": "real", "brand": "Chase", "caption": "Banking made simple. Manage your accounts and transfer funds securely.", "maincontext": "Manage your accounts and transfer funds securely with the Chase app.", "isFake": false },
+  { "id": 32, "variant": "fake", "brand": "Chase", "caption": "Account Locked! Urgent action required. Log in to restore your access.", "maincontext": "URGENT: Your Bank Account is Frozen. Log in instantly to restore full access.", "isFake": true },
+  
+  { "id": 33, "variant": "real", "brand": "Global Remote", "caption": "Find your next career opportunity with our legitimate staffing services.", "maincontext": "We connect top talent with legitimate corporate staffing opportunities.", "isFake": false },
+  { "id": 33, "variant": "fake", "brand": "Global Remote", "caption": "Hiring Now! Work from home and earn thousands. Apply now to start.", "maincontext": "Work from Home: Earn $8,000/Week. Package re-shipping jobs available. Pay upfront fee.", "isFake": true },
+  
+  { "id": 34, "variant": "real", "brand": "Apple", "caption": "Support local communities. Learn about our charity and outreach programs.", "maincontext": "Learn about Apple's community initiatives and charity programs.", "isFake": false },
+  { "id": 34, "variant": "fake", "brand": "Apple", "caption": "Visitor #100,000! You have won an iPad Pro. Pay just $1.00 to claim.", "maincontext": "Congratulations! You Won an iPad Pro. Pay just $1.00 shipping to claim.", "isFake": true },
+  
+  { "id": 35, "variant": "real", "brand": "GEICO", "caption": "Save on car insurance. Get a fast, free quote in just 15 minutes.", "maincontext": "Get a fast, free auto insurance quote online in less than 15 minutes.", "isFake": false },
+  { "id": 35, "variant": "fake", "brand": "GEICO", "caption": "Expired Policy? Pay a penalty fee now to avoid losing your coverage.", "maincontext": "Your car insurance is expired. Pay a $50 penalty fee via gift card immediately.", "isFake": true },
+  
+  { "id": 36, "variant": "real", "brand": "Airbnb", "caption": "Belong anywhere. Explore unique stays and local experiences worldwide.", "maincontext": "Explore cabins, beachfront villas, and city apartments hosted by locals.", "isFake": false },
+  { "id": 36, "variant": "fake", "brand": "Airbnb", "caption": "Cheap stays! Book your dream vacation for an unbeatable price.", "maincontext": "Beachfront Villa for Just $85/Night! Book outside the app to avoid fees.", "isFake": true },
+  
+  { "id": 37, "variant": "real", "brand": "Dunkin'", "caption": "Start your day right with freshly brewed coffee and a warm breakfast.", "maincontext": "Freshly brewed iced coffee and your favorite handcrafted breakfast sandwich.", "isFake": false },
+  { "id": 37, "variant": "fake", "brand": "Dunkin'", "caption": "Free Coffee For A Year! Click to enter your details for a chance to win.", "maincontext": "Win free coffee for a year! Click the link to enter your debit card for verification.", "isFake": true },
+  
+  { "id": 38, "variant": "real", "brand": "Amazon", "caption": "Fast, free delivery. Enjoy exclusive access to shipping and music with Prime.", "maincontext": "Enjoy exclusive access to fast shipping and ad-free music with Prime.", "isFake": false },
+  { "id": 38, "variant": "fake", "brand": "Amazon", "caption": "Prime Membership Canceled! Update your payment details to keep your benefits.", "maincontext": "Your Prime payment failed. Update your card details now to avoid cancellation.", "isFake": true },
+  
+  { "id": 39, "variant": "real", "brand": "IKEA", "caption": "Organize your home with smart storage and stylish furniture.", "maincontext": "Affordable solutions designed to keep every room tidy and functional.", "isFake": false },
+  { "id": 39, "variant": "fake", "brand": "IKEA", "caption": "Closing Down Sale! Huge discounts on all furniture. Reserve your items.", "maincontext": "IKEA is closing 50 stores! Get 90% off furniture. Pay a $20 reservation fee.", "isFake": true },
+  
+  { "id": 40, "variant": "real", "brand": "McAfee", "caption": "Stay safe online with comprehensive antivirus and web protection.", "maincontext": "McAfee provides comprehensive antivirus and web protection.", "isFake": false },
+  { "id": 40, "variant": "fake", "brand": "McAfee", "caption": "CRITICAL WARNING! System infected with Trojans. Renew to protect your data.", "maincontext": "Critical Virus Detected: System Infected with 5 Trojans. Renew subscription immediately.", "isFake": true },
+  
+  { "id": 41, "variant": "real", "brand": "Tesla", "caption": "Accelerating the future. Explore electric vehicles and clean energy.", "maincontext": "Explore the latest electric vehicles and clean energy solutions.", "isFake": false },
+  { "id": 41, "variant": "fake", "brand": "Tesla", "caption": "Elon Musk Giveaway! Send crypto to verify and double your money today.", "maincontext": "Elon Musk $10,000 Crypto Giveaway! Send 0.1 BTC to verify and double your money.", "isFake": true },
+  
+  { "id": 42, "variant": "real", "brand": "Sterling & Cross", "caption": "Legal expertise you can trust. Standard corporate and international advisory.", "maincontext": "Our firm provides standard corporate and international legal advisory.", "isFake": false },
+  { "id": 42, "variant": "fake", "brand": "Sterling & Cross", "caption": "Unclaimed Estate! A wealthy relative left you millions. Contact us now.", "maincontext": "Unclaimed Inheritance Notification: A wealthy relative left you $4.5M. Contact us.", "isFake": true },
+  
+  { "id": 43, "variant": "real", "brand": "Netflix", "caption": "Manage your account securely. Update your billing information with ease.", "maincontext": "Update your billing information securely in your account settings.", "isFake": false },
+  { "id": 43, "variant": "fake", "brand": "Netflix", "caption": "Payment Declined! Update your credit card now to keep watching.", "maincontext": "We were unable to process your monthly payment. Update your credit card now.", "isFake": true },
+  
+  { "id": 44, "variant": "real", "brand": "Federal Grants", "caption": "Government resources. Find official information on federal grants.", "maincontext": "Find official information on federal grants and funding opportunities.", "isFake": false },
+  { "id": 44, "variant": "fake", "brand": "Federal Grants", "caption": "Approved Grant! You qualify for $12,500. Pay a small fee to receive funds.", "maincontext": "Secret Government Grant Approved: You qualify for $12,500. Pay a $50 processing fee.", "isFake": true },
+  
+  { "id": 45, "variant": "real", "brand": "Xbox", "caption": "Power your dreams. Experience true 4K gaming with Xbox Series X.", "maincontext": "Experience true 4K gaming with the Xbox Series X and Game Pass.", "isFake": false },
+  { "id": 45, "variant": "fake", "brand": "Xbox", "caption": "Free Console! We are giving away 100 free consoles. Pay the shipping fee.", "maincontext": "Xbox is giving away 100 free Series X consoles! Pay only the $15 shipping fee.", "isFake": true },
+  
+  { "id": 46, "variant": "real", "brand": "Dollar Shave", "caption": "Shave time. Shave money. Get razors delivered straight to your door.", "maincontext": "Get high-quality razors delivered straight to your door.", "isFake": false },
+  { "id": 46, "variant": "fake", "brand": "Dollar Shave", "caption": "Canceled Subscription! Your account is past due. Update your card to avoid a fee.", "maincontext": "Your account is past due. Update your card details to avoid a $35 late fee.", "isFake": true },
+  
+  { "id": 47, "variant": "real", "brand": "Verizon", "caption": "America's most reliable 5G. Get the latest smartphones when you trade in.", "maincontext": "Switch to Verizon and get the latest 5G smartphones when you trade in.", "isFake": false },
+  { "id": 47, "variant": "fake", "brand": "Verizon", "caption": "Network Outage Alert! Claim your compensation for the recent disruption.", "maincontext": "Your area is experiencing an outage. Log in to claim your $50 compensation.", "isFake": true },
+  
+  { "id": 48, "variant": "real", "brand": "KFC", "caption": "Finger lickin' good. Order your favorite fried chicken for dinner tonight.", "maincontext": "Order original recipe fried chicken and mouth-watering sides tonight.", "isFake": false },
+  { "id": 48, "variant": "fake", "brand": "KFC", "caption": "50th Anniversary Promo! Get a $50 voucher for a small processing fee.", "maincontext": "Get a $50 KFC voucher for our anniversary! Just pay $2 processing.", "isFake": true },
+  
+  { "id": 49, "variant": "real", "brand": "L'Oréal", "caption": "Because you're worth it. Nourish your skin with advanced serums.", "maincontext": "Nourish and revitalize your skin with advanced anti-aging serums.", "isFake": false },
+  { "id": 49, "variant": "fake", "brand": "L'Oréal", "caption": "Free Beauty Box! Claim your $200 box today, just pay the shipping fee.", "maincontext": "Claim your free $200 L'Oréal beauty box! Enter your card for shipping.", "isFake": true },
+  
+  { "id": 50, "variant": "real", "brand": "Meta", "caption": "Community standards. Learn how we keep our platforms safe for everyone.", "maincontext": "Learn how we keep our platforms safe and enforce our guidelines.", "isFake": false },
+  { "id": 50, "variant": "fake", "brand": "Meta", "caption": "Copyright Violation! Your account is flagged. Confirm your password to prevent deletion.", "maincontext": "Your account was flagged. Confirm your password within 12 hours to prevent deletion.", "isFake": true },
+  
+  { "id": 51, "variant": "real", "brand": "Volkswagen", "caption": "German engineering. Experience the performance of the new Volkswagen lineup.", "maincontext": "Experience the performance and efficiency of the new Volkswagen lineup.", "isFake": false },
+  { "id": 51, "variant": "fake", "brand": "Volkswagen", "caption": "Emissions Settlement Payout! Claim your share of the funds today.", "maincontext": "Claim your VW emissions settlement of $5,000. Enter bank details to receive funds.", "isFake": true },
+  
+  { "id": 52, "variant": "real", "brand": "Red Bull", "caption": "Gives you wings. Fuel your active lifestyle with Red Bull.", "maincontext": "Red Bull Energy Drink is designed to fuel your active lifestyle.", "isFake": false },
+  { "id": 52, "variant": "fake", "brand": "Red Bull", "caption": "Car Wrap Program! Get paid weekly to wrap your car with our logos.", "maincontext": "Get Paid $2,500/Week Wrapping Your Car with Red Bull logos! Register now.", "isFake": true },
+  
+  { "id": 53, "variant": "real", "brand": "Activia", "caption": "Support your digestive health. Enjoy Activia as part of a balanced diet.", "maincontext": "Enjoy Activia yogurt as part of a balanced diet and healthy lifestyle.", "isFake": false },
+  { "id": 53, "variant": "fake", "brand": "Activia", "caption": "Medical Breakthrough! Clinically proven to cure digestion issues fast.", "maincontext": "Clinically Proven to Regulate Digestion and cure IBS in just two weeks!", "isFake": true },
+  
+  { "id": 54, "variant": "real", "brand": "ABCmouse", "caption": "Early learning made fun. Give your child a head start today.", "maincontext": "Give your child a head start with our early childhood curriculum.", "isFake": false },
+  { "id": 54, "variant": "fake", "brand": "ABCmouse", "caption": "Free Trial! Try our app for 30 days. Cancel anytime to avoid charges.", "maincontext": "Try ABCmouse Free for 30 Days! (Auto-renews at full price unless called).", "isFake": true },
+  
+  { "id": 55, "variant": "real", "brand": "JCPenney", "caption": "Style for the whole family. Shop the latest fashion at affordable prices.", "maincontext": "Shop the latest fashion and home goods at affordable prices.", "isFake": false },
+  { "id": 55, "variant": "fake", "brand": "JCPenney", "caption": "Clearance Sale! Mega savings on everything. Limited time only.", "maincontext": "Mega Black Friday Blowout: 80% Off Everything! Original price $120, now $24.", "isFake": true },
+  
+  { "id": 56, "variant": "real", "brand": "Airbnb", "caption": "Unique stays. Find the perfect apartment or villa for your next trip.", "maincontext": "Find the perfect apartment or villa for your next trip.", "isFake": false },
+  { "id": 56, "variant": "fake", "brand": "Airbnb", "caption": "Too good to be true? Book this incredible villa for an unbeatable rate.", "maincontext": "Beachfront Villa for Just $85/Night! (Hidden $250 cleaning fee at checkout).", "isFake": true },
+  
+  { "id": 57, "variant": "real", "brand": "Williams-Sonoma", "caption": "Quality kitchenware. Shop premium cookware for your home kitchen.", "maincontext": "Shop premium cookware and home furnishings for your kitchen.", "isFake": false },
+  { "id": 57, "variant": "fake", "brand": "Williams-Sonoma", "caption": "Patriotic Collection! 100% authentic goods made right here in the USA.", "maincontext": "100% Authentic Handcrafted Goods - Made in USA! (Actually imported).", "isFake": true },
+  
+  { "id": 58, "variant": "real", "brand": "Booking.com", "caption": "Book your next trip. Find great deals on hotels, flights, and cars.", "maincontext": "Find great deals on hotels, flights, and rental cars worldwide.", "isFake": false },
+  { "id": 58, "variant": "fake", "brand": "Booking.com", "caption": "Hurry! Only 1 room left at this price. Book now before it is gone.", "maincontext": "Only 1 Room Left at This Low Price! 15 people are looking right now!", "isFake": true },
+  
+  { "id": 59, "variant": "real", "brand": "L'Oréal", "caption": "Revitalift collection. Reduce the appearance of wrinkles with our serum.", "maincontext": "Reduce the appearance of wrinkles with our Revitalift serum.", "isFake": false },
+  { "id": 59, "variant": "fake", "brand": "L'Oréal", "caption": "Miracle Cream! Scientifically proven to reverse skin damage instantly.", "maincontext": "Scientifically Proven Youth: Reverses structural skin damage instantly!", "isFake": true },
+  
+  { "id": 60, "variant": "real", "brand": "Naked Juice", "caption": "Real fruit smoothies. Enjoy our delicious fruit and vegetable blends.", "maincontext": "Enjoy our delicious fruit and vegetable juice blends.", "isFake": false },
+  { "id": 60, "variant": "fake", "brand": "Naked Juice", "caption": "100% Natural! Real whole fruit smoothies with zero added ingredients.", "maincontext": "100% Real Whole Fruit Smoothies with zero added ingredients! (Contains synthetics).", "isFake": true },
+  
+  { "id": 61, "variant": "real", "brand": "Volkswagen", "caption": "Think small. The classic VW Beetle is practical, convenient, and smart.", "maincontext": "The classic VW Beetle. Practical, convenient, and smart.", "isFake": false },
+  { "id": 61, "variant": "fake", "brand": "Volkswagen", "caption": "Classic Car Auction! Own a piece of history for a low price.", "maincontext": "Own a piece of history! 1965 VW Beetle for only $1,000. Wire transfer only.", "isFake": true },
+  
+  { "id": 62, "variant": "real", "brand": "Sherwin Cody", "caption": "Improve your English. Master grammar with our proven course.", "maincontext": "Master grammar and vocabulary with our proven course.", "isFake": false },
+  { "id": 62, "variant": "fake", "brand": "Sherwin Cody", "caption": "Secret English Hack! Fix your mistakes in just 15 minutes a day.", "maincontext": "Do You Make These Mistakes in English? Fix them in 15 minutes a day!", "isFake": true },
+  
+  { "id": 63, "variant": "real", "brand": "KFC", "caption": "We're sorry. A chicken restaurant without chicken. Apologies for the disruption.", "maincontext": "A chicken restaurant without any chicken. Huge apologies for the disruption.", "isFake": false },
+  { "id": 63, "variant": "fake", "brand": "KFC", "caption": "Compensation Voucher! Sorry for the shortage, claim your $20 voucher here.", "maincontext": "Sorry for the chicken shortage! Claim your $20 KFC voucher here.", "isFake": true },
+  
+  { "id": 64, "variant": "real", "brand": "Old Spice", "caption": "Smell like a man. Step up to long-lasting freshness with Old Spice.", "maincontext": "Step up to long-lasting freshness with Old Spice body wash.", "isFake": false },
+  { "id": 64, "variant": "fake", "brand": "Old Spice", "caption": "Free Sample! Get a free gift box, just pay the shipping and handling.", "maincontext": "Get a free Old Spice gift box! Just pay $4.99 shipping and handling.", "isFake": true },
+  
+  { "id": 65, "variant": "real", "brand": "Snickers", "caption": "You're not you when you're hungry. Satisfy your hunger with Snickers.", "maincontext": "Satisfy your hunger with milk chocolate, peanuts, and caramel.", "isFake": false },
+  { "id": 65, "variant": "fake", "brand": "Snickers", "caption": "Win a Years Supply! Enter your details for a chance to win big.", "maincontext": "Win a year's supply of Snickers! Click here to enter your email and address.", "isFake": true },
+  
+  { "id": 66, "variant": "real", "brand": "De Beers", "caption": "A diamond is forever. Discover timeless jewelry crafted for life's moments.", "maincontext": "Discover timeless diamond jewelry crafted for life's moments.", "isFake": false },
+  { "id": 66, "variant": "fake", "brand": "De Beers", "caption": "Investment Opportunity! Buy diamonds at wholesale prices. Guaranteed value.", "maincontext": "Buy conflict-free diamonds at wholesale prices. Guaranteed 200% resale value.", "isFake": true },
+  
+  { "id": 67, "variant": "real", "brand": "Coca-Cola", "caption": "Share a Coke. Find your name on custom bottles and share a moment.", "maincontext": "Find your name on custom Coca-Cola bottles and share a moment.", "isFake": false },
+  { "id": 67, "variant": "fake", "brand": "Coca-Cola", "caption": "Free Tumbler! Claim your limited edition cup for a small shipping fee.", "maincontext": "Claim your free Coca-Cola limited edition tumbler! Pay only $2 shipping.", "isFake": true },
+  
+  { "id": 68, "variant": "real", "brand": "British Airways", "caption": "To fly. To serve. Book your next international flight with us.", "maincontext": "Book your next international flight with British Airways.", "isFake": false },
+  { "id": 68, "variant": "fake", "brand": "British Airways", "caption": "Flight Voucher! You are entitled to $500 due to delays. Claim here.", "maincontext": "You are entitled to a $500 flight voucher due to recent delays. Claim here.", "isFake": true },
+  
+  { "id": 69, "variant": "real", "brand": "Got Milk?", "caption": "Got Milk? Packed with essential nutrients to build strong bones.", "maincontext": "Packed with essential nutrients to build strong bones.", "isFake": false },
+  { "id": 69, "variant": "fake", "brand": "Got Milk?", "caption": "Milk Stimulus Check! The dairy industry is issuing funds to households.", "maincontext": "The dairy industry is issuing $250 stimulus checks to all households. Apply now.", "isFake": true },
+  
+  { "id": 70, "variant": "real", "brand": "FedEx", "caption": "When it absolutely has to be there. Trust our global courier network.", "maincontext": "Trust our global courier network for guaranteed overnight delivery.", "isFake": false },
+  { "id": 70, "variant": "fake", "brand": "FedEx", "caption": "Package Held! Pay a small redelivery fee to release your shipment.", "maincontext": "Your package is held at our depot. Pay a $1.99 redelivery fee to release it.", "isFake": true },
+  
+  { "id": 71, "variant": "real", "brand": "Apple", "caption": "Security updates. Learn how to protect your Apple ID and enable 2FA.", "maincontext": "Learn how to protect your Apple ID and enable two-factor authentication.", "isFake": false },
+  { "id": 71, "variant": "fake", "brand": "Apple", "caption": "Apple ID Compromised! Your account was accessed. Verify your card details now.", "maincontext": "Your iCloud account was accessed from Beijing. Verify your credit card details now.", "isFake": true },
+  
+  { "id": 72, "variant": "real", "brand": "Tax Enforcement", "caption": "Tax compliance. Ensure your federal taxes are filed correctly and on time.", "maincontext": "Ensure your federal taxes are filed correctly and on time.", "isFake": false },
+  { "id": 72, "variant": "fake", "brand": "Tax Enforcement", "caption": "FINAL NOTICE! Unpaid debt arrest warrant issued. Pay immediately.", "maincontext": "Unpaid Debt Arrest Warrant issued. Pay $1,250 in Target Gift Cards immediately.", "isFake": true },
+  
+  { "id": 73, "variant": "real", "brand": "AppTester Pro", "caption": "Get paid to test apps. Join our QA team and help developers.", "maincontext": "Join our QA team and help developers improve their mobile applications.", "isFake": false },
+  { "id": 73, "variant": "fake", "brand": "AppTester Pro", "caption": "Easy Money! Earn $500/day testing apps. Pay a small fee to start.", "maincontext": "Earn $500/Day Testing Apps From Home! Pay a $49 activation fee to start.", "isFake": true },
+  
+  { "id": 74, "variant": "real", "brand": "FedEx", "caption": "Track your shipment. Use your tracking number on fedex.com for updates.", "maincontext": "Use your tracking number on fedex.com to see delivery updates.", "isFake": false },
+  { "id": 74, "variant": "fake", "brand": "FedEx", "caption": "Unclaimed Delivery! Confirm your shipping address by paying a small fee.", "maincontext": "You Have (1) Unclaimed Delivery. Pay a $1.99 fee to confirm your shipping address.", "isFake": true },
+  
+  { "id": 75, "variant": "real", "brand": "ConcertPass", "caption": "Get your tickets. Buy verified tickets for concerts and live events.", "maincontext": "Buy verified tickets for concerts and live events near you.", "isFake": false },
+  { "id": 75, "variant": "fake", "brand": "ConcertPass", "caption": "VIP Ticket Giveaway! Win floor seats. Just pay a handling fee via wire transfer.", "maincontext": "Taylor Swift Ticket Giveaway - VIP Floor Seats! Pay $12 handling via wire transfer.", "isFake": true },
+  
+  { "id": 76, "variant": "real", "brand": "PayPal", "caption": "Manage your wallet. Securely send and receive money with PayPal.", "maincontext": "Securely send and receive money with your PayPal account.", "isFake": false },
+  { "id": 76, "variant": "fake", "brand": "PayPal", "caption": "Account Frozen! Immediate action required. Re-enter your card and PIN.", "maincontext": "Immediate Action Required: Your wallet is frozen. Re-enter your debit card and PIN.", "isFake": true },
+  
+  { "id": 77, "variant": "real", "brand": "ElonToken", "caption": "The future of finance. Join our community and learn about blockchain.", "maincontext": "Join our community and learn about blockchain technology.", "isFake": false },
+  { "id": 77, "variant": "fake", "brand": "ElonToken", "caption": "100x Growth Guaranteed! Exclusive presale endorsed by billionaires.", "maincontext": "Exclusive Crypto Presale endorsed by billionaires! Buy tokens before listing.", "isFake": true },
+  
+  { "id": 78, "variant": "real", "brand": "System Repair", "caption": "Tech support that helps. Our technicians can troubleshoot your computer.", "maincontext": "Our certified technicians can help troubleshoot your computer issues.", "isFake": false },
+  { "id": 78, "variant": "fake", "brand": "System Repair", "caption": "MALWARE DETECTED! Critical error found. Call our helpline immediately.", "maincontext": "Critical error code detected. Call our toll-free helpline immediately.", "isFake": true },
+  
+  { "id": 79, "variant": "real", "brand": "National Fuel", "caption": "Save on gas. Join our loyalty program to earn points on every fill-up.", "maincontext": "Join our loyalty program to earn points on every fill-up.", "isFake": false },
+  { "id": 79, "variant": "fake", "brand": "National Fuel", "caption": "Free Gas Card! Selected for a $500 card. Submit your credit card to verify.", "maincontext": "Congratulations! Selected for a Free $500 Gas Card. Submit credit card to verify.", "isFake": true },
+  
+  { "id": 80, "variant": "real", "brand": "Gov Relief", "caption": "Housing assistance resources. Find official programs for rent relief.", "maincontext": "Find official government programs for rent and mortgage relief.", "isFake": false },
+  { "id": 80, "variant": "fake", "brand": "Gov Relief", "caption": "Approved for Relief! Receive up to $4,000 monthly. Pay clearance fee.", "maincontext": "Receive up to $4,000 monthly for rent. Pay an application clearance fee.", "isFake": true },
+  
+  { "id": 81, "variant": "real", "brand": "M&M's", "caption": "Melts in your mouth. Classic milk chocolate coated in colorful shells.", "maincontext": "Classic real milk chocolate coated in colorful candy shells.", "isFake": false },
+  { "id": 81, "variant": "fake", "brand": "M&M's", "caption": "Free Chocolate! We are giving away boxes for our anniversary. Click here.", "maincontext": "M&M's is giving away free chocolate boxes for our anniversary! Click here.", "isFake": true },
+  
+  { "id": 82, "variant": "real", "brand": "BMW", "caption": "The ultimate driving machine. Engineered for performance and luxury.", "maincontext": "Engineered for precise performance and luxury. Explore the M Series.", "isFake": false },
+  { "id": 82, "variant": "fake", "brand": "BMW", "caption": "Government Auction! Seized M Series for just $2,000. Register now.", "maincontext": "Seized BMW M Series for only $2,000! Register for the police auction now.", "isFake": true },
+  
+  { "id": 83, "variant": "real", "brand": "Skittles", "caption": "Taste the rainbow. Unleash a burst of fruit flavor with every bite.", "maincontext": "Unleash a burst of fruit flavor with every chewy bite.", "isFake": false },
+  { "id": 83, "variant": "fake", "brand": "Skittles", "caption": "Lucky Winner! Win a year's supply. Pay shipping to claim your prize.", "maincontext": "You are our lucky visitor! Win a year's supply of Skittles. Pay shipping.", "isFake": true },
+  
+  { "id": 84, "variant": "real", "brand": "Coca-Cola", "caption": "Open happiness. Turn everyday meals into memorable moments with Coke.", "maincontext": "Turn everyday meals into memorable moments with an ice-cold Coke.", "isFake": false },
+  { "id": 84, "variant": "fake", "brand": "Coca-Cola", "caption": "Free Vending Machine! Get one for your business. Pay installation fee.", "maincontext": "Get a free Coca-Cola vending machine for your business! Pay installation fee.", "isFake": true },
+  
+  { "id": 85, "variant": "real", "brand": "Burger King", "caption": "Have it your way. Flame-broiled beef topped with fresh ingredients.", "maincontext": "Flame-broiled beef topped with fresh lettuce and savory pickles.", "isFake": false },
+  { "id": 85, "variant": "fake", "brand": "Burger King", "caption": "Free Whopper! Get a free burger for a year by completing a survey.", "maincontext": "Get a free Whopper for a year! Just complete this 30-second survey.", "isFake": true },
+  
+  { "id": 86, "variant": "real", "brand": "State Farm", "caption": "Like a good neighbor. Get dependable protection for auto, home, and life.", "maincontext": "Get dependable protection for your auto, home, and life.", "isFake": false },
+  { "id": 86, "variant": "fake", "brand": "State Farm", "caption": "Policy Lapse! Pay $150 via gift card to reinstate your coverage.", "maincontext": "Your auto insurance has lapsed. Pay $150 via gift card to reinstate coverage.", "isFake": true },
+  
+  { "id": 87, "variant": "real", "brand": "Mastercard", "caption": "Priceless. Secure payment solutions accepted across thousands of locations.", "maincontext": "Secure payment solutions accepted across thousands of locations.", "isFake": false },
+  { "id": 87, "variant": "fake", "brand": "Mastercard", "caption": "Security Breach! Your card is compromised. Log in to prevent suspension.", "maincontext": "Your card is compromised. Log in to verify your identity and prevent suspension.", "isFake": true },
+  
+  { "id": 88, "variant": "real", "brand": "Subway", "caption": "Eat fresh. Build custom footlong subs loaded with fresh veggies.", "maincontext": "Build custom footlong sub sandwiches loaded with fresh veggies.", "isFake": false },
+  { "id": 88, "variant": "fake", "brand": "Subway", "caption": "Free Sub For A Year! Enter your card details for verification to win.", "maincontext": "Win free Subway for a year! Enter your card details for verification.", "isFake": true },
+  
+  { "id": 89, "variant": "real", "brand": "Monster Energy", "caption": "Unleash the beast. The ideal blend of energy to fuel your lifestyle.", "maincontext": "The ideal blend of energy ingredients to fuel your active lifestyle.", "isFake": false },
+  { "id": 89, "variant": "fake", "brand": "Monster Energy", "caption": "Sponsorship Program! Get paid to promote our brand on your car.", "maincontext": "Get paid $1,000/month to promote Monster Energy on your car. Register now.", "isFake": true },
+  
+  { "id": 90, "variant": "real", "brand": "Energizer", "caption": "It keeps going. Long-lasting power for everyday devices with Energizer.", "maincontext": "Long-lasting power for everyday devices with Energizer Max.", "isFake": false },
+  { "id": 90, "variant": "fake", "brand": "Energizer", "caption": "Free Battery Pack! Claim yours today, just pay the shipping and handling.", "maincontext": "Claim your free Energizer battery pack! Pay only $3.99 shipping and handling.", "isFake": true },
+  
+  { "id": 91, "variant": "real", "brand": "State Unclaimed", "caption": "Find unclaimed property. Search the official state database for funds.", "maincontext": "Search the official state database for unclaimed funds.", "isFake": false },
+  { "id": 91, "variant": "fake", "brand": "State Unclaimed", "caption": "You have funds! Unclaimed property found. Pay a fee to release your money.", "maincontext": "Unclaimed Property Notice: $3,200 Found. Pay a $25 processing fee to release.", "isFake": true },
+  
+  { "id": 92, "variant": "real", "brand": "Wells Fargo", "caption": "Financial security. Manage your accounts and monitor your credit.", "maincontext": "Manage your accounts and monitor your credit securely.", "isFake": false },
+  { "id": 92, "variant": "fake", "brand": "Wells Fargo", "caption": "Unauthorized Charge! Log in immediately to cancel this transaction.", "maincontext": "A charge of $899.00 was attempted. Log in immediately to cancel transaction.", "isFake": true },
+  
+  { "id": 93, "variant": "real", "brand": "Red Bull", "caption": "Fuel your day. Red Bull gives you wings to power through your workday.", "maincontext": "Red Bull gives you wings to power through your workday.", "isFake": false },
+  { "id": 93, "variant": "fake", "brand": "Red Bull", "caption": "Car Wrap Job! Get paid weekly. Pay a registration fee to start earning.", "maincontext": "Get Paid $2,500/Week Wrapping Your Car! Pay a $50 registration fee to start.", "isFake": true },
+  
+  { "id": 94, "variant": "real", "brand": "DroidClean", "caption": "Optimize your phone. Clean junk files and improve battery life.", "maincontext": "Clean junk files and improve battery life with DroidClean.", "isFake": false },
+  { "id": 94, "variant": "fake", "brand": "DroidClean", "caption": "Battery Damaged! Your device has viruses. Install this tool immediately.", "maincontext": "Your Mobile Device Has (3) Viruses! Install this security tool immediately.", "isFake": true },
+  
+  { "id": 95, "variant": "real", "brand": "CutePuppies", "caption": "Find your new best friend. Browse healthy puppies for adoption.", "maincontext": "Browse healthy, ethically bred puppies available for adoption.", "isFake": false },
+  { "id": 95, "variant": "fake", "brand": "CutePuppies", "caption": "Teacup Yorkies! Adorable puppies available. Pay shipping via Zelle.", "maincontext": "Pure Puppy Mills: Teacup Yorkies 90% Off! Pay shipping via Zelle to adopt.", "isFake": true },
+  
+  { "id": 96, "variant": "real", "brand": "Gillette", "caption": "The best a man can get. Precision blades for a close, smooth shave.", "maincontext": "Precision razor blades engineered for a close, smooth shave.", "isFake": false },
+  { "id": 96, "variant": "fake", "brand": "Gillette", "caption": "Free Razor Box! Claim your shaving kit, just pay $5.99 shipping.", "maincontext": "Claim your free Gillette shaving kit! Pay just $5.99 for shipping.", "isFake": true },
+  
+  { "id": 97, "variant": "real", "brand": "Lay's", "caption": "Betcha can't eat just one. Crispy, golden potato chips with quality ingredients.", "maincontext": "Crispy, golden-cooked potato chips prepared with quality ingredients.", "isFake": false },
+  { "id": 97, "variant": "fake", "brand": "Lay's", "caption": "Win Free Chips! Complete a survey to win a year's supply.", "maincontext": "Complete this survey to win a year's supply of Lay's potato chips!", "isFake": true },
+  
+  { "id": 98, "variant": "real", "brand": "Dunkin'", "caption": "America runs on Dunkin. Handcrafted coffees and hot baked donuts.", "maincontext": "Handcrafted coffees and hot baked donuts to fuel your mornings.", "isFake": false },
+  { "id": 98, "variant": "fake", "brand": "Dunkin'", "caption": "Free Coffee Alert! Get a $50 gift card for our anniversary. Verify now.", "maincontext": "Get a free $50 Dunkin' gift card for our anniversary! Click to verify.", "isFake": true },
+  
+  { "id": 99, "variant": "real", "brand": "PlayStation", "caption": "Play has no limits. Experience next-gen gaming with PS5.", "maincontext": "Experience next-gen gaming with ultra-fast loading and 3D audio.", "isFake": false },
+  { "id": 99, "variant": "fake", "brand": "PlayStation", "caption": "Free PS5 Giveaway! We are giving away 50 consoles. Pay shipping to claim.", "maincontext": "We are giving away 50 PS5 consoles! Just pay $9.99 shipping to claim yours.", "isFake": true },
+  
+  { "id": 100, "variant": "real", "brand": "Dr Pepper", "caption": "Always one of a kind. An iconic soda with 23 unique flavors.", "maincontext": "An iconic soda crafted with a signature blend of 23 unique flavors.", "isFake": false },
+  { "id": 100, "variant": "fake", "brand": "Dr Pepper", "caption": "Free Soda For Life! Lucky winner! Pay a processing fee to claim.", "maincontext": "Lucky winner! You won free Dr Pepper for life. Pay a $10 processing fee.", "isFake": true }
 ]

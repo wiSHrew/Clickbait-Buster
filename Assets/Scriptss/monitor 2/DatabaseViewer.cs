@@ -58,7 +58,7 @@ public class DatabaseViewer : MonoBehaviour
         Debug.Log("Loaded " + database.records.Length + " database records from " + path);
     }
 
-    private void CreateRow(Ad ad)
+        private void CreateRow(Ad ad)
     {
         GameObject row = Instantiate(rowPrefab, content, false);
 
@@ -69,7 +69,7 @@ public class DatabaseViewer : MonoBehaviour
         SetText(row.transform, "id",     ad.id.ToString());
         SetText(row.transform, "title",  ad.title);
         SetText(row.transform, "brand",  ad.brand);
-        SetText(row.transform, "desc",   ad.description);
+        SetText(row.transform, "desc",   ad.maincontext); // <-- FIXED HERE
         SetText(row.transform, "isFake", ad.isFake.ToString());
     }
 

@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1180178662098938576
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7202604977587646467}
+  - component: {fileID: 8959210323501942434}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7202604977587646467
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1180178662098938576}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 951.40735, y: 603.3503, z: -917.1799}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8959210323501942434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1180178662098938576}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef26d49a20f0416428fbf2c43b0096d9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AudioManager
+  scenes:
+  - sceneName: main menu
+    music: {fileID: 0}
+    musicVolume: 0
+    ambience: {fileID: 0}
+    ambienceVolume: 0
+  - sceneName: office
+    music: {fileID: 0}
+    musicVolume: 0
+    ambience: {fileID: 8300000, guid: 31dc0ad0006a51640a62f83d92221680, type: 3}
+    ambienceVolume: 1
+  - sceneName: monitor 1
+    music: {fileID: 0}
+    musicVolume: 0
+    ambience: {fileID: 8300000, guid: 31dc0ad0006a51640a62f83d92221680, type: 3}
+    ambienceVolume: 0.25
+  - sceneName: monitor 2
+    music: {fileID: 0}
+    musicVolume: 0
+    ambience: {fileID: 8300000, guid: 31dc0ad0006a51640a62f83d92221680, type: 3}
+    ambienceVolume: 0.25
+  - sceneName: settings
+    music: {fileID: 0}
+    musicVolume: 0
+    ambience: {fileID: 0}
+    ambienceVolume: 0
+  crossfadeSeconds: 0.67
+  sfx:
+  - type: 2
+    clips:
+    - {fileID: 8300000, guid: 8af7b4bc71d2b9742974f7877dae340b, type: 3}
+    volume: 1
+    pitchVariation: 0.21
+  sfxVoices: 8
+  autoButtonSounds: 0

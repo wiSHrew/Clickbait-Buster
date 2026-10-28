@@ -117,8 +117,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneFader
   image: {fileID: 8671588287605247549}
-  fadeDuration: 0.3
-  holdBlackDuration: 0.25
+  fadeDuration: 0.25
+  holdBlackDuration: 0.15
 --- !u!1 &5659124171367581846
 GameObject:
   m_ObjectHideFlags: 0
